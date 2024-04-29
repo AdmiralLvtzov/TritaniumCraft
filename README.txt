@@ -1,46 +1,31 @@
+This is GitHub repo for Minecraft mod "TritaniumCraft".
+The mod just gets started and it's made individually by AdmiralLvtzov in spare time, so the dev progress could be slow.
+The mod is based on Forge-1.19.2-43.3.0.
+The mod is not released yet, and it's scheduled for release on Minecraft Java Edition 1.19.2.
+The mod is completely open source, non-profit and licensed under GNU General Public License v3.0.
 
-Source installation information for modders
--------------------------------------------
-This code follows the Minecraft Forge installation methodology. It will apply
-some small patches to the vanilla MCP source code, giving you and it access 
-to some of the data and functions you need to build a successful mod.
+这里是Minecraft的mod"三钛工艺"的GitHub仓库。
+此mod刚刚起步，由AdmiralLvtzov独自一人在业余时间开发，所以进度可能会比较缓慢。
+此mod是基于Forge-1.19.2-43.3.0的。
+此mod尚未发布，计划在Minecraft的Java版1.19.2上发行。
+此mod是完全开源且非盈利性的，采用GNU通用公共许可证v3.0。
 
-Note also that the patches are built against "un-renamed" MCP source code (aka
-SRG Names) - this means that you will not be able to read them directly against
-normal code.
 
-Setup Process:
-==============================
 
-Step 1: Open your command-line and browse to the folder where you extracted the zip file.
 
-Step 2: You're left with a choice.
-If you prefer to use Eclipse:
-1. Run the following command: `gradlew genEclipseRuns` (`./gradlew genEclipseRuns` if you are on Mac/Linux)
-2. Open Eclipse, Import > Existing Gradle Project > Select Folder 
-   or run `gradlew eclipse` to generate the project.
 
-If you prefer to use IntelliJ:
-1. Open IDEA, and import project.
-2. Select your build.gradle file and have it import.
-3. Run the following command: `gradlew genIntellijRuns` (`./gradlew genIntellijRuns` if you are on Mac/Linux)
-4. Refresh the Gradle Project in IDEA if required.
+-----I'm a dividing line/分界线-----
 
-If at any point you are missing libraries in your IDE, or you've run into problems you can 
-run `gradlew --refresh-dependencies` to refresh the local cache. `gradlew clean` to reset everything 
-{this does not affect your code} and then start the process again.
 
-Mapping Names:
-=============================
-By default, the MDK is configured to use the official mapping names from Mojang for methods and fields 
-in the Minecraft codebase. These names are covered by a specific license. All modders should be aware of this
-license, if you do not agree with it you can change your mapping names to other crowdsourced names in your 
-build.gradle. For the latest license text, refer to the mapping file itself, or the reference copy here:
-https://github.com/MinecraftForge/MCPConfig/blob/master/Mojang.md
 
-Additional Resources: 
-=========================
-Community Documentation: https://mcforge.readthedocs.io/en/latest/gettingstarted/  
-LexManos' Install Video: https://www.youtube.com/watch?v=8VEdtQLuLO0  
-Forge Forum: https://forums.minecraftforge.net/  
-Forge Discord: https://discord.gg/UvedJ9m  
+
+
+Next step:
+Add an item called "Tritanium Ingot" to the game, probably as a kind of metallic material. ◯
+Add an item called "Biomass" to the game, probably as a kind of fuel. ✕
+
+下一步:
+添加名为"三钛合金锭"的物品到游戏里，计划将其作为一种金属材料。 ◯
+添加名为"生物质"的物品到游戏里，计划将其作为一种燃料。 ✕
+
+✓: Completed / 已完成     ◯: In progress / 正在进行     ✕: Not started yet / 尚未开始
