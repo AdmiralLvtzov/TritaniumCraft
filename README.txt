@@ -23,7 +23,7 @@ The mod is completely open source, non-profit and licensed under GNU General Pub
 Next step:
 Add an item called "Tritanium" to the game, probably as a kind of metallic materials. ◯
 Add an item called "Unstable Tritanium" to the game, probably as a kind of transitional materials. ◯
-Add an item called "Uni-Tritanium" to the game, probably as a kind of metallic materials. ◯
+Add an item called "Uni-Tritanium" to the game, probably as a kind of metallic materials. ✓
 Add an item called "Unstable Uni-Tritanium" to the game, probably as a kind of transitional materials. ◯
 Add an item called "Covalent Bond Stabilizer" to the game, probably as a kind of consumable materials. ✕
 Add an item called "Virtual Single Bond Stabilizer" to the game, probably as a kind of consumable materials. ✕
@@ -35,7 +35,7 @@ Add an item called "Deepslate Tritanium Ore" to the game, probably as a kind of 
 下一步:
 添加名为"三钛合金"的物品到游戏里，计划将其作为一种金属材料。 ◯
 添加名为"不稳定的三钛合金"的物品到游戏里，计划将其作为一种过渡材料。 ◯
-添加名为"单钛合金"的物品到游戏里，计划将其作为一种金属材料。 ◯
+添加名为"单钛合金"的物品到游戏里，计划将其作为一种金属材料。 ✓
 添加名为"不稳定的单钛合金"的物品到游戏里，计划将其作为一种过渡材料。 ◯
 添加名为"共价键稳定剂"的物品到游戏里，计划将其作为一种消耗性材料。 ✕
 添加名为"虚拟单键稳定剂"的物品到游戏里，计划将其作为一种消耗性材料。 ✕
