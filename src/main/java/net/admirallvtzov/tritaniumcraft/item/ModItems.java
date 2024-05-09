@@ -14,10 +14,10 @@ public class ModItems {
             DeferredRegister.create(ForgeRegistries.ITEMS, TritaniumCraft.MODID);
 
     public static final RegistryObject<Item> UNITRITANIUM = ITEMS.register("unitritanium",
-            () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
+            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.TRITANIUMCRAFTITEMTAB)));
 
     public static final RegistryObject<Item> TRITANIUM = ITEMS.register("tritanium",
-            () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
+            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.TRITANIUMCRAFTITEMTAB)));
 
     public static void register(IEventBus eventBus) {
 
