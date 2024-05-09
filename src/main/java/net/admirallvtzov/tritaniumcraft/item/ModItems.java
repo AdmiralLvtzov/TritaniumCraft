@@ -16,6 +16,9 @@ public class ModItems {
     public static final RegistryObject<Item> UNITRITANIUM = ITEMS.register("unitritanium",
             () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
 
+    public static final RegistryObject<Item> TRITANIUM = ITEMS.register("tritanium",
+            () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
+
     public static void register(IEventBus eventBus) {
 
         ITEMS.register(eventBus);
