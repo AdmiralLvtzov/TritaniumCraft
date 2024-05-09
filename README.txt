@@ -45,3 +45,62 @@ Add an item called "Deepslate Tritanium Ore" to the game, probably as a kind of 
 添加名为"深层三钛矿石"的物品到游戏里，计划将其作为一种原矿。 ✕
 
 ✓: Completed / 已完成     ◯: In progress / 正在进行     ✕: Not started yet / 尚未开始
+
+
+
+
+
+-----I'm a dividing line/分界线-----
+
+
+
+
+
+                                          mining
+Tritanium Ore / Deepslate Tritanium Ore ==========> Ilmentrite
+
+             grinding
+Ilmentrite ============> Raw Tritanium + Raw Iron
+
+                             smelting
+Ilmentrite / Raw Tritanium ============> Unstable Uni-Tritanium
+
+
+Lapis Lazuli + Coal x 4 ====> Virtual Single Bond Stabilizer
+
+
+Unstable Uni-Tritanium + Virtual Single Bond Stabilizer ====> Uni-Tritanium
+
+
+Unstable Uni-Tritanium x 3 ====> Unstable Tritanium
+
+
+Lapis Lazuli x 3 ====> Covalent Bond Stabilizer
+
+
+Unstable Tritanium + Covalent Bond Stabilizer ====> Tritanium
+
+
+                       挖矿
+三钛矿石 / 深层三钛矿石 ========> 三钛铁矿
+
+          研磨
+三钛铁矿 ========> 粗质三钛 + 粗铁
+
+                   烧炼
+三钛铁矿 / 粗质三钛 ========> 不稳定的单钛合金
+
+
+青金石 + 煤炭 x 4 ====> 虚拟单键稳定剂
+
+
+不稳定的单钛合金 + 虚拟单键稳定剂 ====> 单钛合金
+
+
+不稳定的单钛合金 x 3 ====> 不稳定的三钛合金
+
+
+青金石 x 3 ====> 共价键稳定剂
+
+
+不稳定的三钛合金 + 共价键稳定剂 ====> 三钛合金
