@@ -19,6 +19,12 @@ public class ModItems {
     public static final RegistryObject<Item> TRITANIUM = ITEMS.register("tritanium",
             () -> new Item(new Item.Properties().tab(ModCreativeModeTab.TRITANIUMCRAFTITEMTAB)));
 
+    public static final RegistryObject<Item> UNSTABLEUNITRITANIUM = ITEMS.register("unstableunitritanium",
+            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.TRITANIUMCRAFTITEMTAB)));
+
+    public static final RegistryObject<Item> UNSTABLETRITANIUM = ITEMS.register("unstabletritanium",
+            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.TRITANIUMCRAFTITEMTAB)));
+
     public static void register(IEventBus eventBus) {
 
         ITEMS.register(eventBus);
