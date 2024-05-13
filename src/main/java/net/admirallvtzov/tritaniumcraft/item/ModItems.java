@@ -25,6 +25,12 @@ public class ModItems {
     public static final RegistryObject<Item> UNSTABLETRITANIUM = ITEMS.register("unstabletritanium",
             () -> new Item(new Item.Properties().tab(ModCreativeModeTab.TRITANIUMCRAFTITEMTAB)));
 
+    public static final RegistryObject<Item> RAWTRITANIUM = ITEMS.register("rawtritanium",
+            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.TRITANIUMCRAFTITEMTAB)));
+
+    public static final RegistryObject<Item> ILMENTRITE = ITEMS.register("ilmentrite",
+            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.TRITANIUMCRAFTITEMTAB)));
+
     public static void register(IEventBus eventBus) {
 
         ITEMS.register(eventBus);
