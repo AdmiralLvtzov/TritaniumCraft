@@ -32,8 +32,8 @@ Add an item called "Ilmentrite" to the game, probably as a kind of mining drops.
 Add an item called "Tritanium Ore" to the game, probably as a kind of raw ores. ✓
 Add an item called "Deepslate Tritanium Ore" to the game, probably as a kind of raw ores. ✓
 Add an item called "Sledgehammer" to the game, probably as a kind of consumable tools with durability. ◯
-Add an item called "Block of Tritanium" to the game, probably as a kind of mineral blocks. ◯
-Add an item called "Block of Uni-Tritanium" to the game, probably as a kind of mineral blocks. ◯
+Add an item called "Block of Tritanium" to the game, probably as a kind of mineral blocks. ✓
+Add an item called "Block of Uni-Tritanium" to the game, probably as a kind of mineral blocks. ✓
 Plan to add a sword and a whole set of tools & armors, which are all using tritanium as the material. They're very likely to be assigned similar stats as diamond items. ✕
 Plan to add a sword and a whole set of tools & armors, which are all using uni-tritanium as the material. They're very likely to be assigned the same stats as iron items. ✕
 Plan to make uni-tritanium a substitute for iron ingots (maybe only in some cases). ✕
@@ -50,8 +50,8 @@ Plan to make uni-tritanium a substitute for iron ingots (maybe only in some case
 添加名为"三钛矿石"的物品到游戏里，计划将其作为一种原矿。 ✓
 添加名为"深层三钛矿石"的物品到游戏里，计划将其作为一种原矿。 ✓
 添加名为"大锤"的物品到游戏里，计划将其作为一种有耐久度的消耗性工具。 ◯
-添加名为"三钛块"的物品到游戏里，计划将其作为一种矿物块。 ◯
-添加名为"单钛块"的物品到游戏里，计划将其作为一种矿物块。 ◯
+添加名为"三钛块"的物品到游戏里，计划将其作为一种矿物块。 ✓
+添加名为"单钛块"的物品到游戏里，计划将其作为一种矿物块。 ✓
 计划为三钛合金添加一整套对应的工具，盔甲和剑。可能使用与钻石质物品差不多的数据。 ✕
 计划为单钛合金添加一整套对应的工具，盔甲和剑。可能使用与铁质物品相同的数据。 ✕
 计划让单钛合金可以（部分的）代替铁锭。 ✕

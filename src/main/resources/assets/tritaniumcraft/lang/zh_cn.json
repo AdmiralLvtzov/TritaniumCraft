@@ -8,6 +8,8 @@
 
   "block.tritaniumcraft.tritaniumore": "三钛矿石",
   "block.tritaniumcraft.deepslatetritaniumore": "深层三钛矿石",
+  "block.tritaniumcraft.blockoftritanium": "三钛块",
+  "block.tritaniumcraft.blockofunitritanium": "单钛块",
 
   "itemGroup.tritaniumcraftitemtab": "TritaniumCraft的物品",
   "itemGroup.tritaniumcraftblocktab": "TritaniumCraft的方块",
