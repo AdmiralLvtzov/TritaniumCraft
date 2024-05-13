@@ -27,13 +27,13 @@ public class ModBlocks {
             BlockBehaviour.Properties.of(Material.STONE)
                     .strength(3)
                     .requiresCorrectToolForDrops(),
-            UniformInt.of(1,2)),
+                    UniformInt.of(1,2)),
             ModCreativeModeTab.TRITANIUMCRAFTBLOCKTAB);
 
     public static final RegistryObject<Block> DEEPSLATETRITANIUMORE = registerBlock("deepslatetritaniumore", () -> new DropExperienceBlock(
-                    BlockBehaviour.Properties.of(Material.STONE)
-                            .strength(4)
-                            .requiresCorrectToolForDrops(),
+            BlockBehaviour.Properties.of(Material.STONE)
+                    .strength(4)
+                    .requiresCorrectToolForDrops(),
                     UniformInt.of(1,3)),
             ModCreativeModeTab.TRITANIUMCRAFTBLOCKTAB);
 
