@@ -2,7 +2,7 @@ This is GitHub repo for Minecraft mod "TritaniumCraft".
 The mod just gets started and it's made individually by AdmiralLvtzov in spare time, so the dev progress could be slow.
 The mod is based on Forge-1.19.2-43.3.0.
 The mod is not released yet, and it's scheduled for release on Minecraft Java Edition 1.19.2.
-The mod is completely open source, non-profit and licensed under GNU General Public License v3.0.
+The mod is completely open source and non-profit. It adopts the license GNU General Public License v3.0.
 
 这里是Minecraft的mod"三钛工艺"的GitHub仓库。
 此mod刚刚起步，由AdmiralLvtzov独自一人在业余时间开发，所以进度可能会比较缓慢。
