@@ -6,6 +6,8 @@
   "item.tritaniumcraft.rawtritanium": "粗质三钛",
   "item.tritaniumcraft.ilmentrite": "三钛铁矿",
 
+  "block.tritaniumcraft.tritaniumore": "三钛矿石",
+
   "itemGroup.tritaniumcraftitemtab": "TritaniumCraft的物品",
   "itemGroup.tritaniumcraftblocktab": "TritaniumCraft的方块",
   "itemGroup.tritaniumcraftmachinetab": "TritaniumCraft的机器"
