@@ -30,6 +30,13 @@ public class ModBlocks {
             UniformInt.of(1,2)),
             ModCreativeModeTab.TRITANIUMCRAFTBLOCKTAB);
 
+    public static final RegistryObject<Block> DEEPSLATETRITANIUMORE = registerBlock("deepslatetritaniumore", () -> new DropExperienceBlock(
+                    BlockBehaviour.Properties.of(Material.STONE)
+                            .strength(4)
+                            .requiresCorrectToolForDrops(),
+                    UniformInt.of(1,3)),
+            ModCreativeModeTab.TRITANIUMCRAFTBLOCKTAB);
+
     private static <T extends Block> RegistryObject<T> registerBlock(String name, Supplier<T> block, CreativeModeTab tab) {
 
         RegistryObject<T> toReturn = BLOCKS.register(name, block);
