@@ -1,5 +1,6 @@
 package net.admirallvtzov.tritaniumcraft.item;
 
+import net.admirallvtzov.tritaniumcraft.block.ModBlocks;
 import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.item.ItemStack;
@@ -19,7 +20,7 @@ public class ModCreativeModeTab {
 
         @Override
         public ItemStack makeIcon() {
-            return new ItemStack(ModItems.UNSTABLETRITANIUM.get());
+            return new ItemStack(ModBlocks.BLOCKOFTRITANIUM.get());
         }
 
     };
