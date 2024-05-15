@@ -96,7 +96,7 @@ Unstable Tritanium + Covalent Bond Stabilizer ====> Tritanium ◯
 Tritanium x 5 + Stick x 2 ====> Sledgehammer (for crushing) ◯
 
 
-Uni-Tritanium x 9 ====> Block of Uni-Tritanium ◯
+Uni-Tritanium x 9 ====> Block of Uni-Tritanium ✓
 
 
 Tritanium x 9 ====> Block of Tritanium ◯
@@ -130,7 +130,7 @@ Tritanium x 9 ====> Block of Tritanium ◯
 三钛合金 x 5 + 木棍 x 2 ====> 大锤 (用于敲碎) ◯
 
 
-单钛合金 x 9 ====> 单钛块 ◯
+单钛合金 x 9 ====> 单钛块 ✓
 
 
 三钛合金 x 9 ====> 三钛块 ◯
