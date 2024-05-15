@@ -1,7 +1,6 @@
 package net.admirallvtzov.tritaniumcraft.item;
 
 import net.admirallvtzov.tritaniumcraft.TritaniumCraft;
-import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.Item;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
