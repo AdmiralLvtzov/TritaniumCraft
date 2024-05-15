@@ -31,6 +31,15 @@ public class ModItems {
     public static final RegistryObject<Item> ILMENTRITE = ITEMS.register("ilmentrite",
             () -> new Item(new Item.Properties().tab(ModCreativeModeTab.TRITANIUMCRAFTITEMTAB)));
 
+    public static final RegistryObject<Item> COVALENTBONDSTABILIZER = ITEMS.register("covalentbondstabilizer",
+            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.TRITANIUMCRAFTITEMTAB)));
+
+    public static final RegistryObject<Item> VIRTUALSINGLEBONDSTABILIZER = ITEMS.register("virtualsinglebondstabilizer",
+            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.TRITANIUMCRAFTITEMTAB)));
+
+    public static final RegistryObject<Item> SLEDGEHAMMER = ITEMS.register("sledgehammer",
+            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.TRITANIUMCRAFTITEMTAB)));
+
     public static void register(IEventBus eventBus) {
 
         ITEMS.register(eventBus);
