@@ -84,7 +84,7 @@ Lapis Lazuli + Coal x 4 + Water Bottle ====> Virtual Single Bond Stabilizer ◯
 Unstable Uni-Tritanium + Virtual Single Bond Stabilizer ====> Uni-Tritanium ✓
 
 
-Unstable Uni-Tritanium x 3 + Stone x 6 ====> Unstable Tritanium ◯
+Unstable Uni-Tritanium x 3 + Stone x 6 ====> Unstable Tritanium ✓
 
 
 Lapis Lazuli x 3 + Water Bottle ====> Covalent Bond Stabilizer ◯
@@ -93,7 +93,7 @@ Lapis Lazuli x 3 + Water Bottle ====> Covalent Bond Stabilizer ◯
 Unstable Tritanium + Covalent Bond Stabilizer ====> Tritanium ✓
 
 
-Tritanium x 6 + Stick x 1 ====> Sledgehammer (for crushing) ◯
+Tritanium x 6 + Stick x 1 ====> Sledgehammer (for crushing) ✓
 
 
 Uni-Tritanium x 9 ====> Block of Uni-Tritanium ✓
@@ -118,7 +118,7 @@ Tritanium x 9 ====> Block of Tritanium ✓
 不稳定的单钛合金 + 虚拟单键稳定剂 ====> 单钛合金 ✓
 
 
-不稳定的单钛合金 x 3 + 石头 x 6 ====> 不稳定的三钛合金 ◯
+不稳定的单钛合金 x 3 + 石头 x 6 ====> 不稳定的三钛合金 ✓
 
 
 青金石 x 3 + 水瓶 ====> 共价键稳定剂 ◯
@@ -127,7 +127,7 @@ Tritanium x 9 ====> Block of Tritanium ✓
 不稳定的三钛合金 + 共价键稳定剂 ====> 三钛合金 ✓
 
 
-三钛合金 x 6 + 木棍 x 1 ====> 大锤 (用于敲碎) ◯
+三钛合金 x 6 + 木棍 x 1 ====> 大锤 (用于敲碎) ✓
 
 
 单钛合金 x 9 ====> 单钛块 ✓

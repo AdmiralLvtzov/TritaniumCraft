@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "tritaniumcraft:tritanium"
+    }
+  },
+  "pattern": [
+    "XXX",
+    "XXX",
+    " # "
+  ],
+  "result": {
+    "item": "tritaniumcraft:sledgehammer"
+  }
+}
