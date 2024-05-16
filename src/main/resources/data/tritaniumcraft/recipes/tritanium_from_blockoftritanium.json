@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "tritanium",
+  "ingredients": [
+    {
+      "item": "tritaniumcraft:blockoftritanium"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "tritaniumcraft:tritanium"
+  }
+}

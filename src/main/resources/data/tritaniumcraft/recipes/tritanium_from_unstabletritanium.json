@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "tritanium",
+  "ingredients": [
+    {
+      "item": "tritaniumcraft:unstabletritanium"
+    },
+    {
+      "item": "tritaniumcraft:covalentbondstabilizer"
+    }
+  ],
+  "result": {
+    "item": "tritaniumcraft:tritanium"
+  }
+}

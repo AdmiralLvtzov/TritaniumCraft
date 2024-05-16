@@ -81,7 +81,7 @@ Tritanium Ore / Deepslate Tritanium Ore / Ilmentrite / Raw Tritanium ===========
 Lapis Lazuli + Coal x 4 + Water Bottle ====> Virtual Single Bond Stabilizer ◯
 
 
-Unstable Uni-Tritanium + Virtual Single Bond Stabilizer ====> Uni-Tritanium ◯
+Unstable Uni-Tritanium + Virtual Single Bond Stabilizer ====> Uni-Tritanium ✓
 
 
 Unstable Uni-Tritanium x 3 ====> Unstable Tritanium ◯
@@ -90,7 +90,7 @@ Unstable Uni-Tritanium x 3 ====> Unstable Tritanium ◯
 Lapis Lazuli x 3 + Water Bottle ====> Covalent Bond Stabilizer ◯
 
 
-Unstable Tritanium + Covalent Bond Stabilizer ====> Tritanium ◯
+Unstable Tritanium + Covalent Bond Stabilizer ====> Tritanium ✓
 
 
 Tritanium x 5 + Stick x 2 ====> Sledgehammer (for crushing) ◯
@@ -99,7 +99,7 @@ Tritanium x 5 + Stick x 2 ====> Sledgehammer (for crushing) ◯
 Uni-Tritanium x 9 ====> Block of Uni-Tritanium ✓
 
 
-Tritanium x 9 ====> Block of Tritanium ◯
+Tritanium x 9 ====> Block of Tritanium ✓
 
 
                        挖矿
@@ -115,7 +115,7 @@ Tritanium x 9 ====> Block of Tritanium ◯
 青金石 + 煤炭 x 4 + 水瓶 ====> 虚拟单键稳定剂 ◯
 
 
-不稳定的单钛合金 + 虚拟单键稳定剂 ====> 单钛合金 ◯
+不稳定的单钛合金 + 虚拟单键稳定剂 ====> 单钛合金 ✓
 
 
 不稳定的单钛合金 x 3 ====> 不稳定的三钛合金 ◯
@@ -124,7 +124,7 @@ Tritanium x 9 ====> Block of Tritanium ◯
 青金石 x 3 + 水瓶 ====> 共价键稳定剂 ◯
 
 
-不稳定的三钛合金 + 共价键稳定剂 ====> 三钛合金 ◯
+不稳定的三钛合金 + 共价键稳定剂 ====> 三钛合金 ✓
 
 
 三钛合金 x 5 + 木棍 x 2 ====> 大锤 (用于敲碎) ◯
@@ -133,7 +133,7 @@ Tritanium x 9 ====> Block of Tritanium ◯
 单钛合金 x 9 ====> 单钛块 ✓
 
 
-三钛合金 x 9 ====> 三钛块 ◯
+三钛合金 x 9 ====> 三钛块 ✓
 
 
 ✓: Completed / 已完成     ◯: In progress / 正在进行     ✕: Not started yet / 尚未开始
