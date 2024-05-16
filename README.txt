@@ -77,6 +77,9 @@ Ilmentrite ============> Raw Tritanium + Raw Iron ◯
                                                                        smelting
 Tritanium Ore / Deepslate Tritanium Ore / Ilmentrite / Raw Tritanium ============> Unstable Uni-Tritanium ◯
 
+                                                                       blasting
+Tritanium Ore / Deepslate Tritanium Ore / Ilmentrite / Raw Tritanium ============> Unstable Uni-Tritanium ◯
+
 
 Lapis Lazuli + Coal x 4 + Water Bottle ====> Virtual Single Bond Stabilizer ◯
 
@@ -110,6 +113,9 @@ Tritanium x 9 ====> Block of Tritanium ✓
 
                                          烧炼
 三钛矿石 / 深层三钛矿石 / 三钛铁矿 / 粗质三钛 ========> 不稳定的单钛合金 ◯
+
+                                         高炉烧炼
+三钛矿石 / 深层三钛矿石 / 三钛铁矿 / 粗质三钛 ==========> 不稳定的单钛合金 ◯
 
 
 青金石 + 煤炭 x 4 + 水瓶 ====> 虚拟单键稳定剂 ◯
