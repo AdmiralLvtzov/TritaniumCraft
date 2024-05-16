@@ -69,10 +69,10 @@ Plan to make uni-tritanium a substitute for iron ingots (maybe only in some case
 
 
                                           mining
-Tritanium Ore / Deepslate Tritanium Ore ==========> Ilmentrite ✕
+Tritanium Ore / Deepslate Tritanium Ore ==========> Ilmentrite ◯
 
              crushing
-Ilmentrite ============> Raw Tritanium + Raw Iron ✕
+Ilmentrite ============> Raw Tritanium + Raw Iron ◯
 
                                                                        smelting
 Tritanium Ore / Deepslate Tritanium Ore / Ilmentrite / Raw Tritanium ============> Unstable Uni-Tritanium ◯
@@ -84,7 +84,7 @@ Lapis Lazuli + Coal x 4 + Water Bottle ====> Virtual Single Bond Stabilizer ◯
 Unstable Uni-Tritanium + Virtual Single Bond Stabilizer ====> Uni-Tritanium ✓
 
 
-Unstable Uni-Tritanium x 3 ====> Unstable Tritanium ◯
+Unstable Uni-Tritanium x 3 + Stone x 6 ====> Unstable Tritanium ◯
 
 
 Lapis Lazuli x 3 + Water Bottle ====> Covalent Bond Stabilizer ◯
@@ -93,7 +93,7 @@ Lapis Lazuli x 3 + Water Bottle ====> Covalent Bond Stabilizer ◯
 Unstable Tritanium + Covalent Bond Stabilizer ====> Tritanium ✓
 
 
-Tritanium x 5 + Stick x 2 ====> Sledgehammer (for crushing) ◯
+Tritanium x 6 + Stick x 1 ====> Sledgehammer (for crushing) ◯
 
 
 Uni-Tritanium x 9 ====> Block of Uni-Tritanium ✓
@@ -103,10 +103,10 @@ Tritanium x 9 ====> Block of Tritanium ✓
 
 
                        挖矿
-三钛矿石 / 深层三钛矿石 ========> 三钛铁矿 ✕
+三钛矿石 / 深层三钛矿石 ========> 三钛铁矿 ◯
 
           敲碎
-三钛铁矿 ========> 粗质三钛 + 粗铁 ✕
+三钛铁矿 ========> 粗质三钛 + 粗铁 ◯
 
                                          烧炼
 三钛矿石 / 深层三钛矿石 / 三钛铁矿 / 粗质三钛 ========> 不稳定的单钛合金 ◯
@@ -118,7 +118,7 @@ Tritanium x 9 ====> Block of Tritanium ✓
 不稳定的单钛合金 + 虚拟单键稳定剂 ====> 单钛合金 ✓
 
 
-不稳定的单钛合金 x 3 ====> 不稳定的三钛合金 ◯
+不稳定的单钛合金 x 3 + 石头 x 6 ====> 不稳定的三钛合金 ◯
 
 
 青金石 x 3 + 水瓶 ====> 共价键稳定剂 ◯
@@ -127,7 +127,7 @@ Tritanium x 9 ====> Block of Tritanium ✓
 不稳定的三钛合金 + 共价键稳定剂 ====> 三钛合金 ✓
 
 
-三钛合金 x 5 + 木棍 x 2 ====> 大锤 (用于敲碎) ◯
+三钛合金 x 6 + 木棍 x 1 ====> 大锤 (用于敲碎) ◯
 
 
 单钛合金 x 9 ====> 单钛块 ✓
