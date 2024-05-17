@@ -28,26 +28,26 @@ public class ModBlocks {
                     .strength(3)
                     .requiresCorrectToolForDrops(),
                     UniformInt.of(1,2)),
-            ModCreativeModeTab.TRITANIUMCRAFTBLOCKTAB);
+            ModCreativeModeTab.BLOCK_TAB_OF_TRITANIUMCRAFT);
 
     public static final RegistryObject<Block> DEEPSLATETRITANIUMORE = registerBlock("deepslatetritaniumore", () -> new DropExperienceBlock(
             BlockBehaviour.Properties.of(Material.STONE)
                     .strength(4)
                     .requiresCorrectToolForDrops(),
                     UniformInt.of(1,3)),
-            ModCreativeModeTab.TRITANIUMCRAFTBLOCKTAB);
+            ModCreativeModeTab.BLOCK_TAB_OF_TRITANIUMCRAFT);
 
     public static final RegistryObject<Block> BLOCKOFTRITANIUM = registerBlock("blockoftritanium", () -> new Block(
             BlockBehaviour.Properties.of(Material.METAL)
                     .strength(5)
                     .requiresCorrectToolForDrops()),
-            ModCreativeModeTab.TRITANIUMCRAFTBLOCKTAB);
+            ModCreativeModeTab.BLOCK_TAB_OF_TRITANIUMCRAFT);
 
     public static final RegistryObject<Block> BLOCKOFUNITRITANIUM = registerBlock("blockofunitritanium", () -> new Block(
             BlockBehaviour.Properties.of(Material.METAL)
                     .strength(5)
                     .requiresCorrectToolForDrops()),
-            ModCreativeModeTab.TRITANIUMCRAFTBLOCKTAB);
+            ModCreativeModeTab.BLOCK_TAB_OF_TRITANIUMCRAFT);
 
     private static <T extends Block> RegistryObject<T> registerBlock(String name, Supplier<T> block, CreativeModeTab tab) {
 

@@ -14,7 +14,9 @@
   "block.tritaniumcraft.blockoftritanium": "三鈦塊",
   "block.tritaniumcraft.blockofunitritanium": "單鈦塊",
 
-  "itemGroup.tritaniumcraftitemtab": "TritaniumCraft的物品",
-  "itemGroup.tritaniumcraftblocktab": "TritaniumCraft的方塊",
-  "itemGroup.tritaniumcraftmachinetab": "TritaniumCraft的機器"
+  "itemGroup.item_tab_of_tritaniumcraft": "TritaniumCraft的物品",
+  "itemGroup.tool_tab_of_tritaniumcraft": "TritaniumCraft的工具",
+  "itemGroup.block_tab_of_tritaniumcraft": "TritaniumCraft的方塊",
+  "itemGroup.machine_tab_of_tritaniumcraft": "TritaniumCraft的機器",
+  "itemGroup.items_under_dev_of_tritaniumcraft": "TritaniumCraft正在開發中的物品"
 }
