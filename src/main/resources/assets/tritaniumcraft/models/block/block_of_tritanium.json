@@ -1,6 +1,6 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "tritaniumcraft:block/tritaniumore"
+    "all": "tritaniumcraft:block/block_of_tritanium"
   }
 }

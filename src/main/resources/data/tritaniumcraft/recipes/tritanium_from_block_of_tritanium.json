@@ -3,7 +3,7 @@
   "group": "tritanium",
   "ingredients": [
     {
-      "item": "tritaniumcraft:blockoftritanium"
+      "item": "tritaniumcraft:block_of_tritanium"
     }
   ],
   "result": {

@@ -23,30 +23,30 @@ public class ModBlocks {
     public static final DeferredRegister<Block> BLOCKS =
             DeferredRegister.create(ForgeRegistries.BLOCKS, TritaniumCraft.MODID);
 
-    public static final RegistryObject<Block> TRITANIUMORE = registerBlock("tritaniumore", () -> new DropExperienceBlock(
+    public static final RegistryObject<Block> BLOCK_OF_TRITANIUM = registerBlock("block_of_tritanium", () -> new Block(
+                    BlockBehaviour.Properties.of(Material.METAL)
+                            .strength(5)
+                            .requiresCorrectToolForDrops()),
+            ModCreativeModeTab.BLOCK_TAB_OF_TRITANIUMCRAFT);
+
+    public static final RegistryObject<Block> BLOCK_OF_UNITRITANIUM = registerBlock("block_of_unitritanium", () -> new Block(
+                    BlockBehaviour.Properties.of(Material.METAL)
+                            .strength(2)
+                            .requiresCorrectToolForDrops()),
+            ModCreativeModeTab.BLOCK_TAB_OF_TRITANIUMCRAFT);
+
+    public static final RegistryObject<Block> TRITANIUM_ORE = registerBlock("tritanium_ore", () -> new DropExperienceBlock(
             BlockBehaviour.Properties.of(Material.STONE)
                     .strength(3)
                     .requiresCorrectToolForDrops(),
                     UniformInt.of(1,2)),
             ModCreativeModeTab.BLOCK_TAB_OF_TRITANIUMCRAFT);
 
-    public static final RegistryObject<Block> DEEPSLATETRITANIUMORE = registerBlock("deepslatetritaniumore", () -> new DropExperienceBlock(
+    public static final RegistryObject<Block> DEEPSLATE_TRITANIUM_ORE = registerBlock("deepslate_tritanium_ore", () -> new DropExperienceBlock(
             BlockBehaviour.Properties.of(Material.STONE)
                     .strength(4)
                     .requiresCorrectToolForDrops(),
                     UniformInt.of(1,3)),
-            ModCreativeModeTab.BLOCK_TAB_OF_TRITANIUMCRAFT);
-
-    public static final RegistryObject<Block> BLOCKOFTRITANIUM = registerBlock("blockoftritanium", () -> new Block(
-            BlockBehaviour.Properties.of(Material.METAL)
-                    .strength(5)
-                    .requiresCorrectToolForDrops()),
-            ModCreativeModeTab.BLOCK_TAB_OF_TRITANIUMCRAFT);
-
-    public static final RegistryObject<Block> BLOCKOFUNITRITANIUM = registerBlock("blockofunitritanium", () -> new Block(
-            BlockBehaviour.Properties.of(Material.METAL)
-                    .strength(5)
-                    .requiresCorrectToolForDrops()),
             ModCreativeModeTab.BLOCK_TAB_OF_TRITANIUMCRAFT);
 
     private static <T extends Block> RegistryObject<T> registerBlock(String name, Supplier<T> block, CreativeModeTab tab) {

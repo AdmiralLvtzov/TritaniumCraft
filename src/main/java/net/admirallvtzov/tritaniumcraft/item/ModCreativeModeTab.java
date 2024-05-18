@@ -28,7 +28,7 @@ public class ModCreativeModeTab {
 
         @Override
         public ItemStack makeIcon() {
-            return new ItemStack(ModBlocks.BLOCKOFTRITANIUM.get());
+            return new ItemStack(ModBlocks.BLOCK_OF_TRITANIUM.get());
         }
 
     };

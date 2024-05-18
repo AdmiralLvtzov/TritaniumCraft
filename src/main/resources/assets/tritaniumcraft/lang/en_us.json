@@ -9,10 +9,10 @@
   "item.tritaniumcraft.virtualsinglebondstabilizer": "Virtual Single Bond Stabilizer",
   "item.tritaniumcraft.sledgehammer": "Sledgehammer",
 
-  "block.tritaniumcraft.tritaniumore": "Tritanium Ore",
-  "block.tritaniumcraft.deepslatetritaniumore": "Deepslate Tritanium Ore",
-  "block.tritaniumcraft.blockoftritanium": "Block of Tritanium",
-  "block.tritaniumcraft.blockofunitritanium": "Block of Uni-Tritanium",
+  "block.tritaniumcraft.block_of_tritanium": "Block of Tritanium",
+  "block.tritaniumcraft.block_of_unitritanium": "Block of Uni-Tritanium",
+  "block.tritaniumcraft.tritanium_ore": "Tritanium Ore",
+  "block.tritaniumcraft.deepslate_tritanium_ore": "Deepslate Tritanium Ore",
 
   "itemGroup.item_tab_of_tritaniumcraft": "Items of TritaniumCraft",
   "itemGroup.tool_tab_of_tritaniumcraft": "Tools of TritaniumCraft",

@@ -9,10 +9,10 @@
   "item.tritaniumcraft.virtualsinglebondstabilizer": "虛擬單鍵穩定劑",
   "item.tritaniumcraft.sledgehammer": "大錘",
 
-  "block.tritaniumcraft.tritaniumore": "三鈦礦石",
-  "block.tritaniumcraft.deepslatetritaniumore": "深層三鈦礦石",
-  "block.tritaniumcraft.blockoftritanium": "三鈦塊",
-  "block.tritaniumcraft.blockofunitritanium": "單鈦塊",
+  "block.tritaniumcraft.block_of_tritanium": "三鈦塊",
+  "block.tritaniumcraft.block_of_unitritanium": "單鈦塊",
+  "block.tritaniumcraft.tritanium_ore": "三鈦礦石",
+  "block.tritaniumcraft.deepslate_tritanium_ore": "深層三鈦礦石",
 
   "itemGroup.item_tab_of_tritaniumcraft": "TritaniumCraft的物品",
   "itemGroup.tool_tab_of_tritaniumcraft": "TritaniumCraft的工具",
