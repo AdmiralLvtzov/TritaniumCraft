@@ -71,8 +71,8 @@ Plan to make uni-tritanium a substitute for iron ingots (maybe only in some case
                                           mining
 Tritanium Ore / Deepslate Tritanium Ore ==========> Ilmentrite ◯
 
-             crushing
-Ilmentrite ============> Raw Tritanium + Raw Iron ◯
+                                crushing
+Ilmentrite x 2 + Sledgehammer ============> Raw Tritanium x 3 + Sledgehammer ✕
 
                                                                        smelting
 Tritanium Ore / Deepslate Tritanium Ore / Ilmentrite / Raw Tritanium ============> Unstable Uni-Tritanium ✓
@@ -81,7 +81,7 @@ Tritanium Ore / Deepslate Tritanium Ore / Ilmentrite / Raw Tritanium ===========
 Tritanium Ore / Deepslate Tritanium Ore / Ilmentrite / Raw Tritanium ============> Unstable Uni-Tritanium ✓
 
 
-Lapis Lazuli + Coal x 4 + Flint + Iron Nugget + Water Bottle ====> Virtual Single Bond Stabilizer x 4 ◯
+Lapis Lazuli + Coal x 4 + Flint + Iron Nugget + Glass Bottle ====> Virtual Single Bond Stabilizer x 4 ◯
 
 
 Unstable Uni-Tritanium + Virtual Single Bond Stabilizer ====> Uni-Tritanium ✓
@@ -90,7 +90,7 @@ Unstable Uni-Tritanium + Virtual Single Bond Stabilizer ====> Uni-Tritanium ✓
 Unstable Uni-Tritanium x 3 + Stone x 6 ====> Unstable Tritanium ✓
 
 
-Lapis Lazuli x 3 + Redstone Dust x 3 + Gold Nugget + Water Bottle ====> Covalent Bond Stabilizer x 3 ◯
+Lapis Lazuli x 3 + Redstone Dust x 3 + Gold Nugget + Glass Bottle ====> Covalent Bond Stabilizer x 3 ◯
 
 
 Unstable Tritanium + Covalent Bond Stabilizer ====> Tritanium ✓
@@ -108,8 +108,8 @@ Tritanium x 9 ====> Block of Tritanium ✓
                        挖矿
 三钛矿石 / 深层三钛矿石 ========> 三钛铁矿 ◯
 
-          敲碎
-三钛铁矿 ========> 粗质三钛 + 粗铁 ◯
+                    敲碎
+三钛铁矿 x 2 + 大锤 ========> 粗质三钛 x 3 + 大锤 ✕
 
                                          烧炼
 三钛矿石 / 深层三钛矿石 / 三钛铁矿 / 粗质三钛 ========> 不稳定的单钛合金 ✓
@@ -118,7 +118,7 @@ Tritanium x 9 ====> Block of Tritanium ✓
 三钛矿石 / 深层三钛矿石 / 三钛铁矿 / 粗质三钛 ==========> 不稳定的单钛合金 ✓
 
 
-青金石 + 煤炭 x 4 + 燧石 + 铁粒 + 水瓶 ====> 虚拟单键稳定剂 x 4 ◯
+青金石 + 煤炭 x 4 + 燧石 + 铁粒 + 玻璃瓶 ====> 虚拟单键稳定剂 x 4 ◯
 
 
 不稳定的单钛合金 + 虚拟单键稳定剂 ====> 单钛合金 ✓
@@ -127,7 +127,7 @@ Tritanium x 9 ====> Block of Tritanium ✓
 不稳定的单钛合金 x 3 + 石头 x 6 ====> 不稳定的三钛合金 ✓
 
 
-青金石 x 3 + 红石粉 x 3 + 金粒 + 水瓶 ====> 共价键稳定剂 x 3 ◯
+青金石 x 3 + 红石粉 x 3 + 金粒 + 玻璃瓶 ====> 共价键稳定剂 x 3 ◯
 
 
 不稳定的三钛合金 + 共价键稳定剂 ====> 三钛合金 ✓
