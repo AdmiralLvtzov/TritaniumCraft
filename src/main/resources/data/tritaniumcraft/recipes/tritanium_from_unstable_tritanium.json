@@ -3,10 +3,10 @@
   "group": "tritanium",
   "ingredients": [
     {
-      "item": "tritaniumcraft:unstabletritanium"
+      "item": "tritaniumcraft:unstable_tritanium"
     },
     {
-      "item": "tritaniumcraft:covalentbondstabilizer"
+      "item": "tritaniumcraft:covalent_bond_stabilizer"
     }
   ],
   "result": {

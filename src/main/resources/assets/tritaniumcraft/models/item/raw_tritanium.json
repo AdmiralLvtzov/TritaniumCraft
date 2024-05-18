@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "tritaniumcraft:item/rawtritanium"
+    "layer0": "tritaniumcraft:item/raw_tritanium"
   }
 }

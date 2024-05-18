@@ -3,10 +3,10 @@
   "group": "unitritanium",
   "ingredients": [
     {
-      "item": "tritaniumcraft:unstableunitritanium"
+      "item": "tritaniumcraft:unstable_unitritanium"
     },
     {
-      "item": "tritaniumcraft:virtualsinglebondstabilizer"
+      "item": "tritaniumcraft:virtual_single_bond_stabilizer"
     }
   ],
   "result": {

@@ -10,7 +10,7 @@ public class ModCreativeModeTab {
 
         @Override
         public ItemStack makeIcon() {
-            return new ItemStack(ModItems.UNSTABLETRITANIUM.get());
+            return new ItemStack(ModItems.UNSTABLE_TRITANIUM.get());
         }
 
     };
@@ -37,7 +37,7 @@ public class ModCreativeModeTab {
 
         @Override
         public ItemStack makeIcon() {
-            return new ItemStack(ModItems.UNSTABLETRITANIUM.get());
+            return new ItemStack(ModItems.UNSTABLE_TRITANIUM.get());
         }
 
     };
@@ -46,7 +46,7 @@ public class ModCreativeModeTab {
 
         @Override
         public ItemStack makeIcon() {
-            return new ItemStack(ModItems.UNSTABLEUNITRITANIUM.get());
+            return new ItemStack(ModItems.UNSTABLE_UNITRITANIUM.get());
         }
 
     };

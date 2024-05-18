@@ -1,12 +1,12 @@
 {
   "item.tritaniumcraft.unitritanium": "單鈦合金",
   "item.tritaniumcraft.tritanium": "三鈦合金",
-  "item.tritaniumcraft.unstableunitritanium": "不穩定的單鈦合金",
-  "item.tritaniumcraft.unstabletritanium": "不穩定的三鈦合金",
-  "item.tritaniumcraft.rawtritanium": "粗質三鈦",
+  "item.tritaniumcraft.unstable_unitritanium": "不穩定的單鈦合金",
+  "item.tritaniumcraft.unstable_tritanium": "不穩定的三鈦合金",
+  "item.tritaniumcraft.raw_tritanium": "粗質三鈦",
   "item.tritaniumcraft.ilmentrite": "三鈦鐵礦",
-  "item.tritaniumcraft.covalentbondstabilizer": "共價鍵穩定劑",
-  "item.tritaniumcraft.virtualsinglebondstabilizer": "虛擬單鍵穩定劑",
+  "item.tritaniumcraft.covalent_bond_stabilizer": "共價鍵穩定劑",
+  "item.tritaniumcraft.virtual_single_bond_stabilizer": "虛擬單鍵穩定劑",
   "item.tritaniumcraft.sledgehammer": "大錘",
 
   "block.tritaniumcraft.block_of_tritanium": "三鈦塊",
