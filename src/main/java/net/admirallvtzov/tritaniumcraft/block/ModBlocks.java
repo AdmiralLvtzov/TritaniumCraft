@@ -49,6 +49,12 @@ public class ModBlocks {
             UniformInt.of(1,3)),
             ModCreativeModeTab.BLOCK_TAB_OF_TRITANIUMCRAFT);
 
+    public static final RegistryObject<Block> BLOCK_OF_RAW_TRITANIUM = registerBlock("block_of_raw_tritanium", () -> new Block(
+            BlockBehaviour.Properties.of(Material.STONE)
+                    .strength(5f)
+                    .requiresCorrectToolForDrops()),
+            ModCreativeModeTab.BLOCK_TAB_OF_TRITANIUMCRAFT);
+
     private static <T extends Block> RegistryObject<T> registerBlock(String name, Supplier<T> block, CreativeModeTab tab) {
 
         RegistryObject<T> toReturn = BLOCKS.register(name, block);
