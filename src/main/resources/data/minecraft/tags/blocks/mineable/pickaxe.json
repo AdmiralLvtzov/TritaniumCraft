@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "tritaniumcraft:block_of_tritanium",
+    "tritaniumcraft:block_of_unitritanium",
+    "tritaniumcraft:tritanium_ore",
+    "tritaniumcraft:deepslate_tritanium_ore"
+  ]
+}
