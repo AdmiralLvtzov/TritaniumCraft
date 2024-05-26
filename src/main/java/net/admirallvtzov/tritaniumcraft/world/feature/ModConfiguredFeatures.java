@@ -23,6 +23,10 @@ public class ModConfiguredFeatures {
             OreConfiguration.target(OreFeatures.STONE_ORE_REPLACEABLES, ModBlocks.TRITANIUM_ORE.get().defaultBlockState()),
             OreConfiguration.target(OreFeatures.DEEPSLATE_ORE_REPLACEABLES, ModBlocks.DEEPSLATE_TRITANIUM_ORE.get().defaultBlockState())));
 
+    public static final Supplier<List<OreConfiguration.TargetBlockState>> BLOCK_OF_RAW_TRITANIUM_IN_OVERWORLD = Suppliers.memoize( () -> List.of(
+            OreConfiguration.target(OreFeatures.STONE_ORE_REPLACEABLES, ModBlocks.BLOCK_OF_RAW_TRITANIUM.get().defaultBlockState()),
+            OreConfiguration.target(OreFeatures.DEEPSLATE_ORE_REPLACEABLES, ModBlocks.BLOCK_OF_RAW_TRITANIUM.get().defaultBlockState())));
+
     public static final RegistryObject<ConfiguredFeature<?, ?>> TRITANIUM_ORE_I = CONFIGURED_FEATURES.register("tritanium_ore_i", () -> new ConfiguredFeature<>(
             Feature.ORE,
             new OreConfiguration(TRITANIUM_ORES_IN_OVERWORLD.get(), 4)));
@@ -30,6 +34,10 @@ public class ModConfiguredFeatures {
     public static final RegistryObject<ConfiguredFeature<?, ?>> TRITANIUM_ORE_II = CONFIGURED_FEATURES.register("tritanium_ore_ii", () -> new ConfiguredFeature<>(
             Feature.ORE,
             new OreConfiguration(TRITANIUM_ORES_IN_OVERWORLD.get(), 5)));
+
+    public static final RegistryObject<ConfiguredFeature<?, ?>> BLOCK_OF_RAW_TRITANIUM = CONFIGURED_FEATURES.register("block_of_raw_tritanium", () -> new ConfiguredFeature<>(
+            Feature.ORE,
+            new OreConfiguration(BLOCK_OF_RAW_TRITANIUM_IN_OVERWORLD.get(), 1)));
 
     public static void register(IEventBus eventBus) {
 

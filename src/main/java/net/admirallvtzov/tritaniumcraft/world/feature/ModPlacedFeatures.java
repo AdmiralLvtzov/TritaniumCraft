@@ -26,6 +26,12 @@ public class ModPlacedFeatures {
                     HeightRangePlacement.triangle(VerticalAnchor.absolute(-128), VerticalAnchor.absolute(0))
             )));
 
+    public static final RegistryObject<PlacedFeature> PLACEMENT_OF_BLOCK_OF_RAW_TRITANIUM = PLACED_FEATURES.register("placement_of_block_of_raw_tritanium", () -> new PlacedFeature(
+            ModConfiguredFeatures.BLOCK_OF_RAW_TRITANIUM.getHolder().get(),
+            commonOrePlacement(1,
+                    HeightRangePlacement.uniform(VerticalAnchor.absolute(-64), VerticalAnchor.absolute(32))
+            )));
+
     /*
 
         VerticalAnchor.aboveBottom() was used here, but it was found to not work properly - the generation of ores would ignore limits of height.
