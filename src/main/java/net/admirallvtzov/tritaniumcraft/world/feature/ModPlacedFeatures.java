@@ -14,10 +14,16 @@ public class ModPlacedFeatures {
 
     public static final DeferredRegister<PlacedFeature> PLACED_FEATURES = DeferredRegister.create(Registry.PLACED_FEATURE_REGISTRY, TritaniumCraft.MODID);
 
-    public static final RegistryObject<PlacedFeature> PLACEMENT_OF_TRITANIUM_ORE = PLACED_FEATURES.register("placement_of_tritanium_ore", () -> new PlacedFeature(
+    public static final RegistryObject<PlacedFeature> PLACEMENT_OF_TRITANIUM_ORE_I = PLACED_FEATURES.register("placement_of_tritanium_ore_i", () -> new PlacedFeature(
             ModConfiguredFeatures.TRITANIUM_ORE.getHolder().get(),
             commonOrePlacement(10,
-                    HeightRangePlacement.triangle(VerticalAnchor.absolute(-64), VerticalAnchor.absolute(64))
+                    HeightRangePlacement.uniform(VerticalAnchor.absolute(-64), VerticalAnchor.absolute(64))
+            )));
+
+    public static final RegistryObject<PlacedFeature> PLACEMENT_OF_TRITANIUM_ORE_II = PLACED_FEATURES.register("placement_of_tritanium_ore_ii", () -> new PlacedFeature(
+            ModConfiguredFeatures.TRITANIUM_ORE.getHolder().get(),
+            commonOrePlacement(10,
+                    HeightRangePlacement.triangle(VerticalAnchor.absolute(-128), VerticalAnchor.absolute(0))
             )));
 
     /*

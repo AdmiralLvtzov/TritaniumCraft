@@ -1,6 +1,6 @@
 {
   "type": "forge:add_features",
   "biomes": "#minecraft:is_overworld",
-  "features": "tritaniumcraft:placement_of_tritanium_ore",
+  "features": "tritaniumcraft:placement_of_tritanium_ore_ii",
   "step": "underground_ores"
 }
