@@ -23,9 +23,13 @@ public class ModConfiguredFeatures {
             OreConfiguration.target(OreFeatures.STONE_ORE_REPLACEABLES, ModBlocks.TRITANIUM_ORE.get().defaultBlockState()),
             OreConfiguration.target(OreFeatures.DEEPSLATE_ORE_REPLACEABLES, ModBlocks.DEEPSLATE_TRITANIUM_ORE.get().defaultBlockState())));
 
-    public static final RegistryObject<ConfiguredFeature<?, ?>> TRITANIUM_ORE = CONFIGURED_FEATURES.register("tritanium_ore", () -> new ConfiguredFeature<>(
+    public static final RegistryObject<ConfiguredFeature<?, ?>> TRITANIUM_ORE_I = CONFIGURED_FEATURES.register("tritanium_ore_i", () -> new ConfiguredFeature<>(
             Feature.ORE,
             new OreConfiguration(TRITANIUM_ORES_IN_OVERWORLD.get(), 4)));
+
+    public static final RegistryObject<ConfiguredFeature<?, ?>> TRITANIUM_ORE_II = CONFIGURED_FEATURES.register("tritanium_ore_ii", () -> new ConfiguredFeature<>(
+            Feature.ORE,
+            new OreConfiguration(TRITANIUM_ORES_IN_OVERWORLD.get(), 5)));
 
     public static void register(IEventBus eventBus) {
 
