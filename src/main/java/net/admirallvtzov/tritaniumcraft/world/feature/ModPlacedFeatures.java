@@ -17,8 +17,20 @@ public class ModPlacedFeatures {
     public static final RegistryObject<PlacedFeature> PLACEMENT_OF_TRITANIUM_ORE = PLACED_FEATURES.register("placement_of_tritanium_ore", () -> new PlacedFeature(
             ModConfiguredFeatures.TRITANIUM_ORE.getHolder().get(),
             commonOrePlacement(10,
-                    HeightRangePlacement.triangle(VerticalAnchor.aboveBottom(-64), VerticalAnchor.aboveBottom(64))
+                    HeightRangePlacement.triangle(VerticalAnchor.absolute(-64), VerticalAnchor.absolute(64))
             )));
+
+    /*
+
+        VerticalAnchor.aboveBottom() was used here, but it was found to not work properly - the generation of ores would ignore limits of height.
+
+        After some tests were done to confirm that VerticalAnchor.aboveBottom() was not effective, VerticalAnchor.absolute() was adopted. It works fine as expected.
+
+        Some notes which may be helpful VerticalAnchor.aboveBottom() sets the y-axis at the bottom of the world as 0. The absolute y-axis at the bottom of the world is -64 in the current version.
+
+        VerticalAnchor.absolute() is pretty self-explanatory - it takes absolute coordinate values. The y-axis of the sea level, which is also where the deepslate starts to completely takes over, is 0 at the moment.
+
+    */
 
     private static List<PlacementModifier> orePlacement(PlacementModifier p_195347_, PlacementModifier p_195348_) {
         return List.of(p_195347_, InSquarePlacement.spread(), p_195348_, BiomeFilter.biome());
