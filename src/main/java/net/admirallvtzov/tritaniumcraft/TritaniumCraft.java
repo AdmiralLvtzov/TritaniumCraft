@@ -4,6 +4,7 @@ import com.mojang.logging.LogUtils;
 import net.admirallvtzov.tritaniumcraft.block.ModBlocks;
 import net.admirallvtzov.tritaniumcraft.item.ModItems;
 import net.admirallvtzov.tritaniumcraft.world.feature.ModConfiguredFeatures;
+import net.admirallvtzov.tritaniumcraft.world.feature.ModPlacedFeatures;
 import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.eventbus.api.IEventBus;
@@ -31,6 +32,7 @@ public class TritaniumCraft
         ModItems.register(modEventBus);
         ModBlocks.register(modEventBus);
         ModConfiguredFeatures.register(modEventBus);
+        ModPlacedFeatures.register(modEventBus);
 
         modEventBus.addListener(this::commonSetup);
 
