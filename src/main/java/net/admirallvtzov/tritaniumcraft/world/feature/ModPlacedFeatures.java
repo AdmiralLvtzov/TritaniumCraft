@@ -16,13 +16,13 @@ public class ModPlacedFeatures {
 
     public static final RegistryObject<PlacedFeature> PLACEMENT_OF_TRITANIUM_ORE_I = PLACED_FEATURES.register("placement_of_tritanium_ore_i", () -> new PlacedFeature(
             ModConfiguredFeatures.TRITANIUM_ORE.getHolder().get(),
-            commonOrePlacement(10,
+            commonOrePlacement(6,
                     HeightRangePlacement.uniform(VerticalAnchor.absolute(-64), VerticalAnchor.absolute(64))
             )));
 
     public static final RegistryObject<PlacedFeature> PLACEMENT_OF_TRITANIUM_ORE_II = PLACED_FEATURES.register("placement_of_tritanium_ore_ii", () -> new PlacedFeature(
             ModConfiguredFeatures.TRITANIUM_ORE.getHolder().get(),
-            commonOrePlacement(10,
+            commonOrePlacement(4,
                     HeightRangePlacement.triangle(VerticalAnchor.absolute(-128), VerticalAnchor.absolute(0))
             )));
 

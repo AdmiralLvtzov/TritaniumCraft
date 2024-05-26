@@ -25,7 +25,7 @@ public class ModConfiguredFeatures {
 
     public static final RegistryObject<ConfiguredFeature<?, ?>> TRITANIUM_ORE = CONFIGURED_FEATURES.register("tritanium_ore", () -> new ConfiguredFeature<>(
             Feature.ORE,
-            new OreConfiguration(TRITANIUM_ORES_IN_OVERWORLD.get(), 50)));
+            new OreConfiguration(TRITANIUM_ORES_IN_OVERWORLD.get(), 4)));
 
     public static void register(IEventBus eventBus) {
 
