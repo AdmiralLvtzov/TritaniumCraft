@@ -20,43 +20,76 @@ The mod is completely open source and non-profit. It adopts the license GNU Gene
 
 
 
-Next step:
-Add an item called "Tritanium" to the game, probably as a kind of metallic materials. ✓
-Add an item called "Unstable Tritanium" to the game, probably as a kind of transitional materials. ✓
-Add an item called "Uni-Tritanium" to the game, probably as a kind of metallic materials. ✓
-Add an item called "Unstable Uni-Tritanium" to the game, probably as a kind of transitional materials. ✓
-Add an item called "Covalent Bond Stabilizer" to the game, probably as a kind of consumable materials. ✓
-Add an item called "Virtual Single Bond Stabilizer" to the game, probably as a kind of consumable materials. ✓
-Add an item called "Raw Tritanium" to the game, probably as a kind of ore extracts. ✓
-Add an item called "Ilmentrite" to the game, probably as a kind of mining drops. ✓
-Add an item called "Tritanium Ore" to the game, probably as a kind of raw ores. ✓
-Add an item called "Deepslate Tritanium Ore" to the game, probably as a kind of raw ores. ✓
-Add an item called "Sledgehammer" to the game, probably as a kind of consumable tools with durability. ✓
-Add an item called "Block of Tritanium" to the game, probably as a kind of mineral blocks. ✓
-Add an item called "Block of Uni-Tritanium" to the game, probably as a kind of mineral blocks. ✓
-Plan to add a sword and a whole set of tools & armors, which are all using tritanium as the material. They're very likely to be assigned similar stats as diamond items. ◯
-Plan to add a sword and a whole set of tools & armors, which are all using uni-tritanium as the material. They're very likely to be assigned the same stats as iron items. ◯
-Plan to make uni-tritanium a substitute for iron ingots (maybe only in some cases). ✕
+Upcoming items:
 
-下一步:
-添加名为"三钛合金"的物品到游戏里，计划将其作为一种金属材料。 ✓
-添加名为"不稳定的三钛合金"的物品到游戏里，计划将其作为一种过渡材料。 ✓
-添加名为"单钛合金"的物品到游戏里，计划将其作为一种金属材料。 ✓
-添加名为"不稳定的单钛合金"的物品到游戏里，计划将其作为一种过渡材料。 ✓
-添加名为"共价键稳定剂"的物品到游戏里，计划将其作为一种消耗性材料。 ✓
-添加名为"虚拟单键稳定剂"的物品到游戏里，计划将其作为一种消耗性材料。 ✓
-添加名为"粗质三钛"的物品到游戏里，计划将其作为一种矿石提取物。 ✓
-添加名为"三钛铁矿"的物品到游戏里，计划将其作为一种采矿掉落物。 ✓
-添加名为"三钛矿石"的物品到游戏里，计划将其作为一种原矿。 ✓
-添加名为"深层三钛矿石"的物品到游戏里，计划将其作为一种原矿。 ✓
-添加名为"大锤"的物品到游戏里，计划将其作为一种有耐久度的消耗性工具。 ✓
-添加名为"三钛块"的物品到游戏里，计划将其作为一种矿物块。 ✓
-添加名为"单钛块"的物品到游戏里，计划将其作为一种矿物块。 ✓
-计划为三钛合金添加一整套对应的工具，盔甲和剑。可能使用与钻石质物品差不多的数据。 ◯
-计划为单钛合金添加一整套对应的工具，盔甲和剑。可能使用与铁质物品相同的数据。 ◯
-计划让单钛合金可以（部分的）代替铁锭。 ✕
+Tritanium ✓                 Uni-Tritanium ✓
+Unstable Tritanium ✓        Unstable Uni-Tritanium ✓
+Covalent Bond Stabilizer ✓  Virtual Single Bond Stabilizer ✓
+Ilmentrite ✓                Raw Tritanium ✓
+Tritanium Ore ✓             Deepslate Tritanium Ore ✓
+Block of Tritanium ✓        Block of Uni-Tritanium ✓            Uni-Tritanium Nugget ◯
 
-✓: Completed / 已完成     ◯: In progress / 正在进行     ✕: Not started yet / 尚未开始
+Tritanium Weapons/Tools/Armor ◯: There is no completed item at the moment.
+Uni-Tritanium Weapons/Tools/Armor ✕
+
+Make Uni-Tritanium a substitute for Iron Ingots in some cases. ✕
+
+Sledgehammer △
+
+Tomato ✕                                        Lettuce ✕           Green Peppercorn ✕
+Salt ✕                                          Salt Ore ✕          Black Pepper ✕
+Beef & Mushroom Stew with Mashed Potatoes ✕     Fish and Chips ✕    Meatball Marinara Roll ✕    Big Trit ™ ✕
+Pot Greenhouse ✕
+
+Biomass ✕       Oil ✕   Fuel ✕
+Generator ✕     Cable ✕
+
+Uni-Tritanium Furnace ✕     Electric Uni-Tritanium Furnace ✕    High Power Tritanium Furnace ✕  Macerator ✕     Ore Washing Plant ✕
+Pipe ✕                      Conveyor Belt ✕
+
+Electric bicycles ✕     Car ✕   Truck ✕
+
+Lightsaber ✕
+Bolt-action Rifle ✕     Pistol ✕    Launcher ✕  Launcher with homing missile ✕
+Machine gun turret ✕    Autocannon turret ✕
+
+即将到来的物品:
+
+三钛合金 ✓          单钛合金 ✓
+不稳定的三钛合金 ✓   不稳定的单钛合金 ✓
+共价键稳定剂 ✓       虚拟单键稳定剂 ✓
+三钛铁矿 ✓          粗质三钛 ✓
+三钛矿石 ✓          深层三钛矿石 ✓
+三钛块 ✓            单钛块 ✓           单钛粒 ◯
+
+三钛武器/工具/盔甲 ◯: 目前暂无已经完成的物品。
+单钛武器/工具/盔甲 ✕
+
+让单钛合金可以在部分合成中代替铁锭。 ✕
+
+大锤 △
+
+西红柿 ✕          生菜 ✕      绿胡椒 ✕
+盐 ✕             盐矿 ✕      黑胡椒粉 ✕
+牛肉蘑菇土豆泥 ✕   炸鱼薯条 ✕   番茄肉丸卷 ✕   巨无太™汉堡 ✕
+盆栽温室 ✕
+
+生物质 ✕   石油 ✕   燃油 ✕
+发电机 ✕   导线 ✕
+
+单钛炉 ✕   单钛电炉 ✕   三钛高功率电炉 ✕   磨粉机 ✕   洗矿机 ✕
+管道 ✕     传送带 ✕
+
+两轮电动车 ✕   轿车 ✕   货车 ✕
+
+光剑 ✕
+栓动步枪 ✕   手枪 ✕      火箭筒 ✕   发射追踪导弹的火箭筒 ✕
+机枪炮塔 ✕   机炮炮塔 ✕
+
+✓: Completed / 已完成
+△: Almost completed but missing features / 几乎完成但缺失部分功能
+◯: In progress / 正在进行
+✕: Not started yet / 尚未开始
 
 
 
@@ -68,78 +101,83 @@ Plan to make uni-tritanium a substitute for iron ingots (maybe only in some case
 
 
 
-                                          mining
-Tritanium Ore / Deepslate Tritanium Ore ==========> Ilmentrite ✓
+Upcoming epics:
 
-                                crushing
-Ilmentrite x 2 + Sledgehammer ============> Raw Tritanium x 3 + Sledgehammer ◯
+Generation of ores. ✓   Involving: Tritanium Ore, Deepslate Tritanium Ore
+Mining drops. ✓         Involving: Ilmentrite
+Ore crushing. ✕         Involving: Sledgehammer, Raw Tritanium
 
-                                                                       smelting
-Tritanium Ore / Deepslate Tritanium Ore / Ilmentrite / Raw Tritanium ============> Unstable Uni-Tritanium ✓
+Ore smelting. ✓     Involving: Tritanium Ore, Deepslate Tritanium Ore, Ilmentrite, Raw Tritanium, Unstable Uni-Tritanium
+Ore blasting. ✓     Involving: Tritanium Ore, Deepslate Tritanium Ore, Ilmentrite, Raw Tritanium, Unstable Uni-Tritanium
 
-                                                                       blasting
-Tritanium Ore / Deepslate Tritanium Ore / Ilmentrite / Raw Tritanium ============> Unstable Uni-Tritanium ✓
+Synthesis of stabilizers. ✓         Involving: Covalent Bond Stabilizer, Virtual Single Bond Stabilizer
+Synthesis of Unstable Tritanium. ✓  Involving: Unstable Uni-Tritanium, Unstable Tritanium
+Stabilization of metals. ✓          Involving: Unstable metals, stabilizers, stable metals.
 
+Forms of metals. ◯  Involving: Block of Tritanium, Block of Uni-Tritanium, Uni-Tritanium Nugget
 
-Lapis Lazuli + Coal x 4 + Flint + Iron Nugget + Glass Bottle ====> Virtual Single Bond Stabilizer x 4 ✓
+Tritanium Weapons/Tools/Armor. ◯        Involving: Classic nine-piece set.
+Uni-Tritanium Weapons/Tools/Armor. ✕    Involving: Classic nine-piece set.
+Uni-Tritanium as substitute.  ✕         Involving: Probably a lot...
 
+Sledgehammer in craft. △    Involving: Sledgehammer
 
-Unstable Uni-Tritanium + Virtual Single Bond Stabilizer ====> Uni-Tritanium ✓
+Crops. ✕                    Involving: Tomato, Lettuce, Green Peppercorn
+Seasonings. ✕               Involving: Salt, Salt Ore, Black Pepper
+Cuisines. ✕                 Involving: Beef & Mushroom Stew with Mashed Potatoes, Fish and Chips, Meatball Marinara Roll, Big Trit ™
+Agricultural facilities. ✕  Involving: Pot Greenhouse
 
+More fuel. ✕        Involving: Biomass, Oil, Fuel
+Power Systems. ✕    Involving: Generator, Cable
 
-Unstable Uni-Tritanium x 3 + Stone x 6 ====> Unstable Tritanium ✓
+New machines. ✕     Involving: Uni-Tritanium Furnace, Electric Uni-Tritanium Furnace, High Power Tritanium Furnace, Macerator, Ore Washing Plant
+Automation. ✕       Involving: Pipe, Conveyor Belt
 
+New vehicles. ✕     Involving: Electric bicycles, Car, Truck
 
-Lapis Lazuli x 3 + Redstone Dust x 3 + Gold Nugget + Glass Bottle ====> Covalent Bond Stabilizer x 3 ✓
+Melee weapons. ✕    Involving: Lightsaber
+Ranged weapons. ✕   Involving: Bolt-action Rifle, Pistol, Launcher, Launcher with homing missile
+Sentry turrets. ✕   Involving: Machine gun turret, Autocannon turret
 
+即将到来的大型模块:
 
-Unstable Tritanium + Covalent Bond Stabilizer ====> Tritanium ✓
+矿石生成。 ✓   涉及: 三钛矿石, 深层三钛矿石
+采矿掉落。 ✓   涉及: 三钛铁矿
+矿石粉碎。 ✕   涉及: 大锤, 粗质三钛
 
+矿石熔炉烧炼。 ✓   涉及: 三钛矿石, 深层三钛矿石, 三钛铁矿, 粗质三钛, 不稳定的单钛合金
+矿石高炉烧炼。 ✓   涉及: 三钛矿石, 深层三钛矿石, 三钛铁矿, 粗质三钛, 不稳定的单钛合金
 
-Tritanium x 6 + Stick x 1 ====> Sledgehammer (for crushing) ✓
+稳定剂合成。 ✓     涉及: 共价键稳定剂, 虚拟单键稳定剂
+不稳三钛合成。 ✓   涉及: 不稳定的单钛合金, 不稳定的三钛合金
+合金的稳定化。 ✓   涉及: 不稳定的合金, 稳定剂, 稳定的合金
 
+金属形态。 ◯   涉及: 三钛块, 单钛块, 单钛粒
 
-Uni-Tritanium x 9 ====> Block of Uni-Tritanium ✓
+三钛武器/工具/盔甲。 ◯   涉及: 经典九件套。
+单钛武器/工具/盔甲。 ✕   涉及: 经典九件套。
+单钛作代替。 ✕          涉及: 可能很多...
 
+大锤相关合成。 △   涉及: 大锤
 
-Tritanium x 9 ====> Block of Tritanium ✓
+作物。 ✕       涉及: 西红柿, 生菜, 绿胡椒
+调料。 ✕       涉及: 盐, 盐矿, 黑胡椒粉
+菜肴。 ✕       涉及: 牛肉蘑菇土豆泥, 炸鱼薯条, 番茄肉丸卷, 巨无太™汉堡
+农业设施。 ✕   涉及: 盆栽温室
 
+更多燃料。 ✕   涉及: 生物质, 石油, 燃油
+能源系统。 ✕   涉及: 发电机, 导线
 
-                       挖矿
-三钛矿石 / 深层三钛矿石 ========> 三钛铁矿 ✓
+新机器。 ✕   涉及: 单钛炉, 单钛电炉, 三钛高功率电炉, 磨粉机, 洗矿机
+自动化。 ✕   涉及: 管道, 传送带
 
-                    敲碎
-三钛铁矿 x 2 + 大锤 ========> 粗质三钛 x 3 + 大锤 ◯
+新载具。 ✕   涉及: 两轮电动车, 轿车, 货车
 
-                                         烧炼
-三钛矿石 / 深层三钛矿石 / 三钛铁矿 / 粗质三钛 ========> 不稳定的单钛合金 ✓
+近战武器。 ✕   涉及: 光剑
+远程武器。 ✕   涉及: 栓动步枪, 手枪, 火箭筒, 发射追踪导弹的火箭筒
+自动炮塔。 ✕   涉及: 机枪炮塔, 机炮炮塔
 
-                                         高炉烧炼
-三钛矿石 / 深层三钛矿石 / 三钛铁矿 / 粗质三钛 ==========> 不稳定的单钛合金 ✓
-
-
-青金石 + 煤炭 x 4 + 燧石 + 铁粒 + 玻璃瓶 ====> 虚拟单键稳定剂 x 4 ✓
-
-
-不稳定的单钛合金 + 虚拟单键稳定剂 ====> 单钛合金 ✓
-
-
-不稳定的单钛合金 x 3 + 石头 x 6 ====> 不稳定的三钛合金 ✓
-
-
-青金石 x 3 + 红石粉 x 3 + 金粒 + 玻璃瓶 ====> 共价键稳定剂 x 3 ✓
-
-
-不稳定的三钛合金 + 共价键稳定剂 ====> 三钛合金 ✓
-
-
-三钛合金 x 6 + 木棍 x 1 ====> 大锤 (用于敲碎) ✓
-
-
-单钛合金 x 9 ====> 单钛块 ✓
-
-
-三钛合金 x 9 ====> 三钛块 ✓
-
-
-✓: Completed / 已完成     ◯: In progress / 正在进行     ✕: Not started yet / 尚未开始
+✓: Completed / 已完成
+△: Almost completed but missing features / 几乎完成但缺失部分功能
+◯: In progress / 正在进行
+✕: Not started yet / 尚未开始
