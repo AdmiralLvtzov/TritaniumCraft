@@ -1,10 +1,10 @@
 {
-  "item.tritaniumcraft.unitritanium": "Uni-Tritanium",
   "item.tritaniumcraft.tritanium": "Tritanium",
-  "item.tritaniumcraft.unstable_unitritanium": "Unstable Uni-Tritanium",
+  "item.tritaniumcraft.unitritanium": "Uni-Tritanium",
   "item.tritaniumcraft.unstable_tritanium": "Unstable Tritanium",
-  "item.tritaniumcraft.raw_tritanium": "Raw Tritanium",
+  "item.tritaniumcraft.unstable_unitritanium": "Unstable Uni-Tritanium",
   "item.tritaniumcraft.ilmentrite": "Ilmentrite",
+  "item.tritaniumcraft.raw_tritanium": "Raw Tritanium",
   "item.tritaniumcraft.covalent_bond_stabilizer": "Covalent Bond Stabilizer",
   "item.tritaniumcraft.virtual_single_bond_stabilizer": "Virtual Single Bond Stabilizer",
   "item.tritaniumcraft.sledgehammer": "Sledgehammer",
