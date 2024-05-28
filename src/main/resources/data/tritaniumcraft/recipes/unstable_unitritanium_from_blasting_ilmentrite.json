@@ -1,8 +1,8 @@
 {
   "type": "minecraft:blasting",
+  "group": "unstable_unitritanium",
   "cookingtime": 100,
   "experience": 1,
-  "group": "unstable_unitritanium",
   "ingredient": {
     "item": "tritaniumcraft:ilmentrite"
   },

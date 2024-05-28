@@ -1,8 +1,8 @@
 {
   "type": "minecraft:blasting",
+  "group": "unstable_unitritanium",
   "cookingtime": 120,
   "experience": 0.7,
-  "group": "unstable_unitritanium",
   "ingredient": {
     "item": "tritaniumcraft:tritanium_ore"
   },

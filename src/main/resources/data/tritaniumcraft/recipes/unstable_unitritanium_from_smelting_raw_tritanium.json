@@ -1,8 +1,8 @@
 {
   "type": "minecraft:smelting",
+  "group": "unstable_unitritanium",
   "cookingtime": 200,
   "experience": 1,
-  "group": "unstable_unitritanium",
   "ingredient": {
     "item": "tritaniumcraft:raw_tritanium"
   },
