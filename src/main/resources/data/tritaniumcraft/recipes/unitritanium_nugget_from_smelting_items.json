@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "group": "unitritanium_nugget",
+  "cookingtime": 200,
+  "experience": 0.1,
+  "ingredient": [
+
+  ],
+  "result": "minecraft:iron_nugget"
+}

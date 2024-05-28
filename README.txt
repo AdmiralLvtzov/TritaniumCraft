@@ -27,7 +27,7 @@ Unstable Tritanium ✓        Unstable Uni-Tritanium ✓
 Covalent Bond Stabilizer △  Virtual Single Bond Stabilizer △
 Ilmentrite ✓                Raw Tritanium ✓
 Tritanium Ore ✓             Deepslate Tritanium Ore ✓
-Block of Tritanium ✓        Block of Uni-Tritanium ✓            Uni-Tritanium Nugget ◯
+Block of Tritanium ✓        Block of Uni-Tritanium ✓            Uni-Tritanium Nugget △
 
 Tritanium Weapons/Tools/Armor ◯: There is no completed item at the moment.
 Uni-Tritanium Weapons/Tools/Armor ✕
@@ -60,7 +60,7 @@ Machine gun turret ✕    Autocannon turret ✕
 共价键稳定剂 △       虚拟单键稳定剂 △
 三钛铁矿 ✓          粗质三钛 ✓
 三钛矿石 ✓          深层三钛矿石 ✓
-三钛块 ✓            单钛块 ✓           单钛粒 ◯
+三钛块 ✓            单钛块 ✓           单钛粒 △
 
 三钛武器/工具/盔甲 ◯: 目前暂无已经完成的物品。
 单钛武器/工具/盔甲 ✕
@@ -114,7 +114,7 @@ Synthesis of stabilizers. △         Involving: Covalent Bond Stabilizer, Virtu
 Synthesis of Unstable Tritanium. ✓  Involving: Unstable Uni-Tritanium, Unstable Tritanium
 Stabilization of metals. ✓          Involving: Unstable metals, stabilizers, stable metals.
 
-Forms of metals. ◯  Involving: Block of Tritanium, Block of Uni-Tritanium, Uni-Tritanium Nugget
+Forms of metals. △  Involving: Block of Tritanium, Block of Uni-Tritanium, Uni-Tritanium Nugget
 
 Tritanium Weapons/Tools/Armor. ◯        Involving: Classic nine-piece set.
 Uni-Tritanium Weapons/Tools/Armor. ✕    Involving: Classic nine-piece set.
@@ -152,7 +152,7 @@ Sentry turrets. ✕   Involving: Machine gun turret, Autocannon turret
 不稳三钛合成。 ✓   涉及: 不稳定的单钛合金, 不稳定的三钛合金
 合金的稳定化。 ✓   涉及: 不稳定的合金, 稳定剂, 稳定的合金
 
-金属形态。 ◯   涉及: 三钛块, 单钛块, 单钛粒
+金属形态。 △   涉及: 三钛块, 单钛块, 单钛粒
 
 三钛武器/工具/盔甲。 ◯   涉及: 经典九件套。
 单钛武器/工具/盔甲。 ✕   涉及: 经典九件套。

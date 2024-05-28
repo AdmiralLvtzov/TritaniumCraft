@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "unitritanium",
+  "key": {
+    "#": {
+      "item": "tritaniumcraft:unitritanium_nugget"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "tritaniumcraft:unitritanium"
+  }
+}

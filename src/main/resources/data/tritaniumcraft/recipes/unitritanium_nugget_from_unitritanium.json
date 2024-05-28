@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "unitritanium_nugget",
+  "ingredients": [
+    {
+      "item": "tritaniumcraft:unitritanium"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "tritaniumcraft:unitritanium_nugget"
+  }
+}
