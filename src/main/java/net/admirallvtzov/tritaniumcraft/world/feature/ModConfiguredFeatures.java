@@ -29,11 +29,11 @@ public class ModConfiguredFeatures {
 
     public static final RegistryObject<ConfiguredFeature<?, ?>> TRITANIUM_ORE_I = CONFIGURED_FEATURES.register("tritanium_ore_i", () -> new ConfiguredFeature<>(
             Feature.ORE,
-            new OreConfiguration(TRITANIUM_ORES_IN_OVERWORLD.get(), 4)));
+            new OreConfiguration(TRITANIUM_ORES_IN_OVERWORLD.get(), 8)));
 
     public static final RegistryObject<ConfiguredFeature<?, ?>> TRITANIUM_ORE_II = CONFIGURED_FEATURES.register("tritanium_ore_ii", () -> new ConfiguredFeature<>(
             Feature.ORE,
-            new OreConfiguration(TRITANIUM_ORES_IN_OVERWORLD.get(), 5)));
+            new OreConfiguration(TRITANIUM_ORES_IN_OVERWORLD.get(), 10)));
 
     public static final RegistryObject<ConfiguredFeature<?, ?>> BLOCK_OF_RAW_TRITANIUM = CONFIGURED_FEATURES.register("block_of_raw_tritanium", () -> new ConfiguredFeature<>(
             Feature.ORE,
