@@ -29,7 +29,7 @@ Ilmentrite ✓                Raw Tritanium ✓
 Tritanium Ore ✓             Deepslate Tritanium Ore ✓
 Block of Tritanium ✓        Block of Uni-Tritanium ✓            Uni-Tritanium Nugget △
 
-Handle ◯    Reinforced Handle ◯
+Handle ✓    Reinforced Handle ✓
 Tritanium Weapons/Tools/Armor ◯: There is no completed item at the moment.
 Uni-Tritanium Weapons/Tools/Armor ✕
 
@@ -63,7 +63,7 @@ Machine gun turret ✕    Autocannon turret ✕
 三钛矿石 ✓          深层三钛矿石 ✓
 三钛块 ✓            单钛块 ✓           单钛粒 △
 
-手柄 ◯   强化手柄 ◯
+手柄 ✓   强化手柄 ✓
 三钛武器/工具/盔甲 ◯: 目前暂无已经完成的物品。
 单钛武器/工具/盔甲 ✕
 
@@ -118,7 +118,7 @@ Stabilization of metals. ✓          Involving: Unstable metals, stabilizers, s
 
 Forms of metals. △  Involving: Block of Tritanium, Block of Uni-Tritanium, Uni-Tritanium Nugget
 
-Components of tools. ◯                  Involving: Handle, Reinforced Handle
+Components of tools. ✓                  Involving: Handle, Reinforced Handle
 Tritanium Weapons/Tools/Armor. ◯        Involving: Classic nine-piece set.
 Uni-Tritanium Weapons/Tools/Armor. ✕    Involving: Classic nine-piece set.
 Uni-Tritanium as substitute.  ✕         Involving: Probably a lot...
@@ -157,7 +157,7 @@ Sentry turrets. ✕   Involving: Machine gun turret, Autocannon turret
 
 金属形态。 △   涉及: 三钛块, 单钛块, 单钛粒
 
-工具部件。 ◯            涉及: 手柄, 强化手柄
+工具部件。 ✓            涉及: 手柄, 强化手柄
 三钛武器/工具/盔甲。 ◯   涉及: 经典九件套。
 单钛武器/工具/盔甲。 ✕   涉及: 经典九件套。
 单钛作代替。 ✕          涉及: 可能很多...

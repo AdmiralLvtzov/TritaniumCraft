@@ -38,6 +38,12 @@ public class ModItems {
     public static final RegistryObject<Item> UNITRITANIUM_NUGGET = ITEMS.register("unitritanium_nugget", () -> new Item(
             new Item.Properties().tab(ModCreativeModeTab.ITEM_TAB_OF_TRITANIUMCRAFT)));
 
+    public static final RegistryObject<Item> REINFORCED_HANDLE = ITEMS.register("reinforced_handle", () -> new Item(
+            new Item.Properties().tab(ModCreativeModeTab.ITEM_TAB_OF_TRITANIUMCRAFT)));
+
+    public static final RegistryObject<Item> HANDLE = ITEMS.register("handle", () -> new Item(
+            new Item.Properties().tab(ModCreativeModeTab.ITEM_TAB_OF_TRITANIUMCRAFT)));
+
     public static final RegistryObject<Item> SLEDGEHAMMER = ITEMS.register("sledgehammer", () -> new Item(
             new Item.Properties().tab(ModCreativeModeTab.ITEMS_UNDER_DEV_OF_TRITANIUMCRAFT)));
 
