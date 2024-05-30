@@ -16,8 +16,40 @@ public class ModItems {
     public static final RegistryObject<Item> TRITANIUM = ITEMS.register("tritanium", () -> new Item(
             new Item.Properties().tab(ModCreativeModeTab.ITEM_TAB_OF_TRITANIUMCRAFT)));
 
+    /*
+
+        Configurations of the texture:
+
+        Navigate to Colors -> Color Balance in GIMP2.
+
+        In the section "Shadows", let red -60, green -20, blue -15;
+
+        In the section "Midtones", let red -60, green -20, blue 15;
+
+        In the section "Highlights", let red -60, green -20, blue 100;
+
+        (The range of color values is from -100 to 100.)
+
+    */
+
     public static final RegistryObject<Item> UNITRITANIUM = ITEMS.register("unitritanium", () -> new Item(
             new Item.Properties().tab(ModCreativeModeTab.ITEM_TAB_OF_TRITANIUMCRAFT)));
+
+    /*
+
+        Configurations of the texture:
+
+        Navigate to Colors -> Color Balance in GIMP2.
+
+        In the section "Shadows", let red 20, green 10, blue -20;
+
+        In the section "Midtones", let red 20, green 10, blue -5;
+
+        In the section "Highlights", let red 20, green 10, blue -5;
+
+        (The range of color values is from -100 to 100.)
+
+    */
 
     public static final RegistryObject<Item> UNSTABLE_TRITANIUM = ITEMS.register("unstable_tritanium", () -> new Item(
             new Item.Properties().tab(ModCreativeModeTab.ITEM_TAB_OF_TRITANIUMCRAFT)));
