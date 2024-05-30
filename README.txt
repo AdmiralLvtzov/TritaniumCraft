@@ -30,8 +30,8 @@ Tritanium Ore ✓             Deepslate Tritanium Ore ✓
 Block of Tritanium ✓        Block of Uni-Tritanium ✓            Uni-Tritanium Nugget △
 
 Handle ✓    Reinforced Handle ✓
-Tritanium Weapons/Tools/Armor ◯: Sword ✓    Axe ✓   Pickaxe ✓   Shovel ✓    Hoe ✓
-Uni-Tritanium Weapons/Tools/Armor ◯: There is no completed item at the moment.
+Tritanium Weapons/Tools/Armor ◯:        Sword ✓     Axe ✓   Pickaxe ✓   Shovel ✓    Hoe ✓
+Uni-Tritanium Weapons/Tools/Armor ◯:    Sword ✓     Axe ✓   Pickaxe ✓   Shovel ✓    Hoe ✓
 
 Make Uni-Tritanium a substitute for Iron Ingots in some cases. ✕
 
@@ -65,7 +65,7 @@ Machine gun turret ✕    Autocannon turret ✕
 
 手柄 ✓   强化手柄 ✓
 三钛武器/工具/盔甲 ◯: 剑 ✓   斧 ✓   镐 ✓   锹 ✓   锄 ✓
-单钛武器/工具/盔甲 ◯: 目前暂无已经完成的物品。
+单钛武器/工具/盔甲 ◯: 剑 ✓   斧 ✓   镐 ✓   锹 ✓   锄 ✓
 
 让单钛合金可以在部分合成中代替铁锭。 ✕
 

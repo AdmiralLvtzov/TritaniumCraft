@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "tritaniumcraft:handle"
+    },
+    "X": {
+      "item": "tritaniumcraft:unitritanium"
+    }
+  },
+  "pattern": [
+    "X",
+    "X",
+    "#"
+  ],
+  "result": {
+    "item": "tritaniumcraft:unitritanium_sword"
+  }
+}

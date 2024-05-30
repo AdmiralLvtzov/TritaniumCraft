@@ -107,6 +107,36 @@ public class ModItems {
             0f,
             new Item.Properties().tab(ModCreativeModeTab.TOOL_TAB_OF_TRITANIUMCRAFT)));
 
+    public static final RegistryObject<Item> UNITRITANIUM_SWORD = ITEMS.register("unitritanium_sword", () -> new SwordItem(
+            ModToolTiers.UNITRITANIUM,
+            3,
+            -2.24f,
+            new Item.Properties().tab(ModCreativeModeTab.TOOL_TAB_OF_TRITANIUMCRAFT)));
+
+    public static final RegistryObject<Item> UNITRITANIUM_AXE = ITEMS.register("unitritanium_axe", () -> new AxeItem(
+            ModToolTiers.UNITRITANIUM,
+            6,
+            -3.1f,
+            new Item.Properties().tab(ModCreativeModeTab.TOOL_TAB_OF_TRITANIUMCRAFT)));
+
+    public static final RegistryObject<Item> UNITRITANIUM_PICKAXE = ITEMS.register("unitritanium_pickaxe", () -> new PickaxeItem(
+            ModToolTiers.UNITRITANIUM,
+            1,
+            -2.8f,
+            new Item.Properties().tab(ModCreativeModeTab.TOOL_TAB_OF_TRITANIUMCRAFT)));
+
+    public static final RegistryObject<Item> UNITRITANIUM_SHOVEL = ITEMS.register("unitritanium_shovel", () -> new ShovelItem(
+            ModToolTiers.UNITRITANIUM,
+            1.5f,
+            -3f,
+            new Item.Properties().tab(ModCreativeModeTab.TOOL_TAB_OF_TRITANIUMCRAFT)));
+
+    public static final RegistryObject<Item> UNITRITANIUM_HOE = ITEMS.register("unitritanium_hoe", () -> new HoeItem(
+            ModToolTiers.UNITRITANIUM,
+            -2,
+            -1f,
+            new Item.Properties().tab(ModCreativeModeTab.TOOL_TAB_OF_TRITANIUMCRAFT)));
+
     public static final RegistryObject<Item> SLEDGEHAMMER = ITEMS.register("sledgehammer", () -> new Item(
             new Item.Properties().tab(ModCreativeModeTab.ITEMS_UNDER_DEV_OF_TRITANIUMCRAFT)));
 
