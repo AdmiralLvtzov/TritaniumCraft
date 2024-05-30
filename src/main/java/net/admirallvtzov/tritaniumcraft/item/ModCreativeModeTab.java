@@ -19,7 +19,7 @@ public class ModCreativeModeTab {
 
         @Override
         public ItemStack makeIcon() {
-            return new ItemStack(ModItems.UNSTABLE_TRITANIUM.get());
+            return new ItemStack(ModItems.TRITANIUM_SWORD.get());
         }
 
     };
