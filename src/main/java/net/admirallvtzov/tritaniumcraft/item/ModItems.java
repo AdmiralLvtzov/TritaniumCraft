@@ -1,7 +1,9 @@
 package net.admirallvtzov.tritaniumcraft.item;
 
 import net.admirallvtzov.tritaniumcraft.TritaniumCraft;
+import net.admirallvtzov.tritaniumcraft.item.custom.ModToolTiers;
 import net.minecraft.world.item.Item;
+import net.minecraft.world.item.PickaxeItem;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
@@ -43,6 +45,12 @@ public class ModItems {
 
     public static final RegistryObject<Item> HANDLE = ITEMS.register("handle", () -> new Item(
             new Item.Properties().tab(ModCreativeModeTab.ITEM_TAB_OF_TRITANIUMCRAFT)));
+
+    public static final RegistryObject<Item> TRITANIUM_PICKAXE = ITEMS.register("tritanium_pickaxe", () -> new PickaxeItem(
+            ModToolTiers.TRITANIUM,
+            5,
+            -2.8f,
+            new Item.Properties().tab(ModCreativeModeTab.TOOL_TAB_OF_TRITANIUMCRAFT)));
 
     public static final RegistryObject<Item> SLEDGEHAMMER = ITEMS.register("sledgehammer", () -> new Item(
             new Item.Properties().tab(ModCreativeModeTab.ITEMS_UNDER_DEV_OF_TRITANIUMCRAFT)));
