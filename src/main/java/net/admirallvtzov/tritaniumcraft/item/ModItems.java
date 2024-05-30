@@ -48,7 +48,7 @@ public class ModItems {
 
     public static final RegistryObject<Item> TRITANIUM_PICKAXE = ITEMS.register("tritanium_pickaxe", () -> new PickaxeItem(
             ModToolTiers.TRITANIUM,
-            5,
+            1,
             -2.8f,
             new Item.Properties().tab(ModCreativeModeTab.TOOL_TAB_OF_TRITANIUMCRAFT)));
 

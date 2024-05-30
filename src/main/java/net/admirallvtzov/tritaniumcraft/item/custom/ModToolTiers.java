@@ -21,14 +21,14 @@ public class ModToolTiers {
                 new ForgeTier(
                         3,
                         1404,
-                        8.0f,
-                        3.0f,
+                        8.4f,
+                        3f,
                         9,
                         ModTags.Blocks.NEEDS_TRITANIUM_TOOL,
                         () -> Ingredient.of(ModItems.TRITANIUM.get())),
                 new ResourceLocation(TritaniumCraft.MODID, "tritanium"),
-                List.of(Tiers.IRON),
-                List.of(Tiers.DIAMOND)
+                List.of(Tiers.DIAMOND),
+                List.of(Tiers.NETHERITE)
         );
 
     }
