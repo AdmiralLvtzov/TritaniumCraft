@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "tritaniumcraft:reinforced_handle"
+    },
+    "Y": {
+      "item": "tritaniumcraft:tritanium"
+    }
+  },
+  "pattern": [
+    "YYY",
+    " X ",
+    " # "
+  ],
+  "result": {
+    "item": "tritaniumcraft:tritanium_pickaxe"
+  }
+}
