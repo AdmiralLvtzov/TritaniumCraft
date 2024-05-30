@@ -12,6 +12,8 @@ public class ModTags {
 
         public static final TagKey<Block> NEEDS_TRITANIUM_TOOL = tag("needs_tritanium_tool");
 
+        public static final TagKey<Block> NEEDS_UNITRITANIUM_TOOL = tag("needs_unitritanium_tool");
+
         private static TagKey<Block> tag(String name) {
 
             return BlockTags.create(new ResourceLocation(TritaniumCraft.MODID, name));

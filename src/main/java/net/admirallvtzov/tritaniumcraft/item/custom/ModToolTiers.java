@@ -33,4 +33,24 @@ public class ModToolTiers {
 
     }
 
+    public static Tier UNITRITANIUM;
+
+    static {
+
+        UNITRITANIUM = TierSortingRegistry.registerTier(
+                new ForgeTier(
+                        2,
+                        322,
+                        6.48f,
+                        2.0f,
+                        18,
+                        ModTags.Blocks.NEEDS_UNITRITANIUM_TOOL,
+                        () -> Ingredient.of(ModItems.UNITRITANIUM.get())),
+                new ResourceLocation(TritaniumCraft.MODID, "unitritanium"),
+                List.of(Tiers.IRON),
+                List.of(Tiers.DIAMOND)
+        );
+
+    }
+
 }
