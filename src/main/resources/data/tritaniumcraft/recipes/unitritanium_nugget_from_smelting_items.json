@@ -2,9 +2,23 @@
   "type": "minecraft:smelting",
   "group": "unitritanium_nugget",
   "cookingtime": 200,
-  "experience": 0.1,
+  "experience": 0.7,
   "ingredient": [
-
+    {
+      "item": "tritaniumcraft:unitritanium_sword"
+    },
+    {
+      "item": "tritaniumcraft:unitritanium_axe"
+    },
+    {
+      "item": "tritaniumcraft:unitritanium_pickaxe"
+    },
+    {
+      "item": "tritaniumcraft:unitritanium_shovel"
+    },
+    {
+      "item": "tritaniumcraft:unitritanium_hoe"
+    }
   ],
-  "result": "minecraft:iron_nugget"
+  "result": "tritaniumcraft:unitritanium_nugget"
 }
