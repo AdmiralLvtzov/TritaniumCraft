@@ -21,8 +21,8 @@ public class ModToolTiers {
                 new ForgeTier(
                         3,
                         1404,
-                        8.4f,
-                        3f,
+                        8.4f, // Only related to the speed of breaking.
+                        3f, // Final Damage = Damage of fists (1) + Damage Bonus of the tier + Damage Modifier of the tool
                         9,
                         ModTags.Blocks.NEEDS_TRITANIUM_TOOL,
                         () -> Ingredient.of(ModItems.TRITANIUM.get())),

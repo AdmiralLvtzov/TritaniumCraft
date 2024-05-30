@@ -48,8 +48,8 @@ public class ModItems {
 
     public static final RegistryObject<Item> TRITANIUM_PICKAXE = ITEMS.register("tritanium_pickaxe", () -> new PickaxeItem(
             ModToolTiers.TRITANIUM,
-            1,
-            -2.8f,
+            1, // Final Damage = Damage of fists (1) + Damage Bonus of the tier + Damage Modifier of the tool
+            -2.8f, // Final Attack Speed = Speed of fists (4) + Speed Modifier of the tool
             new Item.Properties().tab(ModCreativeModeTab.TOOL_TAB_OF_TRITANIUMCRAFT)));
 
     public static final RegistryObject<Item> SLEDGEHAMMER = ITEMS.register("sledgehammer", () -> new Item(
