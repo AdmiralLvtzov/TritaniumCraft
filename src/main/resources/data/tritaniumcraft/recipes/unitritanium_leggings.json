@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "tritaniumcraft:unitritanium"
+    },
+    "Y": {
+      "item": "minecraft:iron_nugget"
+    }
+  },
+  "pattern": [
+    "XXX",
+    "XYX",
+    "XYX"
+  ],
+  "result": {
+    "item": "tritaniumcraft:unitritanium_leggings"
+  }
+}

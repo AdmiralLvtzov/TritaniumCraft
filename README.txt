@@ -31,7 +31,7 @@ Block of Tritanium ✓        Block of Uni-Tritanium ✓            Uni-Tritaniu
 
 Handle ✓    Reinforced Handle ✓
 Tritanium Weapons/Tools/Armor ✓
-Uni-Tritanium Weapons/Tools/Armor ◯:    Sword ✓     Axe ✓   Pickaxe ✓   Shovel ✓    Hoe ✓
+Uni-Tritanium Weapons/Tools/Armor ✓
 
 Make Uni-Tritanium a substitute for Iron Ingots in some cases. ✕
 
@@ -65,7 +65,7 @@ Machine gun turret ✕    Autocannon turret ✕
 
 手柄 ✓   强化手柄 ✓
 三钛武器/工具/盔甲 ✓
-单钛武器/工具/盔甲 ◯: 剑 ✓   斧 ✓   镐 ✓   锹 ✓   锄 ✓
+单钛武器/工具/盔甲 ✓
 
 让单钛合金可以在部分合成中代替铁锭。 ✕
 
@@ -120,7 +120,7 @@ Forms of metals. △  Involving: Block of Tritanium, Block of Uni-Tritanium, Uni
 
 Components of tools. ✓                  Involving: Handle, Reinforced Handle
 Tritanium Weapons/Tools/Armor. ✓        Involving: Classic nine-piece set.
-Uni-Tritanium Weapons/Tools/Armor. ◯    Involving: Classic nine-piece set.
+Uni-Tritanium Weapons/Tools/Armor. ✓    Involving: Classic nine-piece set.
 Uni-Tritanium as substitute.  ✕         Involving: Probably a lot...
 
 Sledgehammer in craft. △    Involving: Sledgehammer
@@ -159,7 +159,7 @@ Sentry turrets. ✕   Involving: Machine gun turret, Autocannon turret
 
 工具部件。 ✓            涉及: 手柄, 强化手柄
 三钛武器/工具/盔甲。 ✓   涉及: 经典九件套。
-单钛武器/工具/盔甲。 ◯   涉及: 经典九件套。
+单钛武器/工具/盔甲。 ✓   涉及: 经典九件套。
 单钛代替铁。 ✕          涉及: 可能很多...
 
 大锤相关合成。 △   涉及: 大锤

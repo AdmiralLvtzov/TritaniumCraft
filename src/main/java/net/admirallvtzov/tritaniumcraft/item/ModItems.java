@@ -160,6 +160,26 @@ public class ModItems {
             -1f,
             new Item.Properties().tab(ModCreativeModeTab.TOOL_TAB_OF_TRITANIUMCRAFT)));
 
+    public static final RegistryObject<Item> UNITRITANIUM_HELMET = ITEMS.register("unitritanium_helmet", () -> new ArmorItem(
+            ModArmorMaterials.UNITRITANIUM,
+            EquipmentSlot.HEAD,
+            new Item.Properties().tab(ModCreativeModeTab.TOOL_TAB_OF_TRITANIUMCRAFT)));
+
+    public static final RegistryObject<Item> UNITRITANIUM_CHESTPLATE = ITEMS.register("unitritanium_chestplate", () -> new ArmorItem(
+            ModArmorMaterials.UNITRITANIUM,
+            EquipmentSlot.CHEST,
+            new Item.Properties().tab(ModCreativeModeTab.TOOL_TAB_OF_TRITANIUMCRAFT)));
+
+    public static final RegistryObject<Item> UNITRITANIUM_LEGGINGS = ITEMS.register("unitritanium_leggings", () -> new ArmorItem(
+            ModArmorMaterials.UNITRITANIUM,
+            EquipmentSlot.LEGS,
+            new Item.Properties().tab(ModCreativeModeTab.TOOL_TAB_OF_TRITANIUMCRAFT)));
+
+    public static final RegistryObject<Item> UNITRITANIUM_BOOTS = ITEMS.register("unitritanium_boots", () -> new ArmorItem(
+            ModArmorMaterials.UNITRITANIUM,
+            EquipmentSlot.FEET,
+            new Item.Properties().tab(ModCreativeModeTab.TOOL_TAB_OF_TRITANIUMCRAFT)));
+
     public static final RegistryObject<Item> SLEDGEHAMMER = ITEMS.register("sledgehammer", () -> new Item(
             new Item.Properties().tab(ModCreativeModeTab.ITEMS_UNDER_DEV_OF_TRITANIUMCRAFT)));
 
