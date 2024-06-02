@@ -18,6 +18,18 @@
     },
     {
       "item": "tritaniumcraft:unitritanium_hoe"
+    },
+    {
+      "item": "tritaniumcraft:unitritanium_helmet"
+    },
+    {
+      "item": "tritaniumcraft:unitritanium_chestplate"
+    },
+    {
+      "item": "tritaniumcraft:unitritanium_leggings"
+    },
+    {
+      "item": "tritaniumcraft:unitritanium_boots"
     }
   ],
   "result": "tritaniumcraft:unitritanium_nugget"
