@@ -47,14 +47,14 @@ public enum ModArmorMaterials implements ArmorMaterial {
     @Override
     public int getDurabilityForSlot(EquipmentSlot pSlot) {
 
-        return BASE_DURABILITY[pSlot.ordinal()] * this.durabilityMultiplier;
+        return BASE_DURABILITY[pSlot.getIndex()] * this.durabilityMultiplier;
 
     }
 
     @Override
     public int getDefenseForSlot(EquipmentSlot pSlot) {
 
-        return this.protectionAmounts[pSlot.ordinal()];
+        return this.protectionAmounts[pSlot.getIndex()];
 
     }
 

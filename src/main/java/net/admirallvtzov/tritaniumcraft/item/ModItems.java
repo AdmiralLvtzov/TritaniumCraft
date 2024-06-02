@@ -1,9 +1,12 @@
 package net.admirallvtzov.tritaniumcraft.item;
 
 import net.admirallvtzov.tritaniumcraft.TritaniumCraft;
+import net.admirallvtzov.tritaniumcraft.item.custom.ModArmorMaterials;
 import net.admirallvtzov.tritaniumcraft.item.custom.ModToolTiers;
+import net.minecraft.world.entity.EquipmentSlot;
 import net.minecraft.world.item.*;
 import net.minecraftforge.eventbus.api.IEventBus;
+import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraftforge.registries.RegistryObject;
@@ -105,6 +108,26 @@ public class ModItems {
             ModToolTiers.TRITANIUM,
             -3,
             0f,
+            new Item.Properties().tab(ModCreativeModeTab.TOOL_TAB_OF_TRITANIUMCRAFT)));
+
+    public static final RegistryObject<Item> TRITANIUM_HELMET = ITEMS.register("tritanium_helmet", () -> new ArmorItem(
+            ModArmorMaterials.TRITANIUM,
+            EquipmentSlot.HEAD,
+            new Item.Properties().tab(ModCreativeModeTab.TOOL_TAB_OF_TRITANIUMCRAFT)));
+
+    public static final RegistryObject<Item> TRITANIUM_CHESTPLATE = ITEMS.register("tritanium_chestplate", () -> new ArmorItem(
+            ModArmorMaterials.TRITANIUM,
+            EquipmentSlot.CHEST,
+            new Item.Properties().tab(ModCreativeModeTab.TOOL_TAB_OF_TRITANIUMCRAFT)));
+
+    public static final RegistryObject<Item> TRITANIUM_LEGGINGS = ITEMS.register("tritanium_leggings", () -> new ArmorItem(
+            ModArmorMaterials.TRITANIUM,
+            EquipmentSlot.LEGS,
+            new Item.Properties().tab(ModCreativeModeTab.TOOL_TAB_OF_TRITANIUMCRAFT)));
+
+    public static final RegistryObject<Item> TRITANIUM_BOOTS = ITEMS.register("tritanium_boots", () -> new ArmorItem(
+            ModArmorMaterials.TRITANIUM,
+            EquipmentSlot.FEET,
             new Item.Properties().tab(ModCreativeModeTab.TOOL_TAB_OF_TRITANIUMCRAFT)));
 
     public static final RegistryObject<Item> UNITRITANIUM_SWORD = ITEMS.register("unitritanium_sword", () -> new SwordItem(
