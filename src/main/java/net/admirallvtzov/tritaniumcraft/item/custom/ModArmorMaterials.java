@@ -19,7 +19,16 @@ public enum ModArmorMaterials implements ArmorMaterial {
             SoundEvents.ARMOR_EQUIP_DIAMOND,
             2.2f,
             0f,
-            () -> { return Ingredient.of(ModItems.TRITANIUM.get()); });
+            () -> { return Ingredient.of(ModItems.TRITANIUM.get()); }),
+
+    UNITRITANIUM("unitritanium",
+            18,
+            new int[] { 2, 5, 6, 2 },
+            11,
+            SoundEvents.ARMOR_EQUIP_IRON,
+            0.5f,
+            0f,
+            () -> { return Ingredient.of(ModItems.UNITRITANIUM.get()); });
 
     private final String name;
     private final int durabilityMultiplier;
