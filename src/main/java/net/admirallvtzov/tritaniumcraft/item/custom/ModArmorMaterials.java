@@ -11,9 +11,10 @@ import net.minecraft.world.item.crafting.Ingredient;
 import java.util.function.Supplier;
 
 public enum ModArmorMaterials implements ArmorMaterial {
+
     TRITANIUM("tritanium",
             29,
-            new int[]{4, 6, 9, 3},
+            new int[] { 3, 6, 8, 3 },
             9,
             SoundEvents.ARMOR_EQUIP_DIAMOND,
             2.2f,
@@ -95,6 +96,9 @@ public enum ModArmorMaterials implements ArmorMaterial {
 
     @Override
     public float getKnockbackResistance() {
+
         return this.knockbackResistance;
+
     }
+
 }
