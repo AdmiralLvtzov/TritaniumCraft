@@ -1,6 +1,7 @@
 package net.admirallvtzov.tritaniumcraft.block;
 
 import net.admirallvtzov.tritaniumcraft.TritaniumCraft;
+import net.admirallvtzov.tritaniumcraft.fluid.ModFluids;
 import net.admirallvtzov.tritaniumcraft.item.ModCreativeModeTab;
 import net.admirallvtzov.tritaniumcraft.item.ModItems;
 import net.minecraft.util.valueproviders.UniformInt;
@@ -8,7 +9,9 @@ import net.minecraft.world.item.BlockItem;
 import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.level.block.Block;
+import net.minecraft.world.level.block.Blocks;
 import net.minecraft.world.level.block.DropExperienceBlock;
+import net.minecraft.world.level.block.LiquidBlock;
 import net.minecraft.world.level.block.state.BlockBehaviour;
 import net.minecraft.world.level.material.Material;
 import net.minecraftforge.eventbus.api.IEventBus;
@@ -54,6 +57,14 @@ public class ModBlocks {
                     .strength(5f)
                     .requiresCorrectToolForDrops()),
             ModCreativeModeTab.BLOCK_TAB_OF_TRITANIUMCRAFT);
+
+    public static final RegistryObject<LiquidBlock> BLOCK_OF_COVALENT_BOND_STABILIZER = BLOCKS.register("block_of_covalent_bond_stabilizer", () -> new LiquidBlock(
+            ModFluids.STILL_COVALENT_BOND_STABILIZER,
+            BlockBehaviour.Properties.copy(Blocks.WATER)));
+
+    public static final RegistryObject<LiquidBlock> BLOCK_OF_VIRTUAL_SINGLE_BOND_STABILIZER = BLOCKS.register("block_of_virtual_single_bond_stabilizer", () -> new LiquidBlock(
+            ModFluids.STILL_VIRTUAL_SINGLE_BOND_STABILIZER,
+            BlockBehaviour.Properties.copy(Blocks.WATER)));
 
     private static <T extends Block> RegistryObject<T> registerBlock(String name, Supplier<T> block, CreativeModeTab tab) {
 

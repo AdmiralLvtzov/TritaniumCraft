@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "tritaniumcraft:item/virtual_single_bond_stabilizer_bucket"
+  }
+}

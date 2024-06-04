@@ -1,6 +1,7 @@
 package net.admirallvtzov.tritaniumcraft.item;
 
 import net.admirallvtzov.tritaniumcraft.TritaniumCraft;
+import net.admirallvtzov.tritaniumcraft.fluid.ModFluids;
 import net.admirallvtzov.tritaniumcraft.item.custom.ModArmorMaterials;
 import net.admirallvtzov.tritaniumcraft.item.custom.ModToolTiers;
 import net.minecraft.world.entity.EquipmentSlot;
@@ -182,6 +183,18 @@ public class ModItems {
 
     public static final RegistryObject<Item> SLEDGEHAMMER = ITEMS.register("sledgehammer", () -> new Item(
             new Item.Properties().tab(ModCreativeModeTab.ITEMS_UNDER_DEV_OF_TRITANIUMCRAFT)));
+
+    public static final RegistryObject<Item> COVALENT_BOND_STABILIZER_BUCKET = ITEMS.register("covalent_bond_stabilizer_bucket", () -> new BucketItem(
+            ModFluids.STILL_COVALENT_BOND_STABILIZER,
+            new Item.Properties().tab(ModCreativeModeTab.ITEMS_UNDER_DEV_OF_TRITANIUMCRAFT)
+                    .craftRemainder(Items.BUCKET)
+                    .stacksTo(1)));
+
+    public static final RegistryObject<Item> VIRTUAL_SINGLE_BOND_STABILIZER_BUCKET = ITEMS.register("virtual_single_bond_stabilizer_bucket", () -> new BucketItem(
+            ModFluids.STILL_VIRTUAL_SINGLE_BOND_STABILIZER,
+            new Item.Properties().tab(ModCreativeModeTab.ITEMS_UNDER_DEV_OF_TRITANIUMCRAFT)
+                    .craftRemainder(Items.BUCKET)
+                    .stacksTo(1)));
 
     public static void register(IEventBus eventBus) {
 

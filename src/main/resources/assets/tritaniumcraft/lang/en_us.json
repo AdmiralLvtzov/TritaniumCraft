@@ -29,12 +29,16 @@
   "item.tritaniumcraft.unitritanium_leggings": "Uni-Tritanium Leggings",
   "item.tritaniumcraft.unitritanium_boots": "Uni-Tritanium Boots",
   "item.tritaniumcraft.sledgehammer": "Sledgehammer",
+  "item.tritaniumcraft.covalent_bond_stabilizer_bucket": "Covalent Bond Stabilizer Bucket",
+  "item.tritaniumcraft.virtual_single_bond_stabilizer_bucket": "Virtual Single Bond Stabilizer Bucket",
 
   "block.tritaniumcraft.block_of_tritanium": "Block of Tritanium",
   "block.tritaniumcraft.block_of_unitritanium": "Block of Uni-Tritanium",
   "block.tritaniumcraft.tritanium_ore": "Tritanium Ore",
   "block.tritaniumcraft.deepslate_tritanium_ore": "Deepslate Tritanium Ore",
   "block.tritaniumcraft.block_of_raw_tritanium": "Block of Raw Tritanium",
+  "block.tritaniumcraft.block_of_covalent_bond_stabilizer": "(Liquid) Block of Covalent Bond Stabilizer",
+  "block.tritaniumcraft.block_of_virtual_single_bond_stabilizer": "(Liquid) Block of Virtual Single Bond Stabilizer",
 
   "itemGroup.item_tab_of_tritaniumcraft": "Items of TritaniumCraft",
   "itemGroup.tool_tab_of_tritaniumcraft": "Tools of TritaniumCraft",

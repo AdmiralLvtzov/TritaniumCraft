@@ -29,12 +29,16 @@
   "item.tritaniumcraft.unitritanium_leggings": "單鈦合金護腿",
   "item.tritaniumcraft.unitritanium_boots": "單鈦合金靴子",
   "item.tritaniumcraft.sledgehammer": "大錘",
+  "item.tritaniumcraft.covalent_bond_stabilizer_bucket": "共價鍵穩定劑桶",
+  "item.tritaniumcraft.virtual_single_bond_stabilizer_bucket": "虛擬單鍵穩定劑桶",
 
   "block.tritaniumcraft.block_of_tritanium": "三鈦塊",
   "block.tritaniumcraft.block_of_unitritanium": "單鈦塊",
   "block.tritaniumcraft.tritanium_ore": "三鈦礦石",
   "block.tritaniumcraft.deepslate_tritanium_ore": "深層三鈦礦石",
   "block.tritaniumcraft.block_of_raw_tritanium": "粗質三鈦塊",
+  "block.tritaniumcraft.block_of_covalent_bond_stabilizer": "共價鍵穩定劑(液體)塊",
+  "block.tritaniumcraft.block_of_virtual_single_bond_stabilizer": "虛擬單鍵穩定劑(液體)塊",
 
   "itemGroup.item_tab_of_tritaniumcraft": "TritaniumCraft的物品",
   "itemGroup.tool_tab_of_tritaniumcraft": "TritaniumCraft的工具",

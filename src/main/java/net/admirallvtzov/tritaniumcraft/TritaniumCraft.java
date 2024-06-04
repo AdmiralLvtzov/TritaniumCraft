@@ -3,6 +3,7 @@ package net.admirallvtzov.tritaniumcraft;
 import com.mojang.logging.LogUtils;
 import net.admirallvtzov.tritaniumcraft.block.ModBlocks;
 import net.admirallvtzov.tritaniumcraft.fluid.ModFluidTypes;
+import net.admirallvtzov.tritaniumcraft.fluid.ModFluids;
 import net.admirallvtzov.tritaniumcraft.item.ModItems;
 import net.admirallvtzov.tritaniumcraft.world.feature.ModConfiguredFeatures;
 import net.admirallvtzov.tritaniumcraft.world.feature.ModPlacedFeatures;
@@ -35,6 +36,7 @@ public class TritaniumCraft
         ModConfiguredFeatures.register(modEventBus);
         ModPlacedFeatures.register(modEventBus);
         ModFluidTypes.register(modEventBus);
+        ModFluids.register(modEventBus);
 
         modEventBus.addListener(this::commonSetup);
 
