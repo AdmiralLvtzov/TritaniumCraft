@@ -13,7 +13,7 @@ import net.minecraftforge.registries.RegistryObject;
 
 public class ModFluids {
 
-    public static final DeferredRegister<Fluid> FLUIDS = DeferredRegister.create(ForgeRegistries.FLUIDS, TritaniumCraft.MODID);
+    public static final DeferredRegister<Fluid> FLUIDS = DeferredRegister.create(ForgeRegistries.FLUIDS, TritaniumCraft.MOD_ID);
 
     public static final RegistryObject<FlowingFluid> STILL_COVALENT_BOND_STABILIZER = FLUIDS.register("still_covalent_bond_stabilizer", () -> new ForgeFlowingFluid.Source(ModFluids.PROPERTIES_OF_COVALENT_BOND_STABILIZER));
     public static final RegistryObject<FlowingFluid> FLOWING_COVALENT_BOND_STABILIZER = FLUIDS.register("flowing_covalent_bond_stabilizer", () -> new ForgeFlowingFluid.Flowing(ModFluids.PROPERTIES_OF_COVALENT_BOND_STABILIZER));

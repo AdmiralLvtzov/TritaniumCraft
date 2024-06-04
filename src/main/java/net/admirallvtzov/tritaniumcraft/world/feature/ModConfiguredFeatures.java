@@ -17,7 +17,7 @@ import java.util.List;
 
 public class ModConfiguredFeatures {
 
-    public static final DeferredRegister<ConfiguredFeature<?, ?>> CONFIGURED_FEATURES = DeferredRegister.create(Registry.CONFIGURED_FEATURE_REGISTRY, TritaniumCraft.MODID);
+    public static final DeferredRegister<ConfiguredFeature<?, ?>> CONFIGURED_FEATURES = DeferredRegister.create(Registry.CONFIGURED_FEATURE_REGISTRY, TritaniumCraft.MOD_ID);
 
     public static final Supplier<List<OreConfiguration.TargetBlockState>> TRITANIUM_ORES_IN_OVERWORLD = Suppliers.memoize( () -> List.of(
             OreConfiguration.target(OreFeatures.STONE_ORE_REPLACEABLES, ModBlocks.TRITANIUM_ORE.get().defaultBlockState()),

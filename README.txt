@@ -88,10 +88,10 @@ Machine gun turret ✕    Autocannon turret ✕
 栓动步枪 ✕   手枪 ✕      火箭筒 ✕   发射追踪导弹的火箭筒 ✕
 机枪炮塔 ✕   机炮炮塔 ✕
 
-✓: Completed / 已完成
-△: Almost completed but missing features / 几乎完成但缺失部分功能
-◯: In progress / 正在进行
-✕: Not started yet / 尚未开始
+✓: Completed                                / 已完成
+△: Almost completed but missing features    / 几乎完成但缺失部分功能
+◯: In progress                              / 正在进行
+✕: Not started yet                          / 尚未开始
 
 
 
@@ -185,10 +185,10 @@ Sentry turrets. ✕   Involving: Machine gun turret, Autocannon turret
 远程武器。 ✕   涉及: 栓动步枪, 手枪, 火箭筒, 发射追踪导弹的火箭筒
 自动炮塔。 ✕   涉及: 机枪炮塔, 机炮炮塔
 
-✓: Completed / 已完成
-△: Almost completed but missing features / 几乎完成但缺失部分功能
-◯: In progress / 正在进行
-✕: Not started yet / 尚未开始
+✓: Completed                                / 已完成
+△: Almost completed but missing features    / 几乎完成但缺失部分功能
+◯: In progress                              / 正在进行
+✕: Not started yet                          / 尚未开始
 
 
 
@@ -246,7 +246,7 @@ In summary, I eventually decided to give up, or at least long-term shelved this 
 
 综上所述，我决定放弃或至少长期搁置这个大型模块。也许将来我会回来再看看。
 
-✓: Completed / 已完成
-△: Almost completed but missing features / 几乎完成但缺失部分功能
-◯: In progress / 正在进行
-✕: Not started yet / 尚未开始
+✓: Completed                                / 已完成
+△: Almost completed but missing features    / 几乎完成但缺失部分功能
+◯: In progress                              / 正在进行
+✕: Not started yet                          / 尚未开始

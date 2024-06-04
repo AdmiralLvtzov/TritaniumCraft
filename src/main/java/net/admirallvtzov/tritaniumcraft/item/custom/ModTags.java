@@ -16,7 +16,7 @@ public class ModTags {
 
         private static TagKey<Block> tag(String name) {
 
-            return BlockTags.create(new ResourceLocation(TritaniumCraft.MODID, name));
+            return BlockTags.create(new ResourceLocation(TritaniumCraft.MOD_ID, name));
 
         }
 

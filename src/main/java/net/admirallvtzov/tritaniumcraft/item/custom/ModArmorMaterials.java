@@ -92,7 +92,7 @@ public enum ModArmorMaterials implements ArmorMaterial {
     @Override
     public String getName() {
 
-        return TritaniumCraft.MODID + ":" + this.name;
+        return TritaniumCraft.MOD_ID + ":" + this.name;
 
     }
 

@@ -12,7 +12,7 @@ import java.util.List;
 
 public class ModPlacedFeatures {
 
-    public static final DeferredRegister<PlacedFeature> PLACED_FEATURES = DeferredRegister.create(Registry.PLACED_FEATURE_REGISTRY, TritaniumCraft.MODID);
+    public static final DeferredRegister<PlacedFeature> PLACED_FEATURES = DeferredRegister.create(Registry.PLACED_FEATURE_REGISTRY, TritaniumCraft.MOD_ID);
 
     public static final RegistryObject<PlacedFeature> PLACEMENT_OF_TRITANIUM_ORE_I = PLACED_FEATURES.register("placement_of_tritanium_ore_i", () -> new PlacedFeature(
             ModConfiguredFeatures.TRITANIUM_ORE_I.getHolder().get(),

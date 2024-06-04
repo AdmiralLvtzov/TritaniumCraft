@@ -26,7 +26,7 @@ public class ModToolTiers {
                         9,
                         ModTags.Blocks.NEEDS_TRITANIUM_TOOL,
                         () -> Ingredient.of(ModItems.TRITANIUM.get())),
-                new ResourceLocation(TritaniumCraft.MODID, "tritanium"),
+                new ResourceLocation(TritaniumCraft.MOD_ID, "tritanium"),
                 List.of(Tiers.DIAMOND),
                 List.of(Tiers.NETHERITE)
         );
@@ -46,7 +46,7 @@ public class ModToolTiers {
                         18,
                         ModTags.Blocks.NEEDS_UNITRITANIUM_TOOL,
                         () -> Ingredient.of(ModItems.UNITRITANIUM.get())),
-                new ResourceLocation(TritaniumCraft.MODID, "unitritanium"),
+                new ResourceLocation(TritaniumCraft.MOD_ID, "unitritanium"),
                 List.of(Tiers.IRON),
                 List.of(Tiers.DIAMOND)
         );

@@ -12,7 +12,7 @@ import net.minecraftforge.registries.RegistryObject;
 
 public class ModFluidTypes {
 
-    public static final DeferredRegister<FluidType> FLUID_TYPES = DeferredRegister.create(ForgeRegistries.Keys.FLUID_TYPES, TritaniumCraft.MODID);
+    public static final DeferredRegister<FluidType> FLUID_TYPES = DeferredRegister.create(ForgeRegistries.Keys.FLUID_TYPES, TritaniumCraft.MOD_ID);
 
     public static final RegistryObject<FluidType> COVALENT_BOND_STABILIZER = registerCovalentBondStabilizer("covalent_bond_stabilizer", generalConfigurationsOfStabilizers());
 

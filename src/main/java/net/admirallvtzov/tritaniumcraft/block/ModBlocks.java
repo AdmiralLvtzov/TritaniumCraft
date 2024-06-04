@@ -24,7 +24,7 @@ import java.util.function.Supplier;
 public class ModBlocks {
 
     public static final DeferredRegister<Block> BLOCKS =
-            DeferredRegister.create(ForgeRegistries.BLOCKS, TritaniumCraft.MODID);
+            DeferredRegister.create(ForgeRegistries.BLOCKS, TritaniumCraft.MOD_ID);
 
     public static final RegistryObject<Block> BLOCK_OF_TRITANIUM = registerBlock("block_of_tritanium", () -> new Block(
             BlockBehaviour.Properties.of(Material.METAL)
