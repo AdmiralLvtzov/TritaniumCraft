@@ -46,7 +46,7 @@ public class ModCreativeModeTab {
 
         @Override
         public ItemStack makeIcon() {
-            return new ItemStack(ModItems.SLEDGEHAMMER.get());
+            return new ItemStack(ModItems.COVALENT_BOND_STABILIZER_BUCKET.get());
         }
 
     };

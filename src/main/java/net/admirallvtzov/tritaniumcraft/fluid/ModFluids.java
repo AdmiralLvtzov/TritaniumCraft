@@ -31,6 +31,14 @@ public class ModFluids {
             .block(ModBlocks.BLOCK_OF_VIRTUAL_SINGLE_BOND_STABILIZER)
             .bucket(ModItems.VIRTUAL_SINGLE_BOND_STABILIZER_BUCKET);
 
+    /*
+
+        Fluids for stabilizers was abandoned or at least long-term shelved, because the implementation required an unacceptable investment, a relevant important API didn't work properly, and the feature might only marginally improve the experience of players.
+
+        Please refer to README for specific reasons, which won't be fully expanded here for the sake of brevity.
+
+    */
+
     public static void register(IEventBus eventBus) {
 
         FLUIDS.register(eventBus);
