@@ -37,21 +37,28 @@ Make Uni-Tritanium a substitute for Iron Ingots in some cases. ✕
 
 Sledgehammer △
 
-Tomato ✕                                        Lettuce ✕           Green Peppercorn ✕
-Salt ✕                                          Salt Ore ✕          Black Pepper ✕
-Beef & Mushroom Stew with Mashed Potatoes ✕     Fish and Chips ✕    Meatball Marinara Roll ✕    Big Trit ™ ✕
+Salt Ore ✕          Rock Salt ✕                     Sea Salt ✕
+Minced Meat ✕       Meat Patty ✕                    Meatball ✕          Luncheon Meat ✕             Meat Floss ✕
+Tomato ✕            Lettuce ✕                       Cucumber ✕          Green Pepper ✕
+Cheese ✕            Pickle ✕                        Nori ✕
+Black Pepper ✕      Black Pepper Mushroom Sauce ✕   Ketchup ✕           Marinara Sauce ✕
+Beef and Mash ✕     Fries ✕                         Fish and Chips ✕    Meatball Marinara Roll ✕    Original Retripe Chicken ✕  Big Trit ™ ✕    Nigiri ✕    Sushi Roll ✕
 Pot Greenhouse ✕
 
 Biomass ✕       Oil ✕   Fuel ✕
 Generator ✕     Cable ✕
 
+Ancient Technology Module ✕
+Archived Memories ✕
+Silicon ✕                   Silicon Board ✕                     Circuit Board ✕                 Storage Unit ✕  Microcontroller
 Uni-Tritanium Furnace ✕     Electric Uni-Tritanium Furnace ✕    High Power Tritanium Furnace ✕  Macerator ✕     Ore Washing Plant ✕
 Pipe ✕                      Conveyor Belt ✕
 
 Electric bicycles ✕     Car ✕   Truck ✕
 
 Lightsaber ✕
-Bolt-action Rifle ✕     Pistol ✕    Launcher ✕  Launcher with homing missile ✕
+Bolt-action Rifle ✕     Pistol ✕                Launcher ✕      Launcher with homing missile ✕
+Impact Grenade ✕        Flash Grenade ✕         Stun Grenade ✕  Snapshot Grenade ✕
 Machine gun turret ✕    Autocannon turret ✕
 
 即将到来的物品:
@@ -71,21 +78,28 @@ Machine gun turret ✕    Autocannon turret ✕
 
 大锤 △
 
-西红柿 ✕          生菜 ✕      绿胡椒 ✕
-盐 ✕             盐矿 ✕      黑胡椒粉 ✕
-牛肉蘑菇土豆泥 ✕   炸鱼薯条 ✕   番茄肉丸卷 ✕   巨无太™汉堡 ✕
+盐矿 ✕        石盐 ✕        海盐 ✕
+肉糜 ✕        肉饼 ✕        肉丸 ✕       午餐肉 ✕      肉松 ✕
+番茄 ✕        生菜 ✕        黄瓜 ✕       绿胡椒 ✕
+奶酪 ✕        酸菜 ✕        海苔 ✕
+黑胡椒粉 ✕     黑椒蘑菇汁 ✕   番茄酱 ✕     番茄肉酱 ✕
+牛肉土豆泥 ✕   炸薯条 ✕       炸鱼薯角 ✕   番茄肉丸卷 ✕   吮指三味鸡 ✕   巨无太™汉堡 ✕   握寿司 ✕   寿司卷 ✕
 盆栽温室 ✕
 
 生物质 ✕   石油 ✕   燃油 ✕
 发电机 ✕   导线 ✕
 
-单钛炉 ✕   单钛电炉 ✕   三钛高功率电炉 ✕   磨粉机 ✕   洗矿机 ✕
-管道 ✕     传送带 ✕
+远古技术模块 ✕
+归档的记忆 ✕
+硅 ✕            硅板 ✕      电路板 ✕         存储单元 ✕   单片机 ✕
+单钛炉 ✕        单钛电炉 ✕   三钛高功率电炉 ✕   磨粉机 ✕     洗矿机 ✕
+管道 ✕          传送带 ✕
 
 两轮电动车 ✕   轿车 ✕   货车 ✕
 
 光剑 ✕
-栓动步枪 ✕   手枪 ✕      火箭筒 ✕   发射追踪导弹的火箭筒 ✕
+栓动步枪 ✕   手枪 ✕       火箭筒 ✕   发射追踪导弹的火箭筒 ✕
+冲击手雷 ✕   闪光弹 ✕     震撼弹 ✕   快照弹 ✕
 机枪炮塔 ✕   机炮炮塔 ✕
 
 ✓: Completed                                / 已完成
@@ -127,22 +141,30 @@ Uni-Tritanium as substitute.  ✕         Involving: Probably a lot...
 
 Sledgehammer in craft. △    Involving: Sledgehammer
 
-Crops. ✕                    Involving: Tomato, Lettuce, Green Peppercorn
-Seasonings. ✕               Involving: Salt, Salt Ore, Black Pepper
-Cuisines. ✕                 Involving: Beef & Mushroom Stew with Mashed Potatoes, Fish and Chips, Meatball Marinara Roll, Big Trit ™
+Salt related. ✕             Involving: Salt Ore, Rock Salt, Sea Salt
+Meat related. ✕             Involving: Minced Meat, Meat Patty, Meatball, Luncheon Meat, Meat Floss
+Crops. ✕                    Involving: Tomato, Lettuce, Cucumber, Green Pepper
+Dishes in process. ✕        Involving: Cheese, Pickle, Nori
+Seasonings. ✕               Involving: Black Pepper, Black Pepper Mushroom Sauce, Ketchup, Marinara Sauce
+Cuisines. ✕                 Involving: Beef and Mash, Fries, Fish and Chips, Meatball Marinara Roll, Original Retripe Chicken, Big Trit ™, Nigiri, Sushi Roll
 Agricultural facilities. ✕  Involving: Pot Greenhouse
 
 More fuel. ✕        Involving: Biomass, Oil, Fuel
 Power Systems. ✕    Involving: Generator, Cable
 
-New machines. ✕     Involving: Uni-Tritanium Furnace, Electric Uni-Tritanium Furnace, High Power Tritanium Furnace, Macerator, Ore Washing Plant
-Automation. ✕       Involving: Pipe, Conveyor Belt
+Relic Ore. ✕            Involving: Ancient Technology Module
+Summon of villagers. ✕  Involving: Archived Memories
+Products in process. ✕  Involving: Silicon, Silicon Board, Circuit Board, Storage Unit, Microcontroller
+New machines. ✕         Involving: Uni-Tritanium Furnace, Electric Uni-Tritanium Furnace, High Power Tritanium Furnace, Macerator, Ore Washing Plant
+Automation. ✕           Involving: Pipe, Conveyor Belt
 
 New vehicles. ✕     Involving: Electric bicycles, Car, Truck
 
-Melee weapons. ✕    Involving: Lightsaber
-Ranged weapons. ✕   Involving: Bolt-action Rifle, Pistol, Launcher, Launcher with homing missile
-Sentry turrets. ✕   Involving: Machine gun turret, Autocannon turret
+Ores for munitions. ✕   Involving: Sulfur Ore, Saltpeter Ore
+Melee weapons. ✕        Involving: Lightsaber
+Ranged weapons. ✕       Involving: Bolt-action Rifle, Pistol, Launcher, Launcher with homing missile
+Throwables. ✕           Involving: Impact Grenade, Flash Grenade, Stun Grenade, Snapshot Grenade
+Sentry turrets. ✕       Involving: Machine gun turret, Autocannon turret
 
 即将到来的大型模块:
 
@@ -168,21 +190,29 @@ Sentry turrets. ✕   Involving: Machine gun turret, Autocannon turret
 
 大锤相关合成。 △   涉及: 大锤
 
-作物。 ✕       涉及: 西红柿, 生菜, 绿胡椒
-调料。 ✕       涉及: 盐, 盐矿, 黑胡椒粉
-菜肴。 ✕       涉及: 牛肉蘑菇土豆泥, 炸鱼薯条, 番茄肉丸卷, 巨无太™汉堡
+盐相关。 ✕     涉及: 盐矿, 石盐, 海盐
+肉相关。 ✕     涉及: 肉糜, 肉饼, 肉丸, 午餐肉, 肉松
+作物。 ✕       涉及: 番茄, 生菜, 黄瓜, 绿胡椒
+半成品。 ✕     涉及: 奶酪, 酸菜, 海苔
+调料。 ✕       涉及: 黑胡椒粉, 黑椒蘑菇汁, 番茄酱, 番茄肉酱
+菜肴。 ✕       涉及: 牛肉土豆泥, 炸薯条, 炸鱼薯角, 番茄肉丸卷, 吮指三味鸡, 巨无太™汉堡, 握寿司, 寿司卷
 农业设施。 ✕   涉及: 盆栽温室
 
 更多燃料。 ✕   涉及: 生物质, 石油, 燃油
 能源系统。 ✕   涉及: 发电机, 导线
 
-新机器。 ✕   涉及: 单钛炉, 单钛电炉, 三钛高功率电炉, 磨粉机, 洗矿机
-自动化。 ✕   涉及: 管道, 传送带
+遗珍矿石。 ✕   涉及: 远古技术模块
+村民召唤。 ✕   涉及: 归档的记忆
+半成品。 ✕     涉及: 硅, 硅板, 电路板, 存储单元, 单片机
+新机器。 ✕     涉及: 单钛炉, 单钛电炉, 三钛高功率电炉, 磨粉机, 洗矿机
+自动化。 ✕     涉及: 管道, 传送带
 
 新载具。 ✕   涉及: 两轮电动车, 轿车, 货车
 
+军火矿物。 ✕   涉及: 硫磺矿石, 硝石矿石
 近战武器。 ✕   涉及: 光剑
 远程武器。 ✕   涉及: 栓动步枪, 手枪, 火箭筒, 发射追踪导弹的火箭筒
+投掷物。 ✕     涉及: 冲击手雷, 闪光弹, 震撼弹, 快照弹
 自动炮塔。 ✕   涉及: 机枪炮塔, 机炮炮塔
 
 ✓: Completed                                / 已完成
