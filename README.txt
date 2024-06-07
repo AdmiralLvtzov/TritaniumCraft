@@ -127,7 +127,7 @@ Ore smelting. ✓     Involving: Tritanium Ore, Deepslate Tritanium Ore, Ilmentr
 Ore blasting. ✓     Involving: Tritanium Ore, Deepslate Tritanium Ore, Ilmentrite, Raw Tritanium, Unstable Uni-Tritanium
 
 Synthesis of stabilizers. △             Involving: Covalent Bond Stabilizer, Virtual Single Bond Stabilizer
-Stabilizers as potions via NBT tags. ◯  Involving: Covalent Bond Stabilizer, Virtual Single Bond Stabilizer
+Expanded features for stabilizers. ◯    Involving: Unique NBT tags, drinking feature, returns after crafting.
 
 Synthesis of Unstable Tritanium. ✓  Involving: Unstable Uni-Tritanium, Unstable Tritanium
 Stabilization of metals. ✓          Involving: Unstable metals, stabilizers, stable metals.
@@ -175,8 +175,8 @@ Sentry turrets. ✕       Involving: Machine gun turret, Autocannon turret
 矿石熔炉烧炼。 ✓   涉及: 三钛矿石, 深层三钛矿石, 三钛铁矿, 粗质三钛, 不稳定的单钛合金
 矿石高炉烧炼。 ✓   涉及: 三钛矿石, 深层三钛矿石, 三钛铁矿, 粗质三钛, 不稳定的单钛合金
 
-稳定剂合成。 △                涉及: 共价键稳定剂, 虚拟单键稳定剂
-稳定剂通过NBT标签成为药水。 ◯   涉及: 共价键稳定剂, 虚拟单键稳定剂
+稳定剂合成。 △       涉及: 共价键稳定剂, 虚拟单键稳定剂
+稳定剂扩展功能。 ◯   涉及: 独属NBT标签, 饮用, 合成返还物
 
 不稳三钛合成。 ✓   涉及: 不稳定的单钛合金, 不稳定的三钛合金
 合金的稳定化。 ✓   涉及: 不稳定的合金, 稳定剂, 稳定的合金
@@ -232,6 +232,23 @@ Sentry turrets. ✕       Involving: Machine gun turret, Autocannon turret
 
 Abandoned or long-term shelved epics:
 
+Stabilizers as potions via NBT tags. Involving:
+
+(Potion of) Covalent Bond Stabilizer ✕
+(Potion of) Virtual Single Bond Stabilizer ✕
+
+Explanation:
+
+The original plan was to add two stabilizers as new potions and make them describable by a potion with the corresponding NBT tag.
+
+The first and also the most important reason made me give up was that if they were registered as new potions ("Potion", not "PotionItem"), they would always be displayed in the vanilla tab of potions in the creative mode. I couldn't move them to custom tabs of this mod, which I really aspired to do so.
+
+The second reason was that if they were registered as new potions, this action would also automatically create corresponding splash potions and lingering potions. These potions would be orphan items which couldn't be obtained via normal ways in the survival mode, and I have no idea how to make them play a role.
+
+The last reason was that in the future I may probably change icons of stabilizers was that to test tubes, and then maybe add more stabilizers or even other chemical solvents. In this context, adding stabilizers to the category of potions would make no sense and be unforesighted.
+
+In summary, I decided to permanently abandon this epic.
+
 Fluids for stabilizers. Involving:
 
 Covalent Bond Stabilizer Bucket △
@@ -254,6 +271,23 @@ The last reason was that I could hardly find any meaningful use case which might
 In summary, I eventually decided to give up, or at least long-term shelved this epic. Maybe I would be back to check if it's feasible some day in the future.
 
 废弃或长期搁置的大型模块:
+
+稳定剂通过NBT标签成为药水。 涉及:
+
+共价键稳定剂(药水) ✕
+虚拟单键稳定剂(药水) ✕
+
+解释:
+
+原计划是将两种稳定剂作为新的药水添加，并使其可以通过带有相应NBT标签的药水来描述。
+
+让我放弃的第一个同时也是最重要的原因是，如果我把它们注册为新的药水("Potion", 而不是"PotionItem")，它们在创造模式中总是会显示在原版药水标签栏中。我无法将其移动到这个Mod自定义的标签栏中，但我又非常想这么做。
+
+第二个原因是如果将它们注册为药水，就会自动创建对应的喷溅药水和滞留药水。这些都会是孤立物品，它们在生存模式中无法通过正常途径获得，我也没有关于如何让它们发挥作用的想法。
+
+最后的原因是以后我很可能会把稳定剂的图标改为试管并加入更多的稳定剂甚至其他化学试剂。在这种情况下，将稳定剂加入药水类别是没有意义的，并且缺乏长期考虑。
+
+综上，我决定永久废弃这个大型模块。
 
 稳定剂的流体化。 涉及:
 
