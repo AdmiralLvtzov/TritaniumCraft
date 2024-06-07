@@ -40,6 +40,8 @@
   "block.tritaniumcraft.block_of_covalent_bond_stabilizer": "共价键稳定剂(液体)块",
   "block.tritaniumcraft.block_of_virtual_single_bond_stabilizer": "虚拟单键稳定剂(液体)块",
 
+  "effect.tritaniumcraft.poisoned_by_covalent_bond_stabilizer": "共价键稳定剂中毒",
+
   "itemGroup.item_tab_of_tritaniumcraft": "TritaniumCraft的物品",
   "itemGroup.tool_tab_of_tritaniumcraft": "TritaniumCraft的工具",
   "itemGroup.block_tab_of_tritaniumcraft": "TritaniumCraft的方块",
