@@ -41,6 +41,7 @@
   "block.tritaniumcraft.block_of_virtual_single_bond_stabilizer": "(Liquid) Block of Virtual Single Bond Stabilizer",
 
   "effect.tritaniumcraft.poisoned_by_covalent_bond_stabilizer": "Poisoned by Covalent Bond Stabilizer",
+  "effect.tritaniumcraft.poisoned_by_virtual_single_bond_stabilizer": "Poisoned by Virtual Single Bond Stabilizer",
 
   "itemGroup.item_tab_of_tritaniumcraft": "Items of TritaniumCraft",
   "itemGroup.tool_tab_of_tritaniumcraft": "Tools of TritaniumCraft",

@@ -24,6 +24,10 @@ public class ModEffects {
             MobEffectCategory.HARMFUL,
             11401983));
 
+    public static final RegistryObject<MobEffect> POISONED_BY_VIRTUAL_SINGLE_BOND_STABILIZER = MOB_EFFECTS.register("poisoned_by_virtual_single_bond_stabilizer", () -> new PoisonedByVirtualSingleBondStabilizerEffect(
+            MobEffectCategory.HARMFUL,
+            5536462));
+
     public static void register(IEventBus eventBus) {
 
         MOB_EFFECTS.register(eventBus);
