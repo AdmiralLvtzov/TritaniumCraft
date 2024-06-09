@@ -24,7 +24,7 @@ Upcoming items:
 
 Tritanium ✓                 Uni-Tritanium ✓
 Unstable Tritanium ✓        Unstable Uni-Tritanium ✓
-Covalent Bond Stabilizer △  Virtual Single Bond Stabilizer △
+Covalent Bond Stabilizer ✓  Virtual Single Bond Stabilizer ✓
 Ilmentrite ✓                Raw Tritanium ✓
 Tritanium Ore ✓             Deepslate Tritanium Ore ✓
 Block of Tritanium ✓        Block of Uni-Tritanium ✓            Uni-Tritanium Nugget ✓
@@ -65,7 +65,7 @@ Machine gun turret ✕    Autocannon turret ✕
 
 三钛合金 ✓          单钛合金 ✓
 不稳定的三钛合金 ✓   不稳定的单钛合金 ✓
-共价键稳定剂 △       虚拟单键稳定剂 △
+共价键稳定剂 ✓       虚拟单键稳定剂 ✓
 三钛铁矿 ✓          粗质三钛 ✓
 三钛矿石 ✓          深层三钛矿石 ✓
 三钛块 ✓            单钛块 ✓           单钛粒 ✓
@@ -126,8 +126,8 @@ Ore crushing. ✕         Involving: Sledgehammer, Raw Tritanium
 Ore smelting. ✓     Involving: Tritanium Ore, Deepslate Tritanium Ore, Ilmentrite, Raw Tritanium, Unstable Uni-Tritanium
 Ore blasting. ✓     Involving: Tritanium Ore, Deepslate Tritanium Ore, Ilmentrite, Raw Tritanium, Unstable Uni-Tritanium
 
-Synthesis of stabilizers. △             Involving: Covalent Bond Stabilizer, Virtual Single Bond Stabilizer
-Expanded features for stabilizers. ◯    Involving: The drinking feature and returns after crafting.
+Synthesis of stabilizers. ✓             Involving: Covalent Bond Stabilizer, Virtual Single Bond Stabilizer
+Expanded features for stabilizers. ✓    Involving: The drinking feature and returns after crafting.
 
 Synthesis of Unstable Tritanium. ✓  Involving: Unstable Uni-Tritanium, Unstable Tritanium
 Stabilization of metals. ✓          Involving: Unstable metals, stabilizers, stable metals.
@@ -175,8 +175,8 @@ Sentry turrets. ✕       Involving: Machine gun turret, Autocannon turret
 矿石熔炉烧炼。 ✓   涉及: 三钛矿石, 深层三钛矿石, 三钛铁矿, 粗质三钛, 不稳定的单钛合金
 矿石高炉烧炼。 ✓   涉及: 三钛矿石, 深层三钛矿石, 三钛铁矿, 粗质三钛, 不稳定的单钛合金
 
-稳定剂合成。 △       涉及: 共价键稳定剂, 虚拟单键稳定剂
-稳定剂扩展功能。 ◯   涉及: 饮用与合成返还
+稳定剂合成。 ✓       涉及: 共价键稳定剂, 虚拟单键稳定剂
+稳定剂扩展功能。 ✓   涉及: 饮用与合成返还
 
 不稳三钛合成。 ✓   涉及: 不稳定的单钛合金, 不稳定的三钛合金
 合金的稳定化。 ✓   涉及: 不稳定的合金, 稳定剂, 稳定的合金
