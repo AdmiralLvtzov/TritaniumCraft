@@ -1,9 +1,11 @@
 package net.admirallvtzov.tritaniumcraft.item;
 
 import net.admirallvtzov.tritaniumcraft.TritaniumCraft;
+import net.admirallvtzov.tritaniumcraft.effect.ModEffects;
 import net.admirallvtzov.tritaniumcraft.fluid.ModFluids;
 import net.admirallvtzov.tritaniumcraft.item.custom.ModArmorMaterials;
 import net.admirallvtzov.tritaniumcraft.item.custom.ModToolTiers;
+import net.admirallvtzov.tritaniumcraft.item.custom.StabilizerItem;
 import net.minecraft.world.entity.EquipmentSlot;
 import net.minecraft.world.item.*;
 import net.minecraftforge.eventbus.api.IEventBus;
@@ -65,11 +67,17 @@ public class ModItems {
     public static final RegistryObject<Item> RAW_TRITANIUM = ITEMS.register("raw_tritanium", () -> new Item(
             new Item.Properties().tab(ModCreativeModeTab.ITEM_TAB_OF_TRITANIUMCRAFT)));
 
-    public static final RegistryObject<Item> COVALENT_BOND_STABILIZER = ITEMS.register("covalent_bond_stabilizer", () -> new Item(
+    public static final RegistryObject<Item> COVALENT_BOND_STABILIZER = ITEMS.register("covalent_bond_stabilizer", () -> new StabilizerItem(
+            ModEffects.POISONED_BY_COVALENT_BOND_STABILIZER.get(),
+            900,
+            0,
             new Item.Properties().tab(ModCreativeModeTab.ITEM_TAB_OF_TRITANIUMCRAFT)
                     .craftRemainder(Items.GLASS_BOTTLE)));
 
-    public static final RegistryObject<Item> VIRTUAL_SINGLE_BOND_STABILIZER = ITEMS.register("virtual_single_bond_stabilizer", () -> new Item(
+    public static final RegistryObject<Item> VIRTUAL_SINGLE_BOND_STABILIZER = ITEMS.register("virtual_single_bond_stabilizer", () -> new StabilizerItem(
+            ModEffects.POISONED_BY_VIRTUAL_SINGLE_BOND_STABILIZER.get(),
+            900,
+            0,
             new Item.Properties().tab(ModCreativeModeTab.ITEM_TAB_OF_TRITANIUMCRAFT)
                     .craftRemainder(Items.GLASS_BOTTLE)));
 
