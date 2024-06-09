@@ -33,9 +33,9 @@ public class ModFluids {
 
     /*
 
-        Fluids for stabilizers was abandoned or at least long-term shelved, because the implementation required an unacceptable investment, a relevant important API didn't work properly, and the feature might only marginally improve the experience of players.
+        Fluids for stabilizers were permanently abandoned due to several reasons.
 
-        Please refer to README for specific reasons, which won't be fully expanded here for the sake of brevity.
+        Please refer to README for more details.
 
     */
 

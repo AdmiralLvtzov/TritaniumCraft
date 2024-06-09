@@ -11,11 +11,22 @@ import net.minecraft.world.entity.player.Player;
 import net.minecraft.world.item.*;
 import net.minecraft.world.level.Level;
 
-public class StabilizerItem extends Item {
+@Deprecated
+public class DeprecatedStabilizerItem extends Item {
+
+    /*
+
+        Unique NBT tags for stabilizers were long-term shelved due to several reasons.
+
+        Please refer to README for more details. Maybe this epic would be continued in the future.
+
+        This class has been copied and modified to provide expanded features for stabilizers.
+
+    */
 
     private static final int DRINKING_DURATION_OF_STABILIZERS = 32;
 
-    public StabilizerItem(Properties pProperties) {
+    public DeprecatedStabilizerItem(Properties pProperties) {
 
         super(pProperties);
 

@@ -4,7 +4,6 @@ import net.admirallvtzov.tritaniumcraft.TritaniumCraft;
 import net.admirallvtzov.tritaniumcraft.fluid.ModFluids;
 import net.admirallvtzov.tritaniumcraft.item.custom.ModArmorMaterials;
 import net.admirallvtzov.tritaniumcraft.item.custom.ModToolTiers;
-import net.admirallvtzov.tritaniumcraft.item.custom.StabilizerItem;
 import net.minecraft.world.entity.EquipmentSlot;
 import net.minecraft.world.item.*;
 import net.minecraftforge.eventbus.api.IEventBus;
@@ -71,10 +70,6 @@ public class ModItems {
                     .craftRemainder(Items.GLASS_BOTTLE)));
 
     public static final RegistryObject<Item> VIRTUAL_SINGLE_BOND_STABILIZER = ITEMS.register("virtual_single_bond_stabilizer", () -> new Item(
-            new Item.Properties().tab(ModCreativeModeTab.ITEM_TAB_OF_TRITANIUMCRAFT)
-                    .craftRemainder(Items.GLASS_BOTTLE)));
-
-    public static final RegistryObject<Item> STABILIZER = ITEMS.register("stabilizer", () -> new StabilizerItem(
             new Item.Properties().tab(ModCreativeModeTab.ITEM_TAB_OF_TRITANIUMCRAFT)
                     .craftRemainder(Items.GLASS_BOTTLE)));
 

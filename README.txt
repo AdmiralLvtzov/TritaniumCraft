@@ -127,7 +127,7 @@ Ore smelting. ✓     Involving: Tritanium Ore, Deepslate Tritanium Ore, Ilmentr
 Ore blasting. ✓     Involving: Tritanium Ore, Deepslate Tritanium Ore, Ilmentrite, Raw Tritanium, Unstable Uni-Tritanium
 
 Synthesis of stabilizers. △             Involving: Covalent Bond Stabilizer, Virtual Single Bond Stabilizer
-Expanded features for stabilizers. ◯    Involving: Unique NBT tags, drinking feature, returns after crafting.
+Expanded features for stabilizers. ◯    Involving: The drinking feature and returns after crafting.
 
 Synthesis of Unstable Tritanium. ✓  Involving: Unstable Uni-Tritanium, Unstable Tritanium
 Stabilization of metals. ✓          Involving: Unstable metals, stabilizers, stable metals.
@@ -176,7 +176,7 @@ Sentry turrets. ✕       Involving: Machine gun turret, Autocannon turret
 矿石高炉烧炼。 ✓   涉及: 三钛矿石, 深层三钛矿石, 三钛铁矿, 粗质三钛, 不稳定的单钛合金
 
 稳定剂合成。 △       涉及: 共价键稳定剂, 虚拟单键稳定剂
-稳定剂扩展功能。 ◯   涉及: 独属NBT标签, 饮用, 合成返还物
+稳定剂扩展功能。 ◯   涉及: 饮用与合成返还
 
 不稳三钛合成。 ✓   涉及: 不稳定的单钛合金, 不稳定的三钛合金
 合金的稳定化。 ✓   涉及: 不稳定的合金, 稳定剂, 稳定的合金
@@ -232,25 +232,22 @@ Sentry turrets. ✕       Involving: Machine gun turret, Autocannon turret
 
 Abandoned or long-term shelved epics:
 
-Stabilizers as potions via NBT tags. Involving:
+Unique NBT tags for stabilizers.  Involving:
 
-(Potion of) Covalent Bond Stabilizer ✕
-(Potion of) Virtual Single Bond Stabilizer ✕
+Stabilizer △
 
 Explanation:
 
-The original plan was to add two stabilizers as new potions and make them describable by a potion with the corresponding NBT tag.
+The class "Stabilizer" was successfully customized to implement the drinking feature and effects of being poisoned. NBT tags have been also built in, different icons would be displayed according to the tags.
+The above could be regarded as a gratifying breakthrough, but the vanilla synthesis on Minecraft 1.19 didn't support specified NBT tags for items.
+It was not unsolvable, the limitation could be circumvented by customizing new types of recipes, but it would require huge investment.
 
-The first and also the most important reason made me give up was that if they were registered as new potions ("Potion", not "PotionItem"), they would always be displayed in the vanilla tab of potions in the creative mode. I couldn't move them to custom tabs of this mod, which I really aspired to do so.
+In summary, I decided to long-term shelve this epic. Maybe I'll continue in the future.
 
-The second reason was that if they were registered as new potions, this action would also automatically create corresponding splash potions and lingering potions. These potions would be orphan items which couldn't be obtained via normal ways in the survival mode, and I have no idea how to make them play a role.
+Stabilizers as potions, fluids for stabilizers. Involving:
 
-The last reason was that in the future I may probably change icons of stabilizers was that to test tubes, and then maybe add more stabilizers or even other chemical solvents. In this context, adding stabilizers to the category of potions would make no sense and be unforesighted.
-
-In summary, I decided to permanently abandon this epic.
-
-Fluids for stabilizers. Involving:
-
+(Potion of) Covalent Bond Stabilizer ✕
+(Potion of) Virtual Single Bond Stabilizer ✕
 Covalent Bond Stabilizer Bucket △
 Virtual Single Bond Stabilizer Bucket △
 (Liquid) Block of Covalent Bond Stabilizer △        // This liquid block isn't visible in tabs in creative mode.
@@ -258,39 +255,33 @@ Virtual Single Bond Stabilizer Bucket △
 
 Explanation:
 
-The original plan was to add corresponding fluids for the stabilizers, then implement the interactions among potions of stabilizer, cauldrons and stabilizer buckets.
+The most important reason for giving up stabilizers as potions was that potions of stabilizers would always be displayed in the vanilla tab of potions in the creative mode, and it couldn't be moved to a custom tab.
+Aside from that, it was very likely that icons of stabilizers would be changed to test tubes in the future, so it didn't make sense to treat stabilizers as potions.
 
-The first reason made me give up was that the API of fluids "FluidType.Properties" was completely broken, all the setters didn't work as expected.
+The most important reason for giving up fluids for stabilizers was that some classes and methods in APIs of fluids were broken, important setters didn't work.
+Then, it was extremely difficult to realize interactions with the vanilla cauldron, as Forge didn't provide APIs or classes for it.
+Aside from that, there was no meaningful use case which required players to pour stabilizers as liquids, and I also had no relevant ideas around it.
 
-The second reason was that it was too difficult to implement the interactions between cauldrons and stabilizer buckets. Forge didn't provide APIs to interact with the vanilla cauldron, and I also didn't prefer to erase the vanilla cauldron then replace it with a new cauldron from this mod.
-
-The third reason was that it was also tricky to design reasonable values related to capacity. The capacity of a bucket was hardcoded to 1000 in the current version and there was no way to change it, while the capacity of a glass bottle was very likely one-third of that. This ratio made the design of values embarrassing.
-
-The last reason was that I could hardly find any meaningful use case which might require players to pour the stabilizer on the ground as a fluid. I didn't have any idea of design related to this scenario at the moment either. Milk in vanilla Minecraft didn't have its corresponding fluid, but it did play a good role.
-
-In summary, I eventually decided to give up, or at least long-term shelved this epic. Maybe I would be back to check if it's feasible some day in the future.
+In summary, I decided to permanently abandon these two epics.
 
 废弃或长期搁置的大型模块:
 
-稳定剂通过NBT标签成为药水。 涉及:
+稳定剂的独属NBT标签。 涉及:
 
-共价键稳定剂(药水) ✕
-虚拟单键稳定剂(药水) ✕
+稳定剂 △
 
 解释:
 
-原计划是将两种稳定剂作为新的药水添加，并使其可以通过带有相应NBT标签的药水来描述。
+成功自定义了稳定剂类,实现了饮用功能和中毒效果,同时内置了NBT标签并使用标签显示不同的图标。
+上述这些可以算是令人欣喜的突破,然而在1.19版本上原版Minecraft的合成不支持指定物品的NBT标签。
+这并非不可解决,可以通过自定义合成类型来绕开这一限制,但是需要庞大的工作量。
 
-让我放弃的第一个同时也是最重要的原因是，如果我把它们注册为新的药水("Potion", 而不是"PotionItem")，它们在创造模式中总是会显示在原版药水标签栏中。我无法将其移动到这个Mod自定义的标签栏中，但我又非常想这么做。
+综上,我决定长期搁置这个大型模块。可能以后会继续。
 
-第二个原因是如果将它们注册为药水，就会自动创建对应的喷溅药水和滞留药水。这些都会是孤立物品，它们在生存模式中无法通过正常途径获得，我也没有关于如何让它们发挥作用的想法。
+稳定剂药水化,稳定剂流体化。 涉及:
 
-最后的原因是以后我很可能会把稳定剂的图标改为试管并加入更多的稳定剂甚至其他化学试剂。在这种情况下，将稳定剂加入药水类别是没有意义的，并且缺乏长期考虑。
-
-综上，我决定永久废弃这个大型模块。
-
-稳定剂的流体化。 涉及:
-
+共价键稳定剂(药水) ✕
+虚拟单键稳定剂(药水) ✕
 共价键稳定剂桶 △
 虚拟单键稳定剂桶 △
 共价键稳定剂(液体)块 △     // 这个液体块在创造模式的选项卡中不可见。
@@ -298,17 +289,14 @@ In summary, I eventually decided to give up, or at least long-term shelved this 
 
 解释:
 
-原计划是为稳定剂添加相应的流体，然后再实现稳定剂药水、炼药锅和稳定剂桶之间的交互。
+放弃稳定剂药水化的最重要的原因是稳定剂药水在创造模式中一定会显示在原版药水标签栏中,无法将其移动到自定义的标签栏。
+除此之外以后很可能会把图标改为试管,所以将稳定剂加入药水类别没有意义。
 
-第一个让我放弃的原因是流体API里的"FluidType.Properties"是完全损坏的，所有的设置器都不生效。
+放弃稳定剂流体化的最重要的原因是流体API里有些类和方法是坏的,许多很重要的设置器都不生效。
+然后是实现与原版炼药锅相关的交互几乎不太可能,Forge没有为原版炼药锅提供API或类。
+除此之外没什么有意义的用例需要玩家将稳定剂作为液体倒在地上,我也没有相关的设计想法。
 
-第二个原因是实现炼药锅和稳定剂桶之间的交互太难了。Forge并没有提供与原版炼药锅交互的API，我也不想把原版炼药锅擦掉再从这个mod提供一个新炼药锅。
-
-第三个原因是与容量相关的数值很难设计得合理。桶的容量在当前版本被硬编码为1000，没有任何办法修改，而玻璃瓶的容量似乎是桶的三分之一。这个比例在设计数值时会显得很尴尬。
-
-最后的原因是我几乎找不到任何有意义的用例需要玩家将稳定剂作为液体倒在地上。我目前也没有任何与此用例相关的设计想法。原版Minecraft中的牛奶就没有其对应的流体，但也能很好的玩耍。
-
-综上所述，我决定放弃或至少长期搁置这个大型模块。也许将来我会回来再看看。
+综上,我决定永久废弃这两个大型模块。
 
 ✓: Completed                                / 已完成
 △: Almost completed but missing features    / 几乎完成但缺失部分功能
