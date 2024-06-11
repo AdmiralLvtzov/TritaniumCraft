@@ -121,7 +121,7 @@ Upcoming epics:
 
 Generation of ores. ✓   Involving: Tritanium Ore, Deepslate Tritanium Ore
 Mining drops. ✓         Involving: Ilmentrite
-Ore crushing. ✕         Involving: Sledgehammer, Raw Tritanium
+Ore crushing. ✓         Involving: Sledgehammer, Raw Tritanium
 
 Ore smelting. ✓     Involving: Tritanium Ore, Deepslate Tritanium Ore, Ilmentrite, Raw Tritanium, Unstable Uni-Tritanium
 Ore blasting. ✓     Involving: Tritanium Ore, Deepslate Tritanium Ore, Ilmentrite, Raw Tritanium, Unstable Uni-Tritanium
@@ -138,8 +138,6 @@ Components of tools. ✓                  Involving: Handle, Reinforced Handle
 Tritanium Weapons/Tools/Armor. ✓        Involving: Classic nine-piece set.
 Uni-Tritanium Weapons/Tools/Armor. ✓    Involving: Classic nine-piece set.
 Uni-Tritanium as substitute.  ✕         Involving: Probably a lot...
-
-Crushing ores using Sledgehammer. ✓     Involving: Sledgehammer
 
 Salt related. ✕             Involving: Salt Ore, Rock Salt, Sea Salt
 Meat related. ✕             Involving: Minced Meat, Meat Patty, Meatball, Luncheon Meat, Meat Floss
@@ -170,7 +168,7 @@ Sentry turrets. ✕       Involving: Machine gun turret, Autocannon turret
 
 矿石生成。 ✓   涉及: 三钛矿石, 深层三钛矿石
 采矿掉落。 ✓   涉及: 三钛铁矿
-矿石粉碎。 ✕   涉及: 大锤, 粗质三钛
+矿石粉碎。 ✓   涉及: 大锤, 粗质三钛
 
 矿石熔炉烧炼。 ✓   涉及: 三钛矿石, 深层三钛矿石, 三钛铁矿, 粗质三钛, 不稳定的单钛合金
 矿石高炉烧炼。 ✓   涉及: 三钛矿石, 深层三钛矿石, 三钛铁矿, 粗质三钛, 不稳定的单钛合金
@@ -187,8 +185,6 @@ Sentry turrets. ✕       Involving: Machine gun turret, Autocannon turret
 三钛武器/工具/盔甲。 ✓   涉及: 经典九件套。
 单钛武器/工具/盔甲。 ✓   涉及: 经典九件套。
 单钛代替铁。 ✕          涉及: 可能很多...
-
-用大锤粉碎矿石。 ✓   涉及: 大锤
 
 盐相关。 ✕     涉及: 盐矿, 石盐, 海盐
 肉相关。 ✕     涉及: 肉糜, 肉饼, 肉丸, 午餐肉, 肉松
