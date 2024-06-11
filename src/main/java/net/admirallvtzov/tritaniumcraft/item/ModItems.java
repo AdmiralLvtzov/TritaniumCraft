@@ -35,6 +35,10 @@ public class ModItems {
 
         (The range of color values is from -100 to 100.)
 
+        Regarding the logoFile of the mod:
+
+        Add 15 to blue in both "Shadows" and "Midtones", but not in "Highlights".
+
     */
 
     public static final RegistryObject<Item> UNITRITANIUM = ITEMS.register("unitritanium", () -> new Item(
