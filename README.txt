@@ -35,7 +35,7 @@ Uni-Tritanium Weapons/Tools/Armor ✓
 
 Make Uni-Tritanium a substitute for Iron Ingots in some cases. ✕
 
-Sledgehammer △
+Sledgehammer ✓
 
 Salt Ore ✕          Rock Salt ✕                     Sea Salt ✕
 Minced Meat ✕       Meat Patty ✕                    Meatball ✕          Luncheon Meat ✕             Meat Floss ✕
@@ -76,7 +76,7 @@ Machine gun turret ✕    Autocannon turret ✕
 
 让单钛合金可以在部分合成中代替铁锭。 ✕
 
-大锤 △
+大锤 ✓
 
 盐矿 ✕        石盐 ✕        海盐 ✕
 肉糜 ✕        肉饼 ✕        肉丸 ✕       午餐肉 ✕      肉松 ✕
@@ -139,7 +139,7 @@ Tritanium Weapons/Tools/Armor. ✓        Involving: Classic nine-piece set.
 Uni-Tritanium Weapons/Tools/Armor. ✓    Involving: Classic nine-piece set.
 Uni-Tritanium as substitute.  ✕         Involving: Probably a lot...
 
-Sledgehammer in craft. △    Involving: Sledgehammer
+Crushing ores using Sledgehammer. ✓     Involving: Sledgehammer
 
 Salt related. ✕             Involving: Salt Ore, Rock Salt, Sea Salt
 Meat related. ✕             Involving: Minced Meat, Meat Patty, Meatball, Luncheon Meat, Meat Floss
@@ -188,7 +188,7 @@ Sentry turrets. ✕       Involving: Machine gun turret, Autocannon turret
 单钛武器/工具/盔甲。 ✓   涉及: 经典九件套。
 单钛代替铁。 ✕          涉及: 可能很多...
 
-大锤相关合成。 △   涉及: 大锤
+用大锤粉碎矿石。 ✓   涉及: 大锤
 
 盐相关。 ✕     涉及: 盐矿, 石盐, 海盐
 肉相关。 ✕     涉及: 肉糜, 肉饼, 肉丸, 午餐肉, 肉松

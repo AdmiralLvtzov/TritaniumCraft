@@ -5,6 +5,7 @@ import net.admirallvtzov.tritaniumcraft.effect.ModEffects;
 import net.admirallvtzov.tritaniumcraft.fluid.ModFluids;
 import net.admirallvtzov.tritaniumcraft.item.custom.ModArmorMaterials;
 import net.admirallvtzov.tritaniumcraft.item.custom.ModToolTiers;
+import net.admirallvtzov.tritaniumcraft.item.custom.SledgehammerItem;
 import net.admirallvtzov.tritaniumcraft.item.custom.StabilizerItem;
 import net.minecraft.world.entity.EquipmentSlot;
 import net.minecraft.world.item.*;
@@ -62,7 +63,8 @@ public class ModItems {
             new Item.Properties().tab(ModCreativeModeTab.ITEM_TAB_OF_TRITANIUMCRAFT)));
 
     public static final RegistryObject<Item> ILMENTRITE = ITEMS.register("ilmentrite", () -> new Item(
-            new Item.Properties().tab(ModCreativeModeTab.ITEM_TAB_OF_TRITANIUMCRAFT)));
+            new Item.Properties().tab(ModCreativeModeTab.ITEM_TAB_OF_TRITANIUMCRAFT)
+                    .craftRemainder(Items.RAW_IRON)));
 
     public static final RegistryObject<Item> RAW_TRITANIUM = ITEMS.register("raw_tritanium", () -> new Item(
             new Item.Properties().tab(ModCreativeModeTab.ITEM_TAB_OF_TRITANIUMCRAFT)));
@@ -89,6 +91,10 @@ public class ModItems {
 
     public static final RegistryObject<Item> HANDLE = ITEMS.register("handle", () -> new Item(
             new Item.Properties().tab(ModCreativeModeTab.ITEM_TAB_OF_TRITANIUMCRAFT)));
+
+    public static final RegistryObject<Item> SLEDGEHAMMER = ITEMS.register("sledgehammer", () -> new SledgehammerItem(
+            new Item.Properties().tab(ModCreativeModeTab.TOOL_TAB_OF_TRITANIUMCRAFT)
+                    .durability(72)));
 
     public static final RegistryObject<Item> TRITANIUM_SWORD = ITEMS.register("tritanium_sword", () -> new SwordItem(
             ModToolTiers.TRITANIUM,
@@ -189,9 +195,6 @@ public class ModItems {
             ModArmorMaterials.UNITRITANIUM,
             EquipmentSlot.FEET,
             new Item.Properties().tab(ModCreativeModeTab.TOOL_TAB_OF_TRITANIUMCRAFT)));
-
-    public static final RegistryObject<Item> SLEDGEHAMMER = ITEMS.register("sledgehammer", () -> new Item(
-            new Item.Properties().tab(ModCreativeModeTab.ITEMS_UNDER_DEV_OF_TRITANIUMCRAFT)));
 
     public static final RegistryObject<Item> COVALENT_BOND_STABILIZER_BUCKET = ITEMS.register("covalent_bond_stabilizer_bucket", () -> new BucketItem(
             ModFluids.STILL_COVALENT_BOND_STABILIZER,
