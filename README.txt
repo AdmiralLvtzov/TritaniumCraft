@@ -32,21 +32,28 @@ Block of Tritanium ✓        Block of Uni-Tritanium ✓            Uni-Tritaniu
 Handle ✓    Reinforced Handle ✓
 Tritanium Weapons/Tools/Armor ✓
 Uni-Tritanium Weapons/Tools/Armor ✓
-
-Make Uni-Tritanium a substitute for Iron Ingots in some cases. ✕
-
 Sledgehammer ✓
 
-Salt Ore ✕          Rock Salt ✕                     Sea Salt ✕
-Minced Meat ✕       Meat Patty ✕                    Meatball ✕          Luncheon Meat ✕             Meat Floss ✕
-Tomato ✕            Lettuce ✕                       Cucumber ✕          Green Pepper ✕
-Cheese ✕            Pickle ✕                        Nori ✕
-Black Pepper ✕      Black Pepper Mushroom Sauce ✕   Ketchup ✕           Marinara Sauce ✕
-Beef and Mash ✕     Fries ✕                         Fish and Chips ✕    Meatball Marinara Roll ✕    Original Retripe Chicken ✕  Big Trit ™ ✕    Nigiri ✕    Sushi Roll ✕
+Leaf of Oregano ◯   Antioxidant Material ◯
+Make Uni-Tritanium a substitute for Iron Ingots in some cases. ◯
+
+Geological Notes of When ✕
+
+Oregano ✕               Industrial Hemp ✕
+Hevea Brasiliensis ✕    Pinus Elliottii ✕
 Pot Greenhouse ✕
 
-Biomass ✕       Oil ✕   Fuel ✕
-Generator ✕     Cable ✕
+Salt Ore ✕              Rock Salt ✕                     Sea Salt ✕
+Minced Meat ✕           Meat Patty ✕                    Meatball ✕          Luncheon Meat ✕     Meat Floss ✕
+Tomato ✕                Lettuce ✕                       Cucumber ✕          Green Pepper ✕
+Banana Tree ✕
+Cheese ✕                Pickle ✕                        Nori ✕
+Black Pepper ✕          Black Pepper Mushroom Sauce ✕   Ketchup ✕           Marinara Sauce ✕
+Toasted Cheese Bread ✕  Fruit Salad ✕                   Beef and Mash ✕     Fries ✕             Fish and Chips ✕    Meatball Marinara Roll ✕    Original Retripe Chicken ✕  Big Trit ™ ✕    Nigiri ✕    Sushi Roll ✕
+
+Biomass ✕           Oil ✕                       Fuel ✕
+Manual Generator ✕  Coal Generator ✕            Solar Generator ✕               Geothermal Generator ✕          Biomass Generator  ✕
+Cable ✕             Power Storage Station ✕     Power Storage Station Mk.II ✕   Power Storage Station Mk.IIa ✕
 
 Ancient Technology Module ✕
 Archived Memories ✕
@@ -73,21 +80,28 @@ Machine gun turret ✕    Autocannon turret ✕
 手柄 ✓   强化手柄 ✓
 三钛武器/工具/盔甲 ✓
 单钛武器/工具/盔甲 ✓
-
-让单钛合金可以在部分合成中代替铁锭。 ✕
-
 大锤 ✓
 
-盐矿 ✕        石盐 ✕        海盐 ✕
-肉糜 ✕        肉饼 ✕        肉丸 ✕       午餐肉 ✕      肉松 ✕
-番茄 ✕        生菜 ✕        黄瓜 ✕       绿胡椒 ✕
-奶酪 ✕        酸菜 ✕        海苔 ✕
-黑胡椒粉 ✕     黑椒蘑菇汁 ✕   番茄酱 ✕     番茄肉酱 ✕
-牛肉土豆泥 ✕   炸薯条 ✕       炸鱼薯角 ✕   番茄肉丸卷 ✕   吮指三味鸡 ✕   巨无太™汉堡 ✕   握寿司 ✕   寿司卷 ✕
+牛至叶 ◯   抗氧化材料 ◯
+让单钛合金可以在部分合成中代替铁锭。 ◯
+
+他的地质笔记 ✕
+
+牛至 ✕       工业大麻 ✕
+橡胶树 ✕     湿地松 ✕
 盆栽温室 ✕
 
-生物质 ✕   石油 ✕   燃油 ✕
-发电机 ✕   导线 ✕
+盐矿 ✕        石盐 ✕        海盐 ✕
+肉糜 ✕        肉饼 ✕        肉丸 ✕        午餐肉 ✕      肉松 ✕
+番茄 ✕        生菜 ✕        黄瓜 ✕        绿胡椒 ✕
+香蕉树 ✕
+奶酪 ✕        酸菜 ✕        海苔 ✕
+黑胡椒粉 ✕     黑椒蘑菇汁 ✕   番茄酱 ✕       番茄肉酱 ✕
+烤奶酪面包 ✕   水果沙拉 ✕     牛肉土豆泥 ✕   炸薯条 ✕      炸鱼薯角 ✕   番茄肉丸卷 ✕   吮指三味鸡 ✕   巨无太™汉堡 ✕   握寿司 ✕   寿司卷 ✕
+
+生物质 ✕       石油 ✕        燃油 ✕
+人力发电机 ✕   煤炭发电机 ✕   太阳能发电机 ✕   地热发电机 ✕   生物质发电机 ✕
+导线 ✕        储电站 ✕      储电站二型 ✕     储电站2A型 ✕
 
 远古技术模块 ✕
 归档的记忆 ✕
@@ -137,18 +151,27 @@ Forms of metals. ✓  Involving: Block of Tritanium, Block of Uni-Tritanium, Uni
 Components of tools. ✓                  Involving: Handle, Reinforced Handle
 Tritanium Weapons/Tools/Armor. ✓        Involving: Classic nine-piece set.
 Uni-Tritanium Weapons/Tools/Armor. ✓    Involving: Classic nine-piece set.
-Uni-Tritanium as substitute.  ✕         Involving: Probably a lot...
 
-Salt related. ✕             Involving: Salt Ore, Rock Salt, Sea Salt
-Meat related. ✕             Involving: Minced Meat, Meat Patty, Meatball, Luncheon Meat, Meat Floss
-Crops. ✕                    Involving: Tomato, Lettuce, Cucumber, Green Pepper
-Dishes in process. ✕        Involving: Cheese, Pickle, Nori
-Seasonings. ✕               Involving: Black Pepper, Black Pepper Mushroom Sauce, Ketchup, Marinara Sauce
-Cuisines. ✕                 Involving: Beef and Mash, Fries, Fish and Chips, Meatball Marinara Roll, Original Retripe Chicken, Big Trit ™, Nigiri, Sushi Roll
+Wrapped Uni-Tritanium. ◯        Involving: Leaf of Oregano, Antioxidant Material
+Uni-Tritanium as substitute. ◯  Involving: A JSON tag "iron_and_its_substitutions" and overrides of many vanilla recipes.
+
+Guidance Brochure. ✕    Involving: Geological Notes of When
+
+Non-foodstuff crops. ✕      Involving: Oregano, Industrial Hemp
+Non-foodstuff trees. ✕      Involving: Hevea Brasiliensis, Pinus Elliottii
 Agricultural facilities. ✕  Involving: Pot Greenhouse
 
+Salt related. ✕         Involving: Salt Ore, Rock Salt, Sea Salt
+Meat related. ✕         Involving: Minced Meat, Meat Patty, Meatball, Luncheon Meat, Meat Floss
+Foodstuff crops. ✕      Involving: Tomato, Lettuce, Cucumber, Green Pepper
+Foodstuff trees. ✕      Involving: Banana Tree
+Dishes in process. ✕    Involving: Cheese, Pickle, Nori
+Seasonings. ✕           Involving: Black Pepper, Black Pepper Mushroom Sauce, Ketchup, Marinara Sauce
+Cuisines. ✕             Involving: Toasted Cheese Bread, Fruit Salad, Beef and Mash, Fries, Fish and Chips, Meatball Marinara Roll, Original Retripe Chicken, Big Trit ™, Nigiri, Sushi Roll
+
 More fuel. ✕        Involving: Biomass, Oil, Fuel
-Power Systems. ✕    Involving: Generator, Cable
+Generators. ✕       Involving: Manual Generator, Coal Generator, Solar Generator, Geothermal Generator, Biomass Generator
+Power Systems. ✕    Involving: Cable, Power Storage Station, Power Storage Station Mk.II, Power Storage Station Mk.IIa
 
 Relic Ore. ✕            Involving: Ancient Technology Module
 Summon of villagers. ✕  Involving: Archived Memories
@@ -184,18 +207,27 @@ Sentry turrets. ✕       Involving: Machine gun turret, Autocannon turret
 工具部件。 ✓            涉及: 手柄, 强化手柄
 三钛武器/工具/盔甲。 ✓   涉及: 经典九件套。
 单钛武器/工具/盔甲。 ✓   涉及: 经典九件套。
-单钛代替铁。 ✕          涉及: 可能很多...
+
+单钛的包装。 ◯   涉及: 牛至叶, 抗氧化材料
+单钛代替铁。 ◯   涉及: JSON标签"iron_and_its_substitutions"和很多原版合成配方的覆写。
+
+指导手册。 ✕   涉及: 他的地质笔记
+
+非粮食作物。 ✕   涉及: 牛至, 工业大麻
+非粮食树木。 ✕   涉及: 橡胶树, 湿地松
+农业设施。 ✕     涉及: 盆栽温室
 
 盐相关。 ✕     涉及: 盐矿, 石盐, 海盐
 肉相关。 ✕     涉及: 肉糜, 肉饼, 肉丸, 午餐肉, 肉松
-作物。 ✕       涉及: 番茄, 生菜, 黄瓜, 绿胡椒
+粮食作物。 ✕   涉及: 番茄, 生菜, 黄瓜, 绿胡椒
+粮食树木。 ✕   涉及: 香蕉树
 半成品。 ✕     涉及: 奶酪, 酸菜, 海苔
 调料。 ✕       涉及: 黑胡椒粉, 黑椒蘑菇汁, 番茄酱, 番茄肉酱
-菜肴。 ✕       涉及: 牛肉土豆泥, 炸薯条, 炸鱼薯角, 番茄肉丸卷, 吮指三味鸡, 巨无太™汉堡, 握寿司, 寿司卷
-农业设施。 ✕   涉及: 盆栽温室
+菜肴。 ✕       涉及: 烤奶酪面包, 水果沙拉, 牛肉土豆泥, 炸薯条, 炸鱼薯角, 番茄肉丸卷, 吮指三味鸡, 巨无太™汉堡, 握寿司, 寿司卷
 
 更多燃料。 ✕   涉及: 生物质, 石油, 燃油
-能源系统。 ✕   涉及: 发电机, 导线
+发电机。 ✕     涉及: 人力发电机, 煤炭发电机, 太阳能发电机, 地热发电机, 生物质发电机
+能源系统。 ✕   涉及: 导线, 储电站, 储电站二型, 储电站2A型
 
 遗珍矿石。 ✕   涉及: 远古技术模块
 村民召唤。 ✕   涉及: 归档的记忆
