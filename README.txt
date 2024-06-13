@@ -34,8 +34,9 @@ Tritanium Weapons/Tools/Armor ✓
 Uni-Tritanium Weapons/Tools/Armor ✓
 Sledgehammer ✓
 
-Leaf of Oregano ◯   Antioxidant Material ◯
-Make Uni-Tritanium a substitute for Iron Ingots in some cases. ◯
+Leaf of Oregano ◯
+Antioxidant Paste ◯     Antioxidant Coat ◯  Antioxidant Uni-Tritanium ◯
+Cluster of Coals ◯      Lattice Coat ◯      Corundum Tritanium ◯
 
 Geological Notes of When ✕
 
@@ -82,8 +83,9 @@ Machine gun turret ✕    Autocannon turret ✕
 单钛武器/工具/盔甲 ✓
 大锤 ✓
 
-牛至叶 ◯   抗氧化材料 ◯
-让单钛合金可以在部分合成中代替铁锭。 ◯
+牛至叶 ◯
+抗氧化膏 ◯   抗氧化覆层 ◯   抗氧化单钛 ◯
+煤簇 ◯       晶格覆层 ◯    刚玉三钛 ◯
 
 他的地质笔记 ✕
 
@@ -152,8 +154,8 @@ Components of tools. ✓                  Involving: Handle, Reinforced Handle
 Tritanium Weapons/Tools/Armor. ✓        Involving: Classic nine-piece set.
 Uni-Tritanium Weapons/Tools/Armor. ✓    Involving: Classic nine-piece set.
 
-Wrapped Uni-Tritanium. ◯        Involving: Leaf of Oregano, Antioxidant Material
-Uni-Tritanium as substitute. ◯  Involving: A JSON tag "iron_and_its_substitutions" and overrides of many vanilla recipes.
+Wrapped Uni-Tritanium. ◯                Involving: Leaf of Oregano, Antioxidant Paste, Antioxidant Coat, Antioxidant Uni-Tritanium, Cluster of Coals, Lattice Coat, Corundum Tritanium
+Substitutions for vanilla materials. ◯  Involving: Several JSON tags and overrides of many vanilla recipes.
 
 Guidance Brochure. ✕    Involving: Geological Notes of When
 
@@ -208,8 +210,8 @@ Sentry turrets. ✕       Involving: Machine gun turret, Autocannon turret
 三钛武器/工具/盔甲。 ✓   涉及: 经典九件套。
 单钛武器/工具/盔甲。 ✓   涉及: 经典九件套。
 
-单钛的包装。 ◯   涉及: 牛至叶, 抗氧化材料
-单钛代替铁。 ◯   涉及: JSON标签"iron_and_its_substitutions"和很多原版合成配方的覆写。
+单钛的包装。 ◯        涉及: 牛至叶, 抗氧化膏, 抗氧化覆层, 抗氧化单钛, 煤簇, 晶格覆层, 刚玉三钛
+原版材料的代替品。 ◯   涉及: 若干JSON标签和很多原版合成配方的覆写。
 
 指导手册。 ✕   涉及: 他的地质笔记
 
