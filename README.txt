@@ -22,7 +22,7 @@ The mod is completely open source and non-profit. It adopts the license GNU Gene
 
 Upcoming items:
 
-Leaf of Oregano ◯
+Leaf of Oregano ✓
 Antioxidant Paste ◯     Antioxidant Coat ◯  Antioxidant Uni-Tritanium ◯
 Cluster of Coals ✓      Lattice Coat ✓      Corundum Tritanium ✓
 
@@ -59,7 +59,7 @@ Machine gun turret ✕    Autocannon turret ✕
 
 即将到来的物品:
 
-牛至叶 ◯
+牛至叶 ✓
 抗氧化膏 ◯   抗氧化覆层 ◯   抗氧化单钛 ◯
 煤簇 ✓       晶格覆层 ✓    刚玉三钛 ✓
 
