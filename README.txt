@@ -22,18 +22,6 @@ The mod is completely open source and non-profit. It adopts the license GNU Gene
 
 Upcoming items:
 
-Tritanium ✓                 Uni-Tritanium ✓
-Unstable Tritanium ✓        Unstable Uni-Tritanium ✓
-Covalent Bond Stabilizer ✓  Virtual Single Bond Stabilizer ✓
-Ilmentrite ✓                Raw Tritanium ✓
-Tritanium Ore ✓             Deepslate Tritanium Ore ✓
-Block of Tritanium ✓        Block of Uni-Tritanium ✓            Uni-Tritanium Nugget ✓
-
-Handle ✓    Reinforced Handle ✓
-Tritanium Weapons/Tools/Armor ✓
-Uni-Tritanium Weapons/Tools/Armor ✓
-Sledgehammer ✓
-
 Leaf of Oregano ◯
 Antioxidant Paste ◯     Antioxidant Coat ◯  Antioxidant Uni-Tritanium ◯
 Cluster of Coals ✓      Lattice Coat ✓      Corundum Tritanium ✓
@@ -70,18 +58,6 @@ Impact Grenade ✕        Flash Grenade ✕         Stun Grenade ✕  Snapshot G
 Machine gun turret ✕    Autocannon turret ✕
 
 即将到来的物品:
-
-三钛合金 ✓          单钛合金 ✓
-不稳定的三钛合金 ✓   不稳定的单钛合金 ✓
-共价键稳定剂 ✓       虚拟单键稳定剂 ✓
-三钛铁矿 ✓          粗质三钛 ✓
-三钛矿石 ✓          深层三钛矿石 ✓
-三钛块 ✓            单钛块 ✓           单钛粒 ✓
-
-手柄 ✓   强化手柄 ✓
-三钛武器/工具/盔甲 ✓
-单钛武器/工具/盔甲 ✓
-大锤 ✓
 
 牛至叶 ◯
 抗氧化膏 ◯   抗氧化覆层 ◯   抗氧化单钛 ◯
@@ -133,7 +109,7 @@ Machine gun turret ✕    Autocannon turret ✕
 
 
 
-Upcoming epics:
+Overview of epics:
 
 Generation of ores. ✓   Involving: Tritanium Ore, Deepslate Tritanium Ore
 Mining drops. ✓         Involving: Ilmentrite
@@ -189,7 +165,7 @@ Ranged weapons. ✕       Involving: Bolt-action Rifle, Pistol, Launcher, Launch
 Throwables. ✕           Involving: Impact Grenade, Flash Grenade, Stun Grenade, Snapshot Grenade
 Sentry turrets. ✕       Involving: Machine gun turret, Autocannon turret
 
-即将到来的大型模块:
+大型模块总览:
 
 矿石生成。 ✓   涉及: 三钛矿石, 深层三钛矿石
 采矿掉落。 ✓   涉及: 三钛铁矿
@@ -262,70 +238,36 @@ Sentry turrets. ✕       Involving: Machine gun turret, Autocannon turret
 
 Abandoned or long-term shelved epics:
 
-Unique NBT tags for stabilizers.  Involving:
-
-Stabilizer △
+Unique NBT tags among stabilizers, Corundum Tritanium as substitutions in recipes of fireworks.
 
 Explanation:
 
-The class "Stabilizer" was successfully customized to implement the drinking feature and effects of being poisoned. NBT tags have been also built in, different icons would be displayed according to the tags.
-The above could be regarded as a gratifying breakthrough, but the vanilla synthesis on Minecraft 1.19 didn't support specified NBT tags for items.
-It was not unsolvable, the limitation could be circumvented by customizing new types of recipes, but it would require huge investment.
-
+The vanilla synthesis on Minecraft 1.19 didn't support specified NBT tags for items. The limitations could be circumvented by customizing new types of recipes, but it would require huge investment.
 In summary, I decided to long-term shelve this epic. Maybe I'll continue in the future.
 
-Stabilizers as potions, fluids for stabilizers. Involving:
-
-(Potion of) Covalent Bond Stabilizer ✕
-(Potion of) Virtual Single Bond Stabilizer ✕
-Covalent Bond Stabilizer Bucket △
-Virtual Single Bond Stabilizer Bucket △
-(Liquid) Block of Covalent Bond Stabilizer △        // This liquid block isn't visible in tabs in creative mode.
-(Liquid) Block of Virtual Single Bond Stabilizer △  // This liquid block isn't visible in tabs in creative mode.
+Stabilizers as potions, fluids for stabilizers.
 
 Explanation:
 
-The most important reason for giving up stabilizers as potions was that potions of stabilizers would always be displayed in the vanilla tab of potions in the creative mode, and it couldn't be moved to a custom tab.
-Aside from that, it was very likely that icons of stabilizers would be changed to test tubes in the future, so it didn't make sense to treat stabilizers as potions.
-
-The most important reason for giving up fluids for stabilizers was that some classes and methods in APIs of fluids were broken, important setters didn't work.
-Then, it was extremely difficult to realize interactions with the vanilla cauldron, as Forge didn't provide APIs or classes for it.
-Aside from that, there was no meaningful use case which required players to pour stabilizers as liquids, and I also had no relevant ideas around it.
-
+A reason for giving up stabilizers as potions was that they would always be displayed in the vanilla tab of potions in the creative mode. Aside from that, it was very likely that icons of stabilizers would be changed to test tubes in the future.
+The most important reason for giving up fluids for stabilizers was that some important setters in APIs of fluids were broken. Then, it was extremely difficult to realize interactions with the vanilla cauldron as Forge didn't provide APIs for it.
 In summary, I decided to permanently abandon these two epics.
 
 废弃或长期搁置的大型模块:
 
-稳定剂的独属NBT标签。 涉及:
-
-稳定剂 △
+稳定剂独属NBT标签,刚玉三钛在烟花合成中作代替。
 
 解释:
 
-成功自定义了稳定剂类,实现了饮用功能和中毒效果,同时内置了NBT标签并使用标签显示不同的图标。
-上述这些可以算是令人欣喜的突破,然而在1.19版本上原版Minecraft的合成不支持指定物品的NBT标签。
-这并非不可解决,可以通过自定义合成类型来绕开这一限制,但是需要庞大的工作量。
-
+在1.19版本上原版Minecraft的合成不支持指定物品的NBT标签。可以通过自定义合成类型来绕开限制,但需要庞大的工作量。
 综上,我决定长期搁置这个大型模块。可能以后会继续。
 
-稳定剂药水化,稳定剂流体化。 涉及:
-
-共价键稳定剂(药水) ✕
-虚拟单键稳定剂(药水) ✕
-共价键稳定剂桶 △
-虚拟单键稳定剂桶 △
-共价键稳定剂(液体)块 △     // 这个液体块在创造模式的选项卡中不可见。
-虚拟单键稳定剂(液体)块 △   // 这个液体块在创造模式的选项卡中不可见。
+稳定剂药水化,稳定剂流体化。
 
 解释:
 
-放弃稳定剂药水化的最重要的原因是稳定剂药水在创造模式中一定会显示在原版药水标签栏中,无法将其移动到自定义的标签栏。
-除此之外以后很可能会把图标改为试管,所以将稳定剂加入药水类别没有意义。
-
-放弃稳定剂流体化的最重要的原因是流体API里有些类和方法是坏的,许多很重要的设置器都不生效。
-然后是实现与原版炼药锅相关的交互几乎不太可能,Forge没有为原版炼药锅提供API或类。
-除此之外没什么有意义的用例需要玩家将稳定剂作为液体倒在地上,我也没有相关的设计想法。
-
+放弃稳定剂药水化的一个原因是稳定剂药水在创造模式中一定会显示在原版药水栏中。除此之外,图标以后也很可能会被改为试管。
+放弃稳定剂流体化的最重要的原因是流体API里有许多很重要的设置器都不生效。还有就是实现与原版炼药锅相关的交互几乎不太可能,Forge不为其提供API。
 综上,我决定永久废弃这两个大型模块。
 
 ✓: Completed                                / 已完成
