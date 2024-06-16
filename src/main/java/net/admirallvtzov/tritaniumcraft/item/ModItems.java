@@ -206,6 +206,10 @@ public class ModItems {
     public static final RegistryObject<Item> CORUNDUM_TRITANIUM = ITEMS.register("corundum_tritanium", () -> new Item(
             new Item.Properties().tab(ModCreativeModeTab.ITEM_TAB_OF_TRITANIUMCRAFT)));
 
+    public static final RegistryObject<Item> LEAF_OF_OREGANO = ITEMS.register("leaf_of_oregano", () -> new Item(
+            new Item.Properties().tab(ModCreativeModeTab.ITEM_TAB_OF_TRITANIUMCRAFT)
+                    .food(ModFoods.LEAF_OF_OREGANO)));
+
     public static final RegistryObject<Item> COVALENT_BOND_STABILIZER_BUCKET = ITEMS.register("covalent_bond_stabilizer_bucket", () -> new BucketItem(
             ModFluids.STILL_COVALENT_BOND_STABILIZER,
             new Item.Properties().tab(ModCreativeModeTab.ITEMS_UNDER_DEV_OF_TRITANIUMCRAFT)
