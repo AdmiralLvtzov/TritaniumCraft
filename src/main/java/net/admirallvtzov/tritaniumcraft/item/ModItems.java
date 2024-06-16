@@ -200,6 +200,12 @@ public class ModItems {
     public static final RegistryObject<Item> CLUSTER_OF_COALS = ITEMS.register("cluster_of_coals", () -> new ClusterOfCoalsItem(
             new Item.Properties().tab(ModCreativeModeTab.ITEM_TAB_OF_TRITANIUMCRAFT)));
 
+    public static final RegistryObject<Item> LATTICE_COAT = ITEMS.register("lattice_coat", () -> new Item(
+            new Item.Properties().tab(ModCreativeModeTab.ITEM_TAB_OF_TRITANIUMCRAFT)));
+
+    public static final RegistryObject<Item> CORUNDUM_TRITANIUM = ITEMS.register("corundum_tritanium", () -> new Item(
+            new Item.Properties().tab(ModCreativeModeTab.ITEM_TAB_OF_TRITANIUMCRAFT)));
+
     public static final RegistryObject<Item> COVALENT_BOND_STABILIZER_BUCKET = ITEMS.register("covalent_bond_stabilizer_bucket", () -> new BucketItem(
             ModFluids.STILL_COVALENT_BOND_STABILIZER,
             new Item.Properties().tab(ModCreativeModeTab.ITEMS_UNDER_DEV_OF_TRITANIUMCRAFT)

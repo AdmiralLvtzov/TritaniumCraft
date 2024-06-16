@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tritaniumcraft:tritanium"
+    },
+    {
+      "item": "tritaniumcraft:lattice_coat"
+    }
+  ],
+  "result": {
+    "item": "tritaniumcraft:corundum_tritanium"
+  }
+}
