@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "group": "light_gray_dye",
+  "cookingtime": 80,
+  "experience": 0.1,
+  "ingredient": {
+    "item": "tritaniumcraft:leaf_of_oregano"
+  },
+  "result": {
+    "count": 2,
+    "item": "minecraft:light_gray_dye"
+  }
+}
