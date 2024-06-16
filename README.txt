@@ -36,7 +36,7 @@ Sledgehammer ✓
 
 Leaf of Oregano ◯
 Antioxidant Paste ◯     Antioxidant Coat ◯  Antioxidant Uni-Tritanium ◯
-Cluster of Coals ◯      Lattice Coat ◯      Corundum Tritanium ◯
+Cluster of Coals ✓      Lattice Coat ◯      Corundum Tritanium ◯
 
 Geological Notes of When ✕
 
@@ -85,7 +85,7 @@ Machine gun turret ✕    Autocannon turret ✕
 
 牛至叶 ◯
 抗氧化膏 ◯   抗氧化覆层 ◯   抗氧化单钛 ◯
-煤簇 ◯       晶格覆层 ◯    刚玉三钛 ◯
+煤簇 ✓       晶格覆层 ◯    刚玉三钛 ◯
 
 他的地质笔记 ✕
 
