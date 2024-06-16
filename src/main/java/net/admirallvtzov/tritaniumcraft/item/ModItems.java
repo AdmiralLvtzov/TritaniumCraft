@@ -3,10 +3,7 @@ package net.admirallvtzov.tritaniumcraft.item;
 import net.admirallvtzov.tritaniumcraft.TritaniumCraft;
 import net.admirallvtzov.tritaniumcraft.effect.ModEffects;
 import net.admirallvtzov.tritaniumcraft.fluid.ModFluids;
-import net.admirallvtzov.tritaniumcraft.item.custom.ModArmorMaterials;
-import net.admirallvtzov.tritaniumcraft.item.custom.ModToolTiers;
-import net.admirallvtzov.tritaniumcraft.item.custom.SledgehammerItem;
-import net.admirallvtzov.tritaniumcraft.item.custom.StabilizerItem;
+import net.admirallvtzov.tritaniumcraft.item.custom.*;
 import net.minecraft.world.entity.EquipmentSlot;
 import net.minecraft.world.item.*;
 import net.minecraftforge.eventbus.api.IEventBus;
@@ -199,6 +196,9 @@ public class ModItems {
             ModArmorMaterials.UNITRITANIUM,
             EquipmentSlot.FEET,
             new Item.Properties().tab(ModCreativeModeTab.TOOL_TAB_OF_TRITANIUMCRAFT)));
+
+    public static final RegistryObject<Item> CLUSTER_OF_COALS = ITEMS.register("cluster_of_coals", () -> new ClusterOfCoalsItem(
+            new Item.Properties().tab(ModCreativeModeTab.ITEM_TAB_OF_TRITANIUMCRAFT)));
 
     public static final RegistryObject<Item> COVALENT_BOND_STABILIZER_BUCKET = ITEMS.register("covalent_bond_stabilizer_bucket", () -> new BucketItem(
             ModFluids.STILL_COVALENT_BOND_STABILIZER,
