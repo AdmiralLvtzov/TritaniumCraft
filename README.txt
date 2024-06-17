@@ -22,9 +22,11 @@ The mod is completely open source and non-profit. It adopts the license GNU Gene
 
 Upcoming items:
 
-Leaf of Oregano ✓
-Antistatic Paste ✓  Antistatic Coat ✓   Antistatic Uni-Tritanium ✓
-Cluster of Coals ✓  Lattice Coat ✓      Corundum Tritanium ✓
+Leaf Armor ✕
+
+Leaf of Oregano ✓       Antistatic Paste ✓          Antistatic Coat ✓
+Cluster of Coals ✓      Lattice Coat ✓
+Corundum Tritanium ✓    Antistatic Uni-Tritanium ✓  Block of Corundum Tritanium ◯   Antistatic Uni-Tritanium Nugget ◯   Block of Antistatic Uni-Tritanium ◯
 
 Geological Notes of When ✕
 
@@ -59,9 +61,11 @@ Machine gun turret ✕    Autocannon turret ✕
 
 即将到来的物品:
 
-牛至叶 ✓
-抗静电膏 ✓   抗静电覆层 ✓   抗静电单钛 ✓
-煤簇 ✓       晶格覆层 ✓    刚玉三钛 ✓
+草叶质盔甲 ✕
+
+牛至叶 ✓     抗静电膏 ✓     抗静电覆层 ✓
+煤簇 ✓       晶格覆层 ✓
+刚玉三钛 ✓   抗静电单钛 ✓   刚玉三钛块 ◯    抗静电单钛粒 ◯   抗静电单钛块 ◯
 
 他的地质笔记 ✕
 
@@ -130,8 +134,13 @@ Components of tools. ✓                  Involving: Handle, Reinforced Handle
 Tritanium Weapons/Tools/Armor. ✓        Involving: Classic nine-piece set.
 Uni-Tritanium Weapons/Tools/Armor. ✓    Involving: Classic nine-piece set.
 
-Wraps of Tritanium and Uni-Tritanium. ✓     Involving: Leaf of Oregano, Antistatic Paste, Antistatic Coat, Antistatic Uni-Tritanium, Cluster of Coals, Lattice Coat, Corundum Tritanium
+Leaf Armor. ✕   Involving: Classic four-piece set of armor.
+
+Materials for wrapping Tritanium. ✓         Involving: Leaf of Oregano, Antistatic Paste, Antistatic Coat
+Materials for wrapping Uni-Tritanium. ✓     Involving: Cluster of Coals, Lattice Coat
+Wrapping of Tritanium and Uni-Tritanium. ◯  Involving: Corundum Tritanium, Antistatic Uni-Tritanium, Block of Corundum Tritanium, Antistatic Uni-Tritanium Nugget, Block of Antistatic Uni-Tritanium
 Substitutions for vanilla materials. ◯      Involving: Several JSON tags and overrides of many vanilla recipes.
+Interactions related to Beacon. ◯           Involving: Set tags related to the Beacon for items and blocks and modify the GUI of the Beacon.
 
 Guidance Brochure. ✕    Involving: Geological Notes of When
 
@@ -186,8 +195,13 @@ Sentry turrets. ✕       Involving: Machine gun turret, Autocannon turret
 三钛武器/工具/盔甲。 ✓   涉及: 经典九件套。
 单钛武器/工具/盔甲。 ✓   涉及: 经典九件套。
 
-三钛和单钛的包装。 ✓   涉及: 牛至叶, 抗静电膏, 抗静电覆层, 抗静电单钛, 煤簇, 晶格覆层, 刚玉三钛
-原版材料的代替品。 ◯   涉及: 若干JSON标签和很多原版合成配方的覆写。
+草叶质盔甲。 ✕   涉及: 经典盔甲四件套。
+
+包装三钛的材料。 ✓     涉及: 牛至叶, 抗静电膏, 抗静电覆层
+包装单钛的材料。 ✓     涉及: 煤簇, 晶格覆层
+包装的三钛和单钛。 ◯   涉及: 刚玉三钛, 抗静电单钛, 刚玉三钛块, 抗静电单钛粒, 抗静电单钛块
+作原版材料代替品。 ◯   涉及: 若干JSON标签和很多原版合成配方的覆写。
+信标相关互动。 ◯       涉及: 为物品和方块设置与信标相关的标签并修改信标的用户界面。
 
 指导手册。 ✕   涉及: 他的地质笔记
 
