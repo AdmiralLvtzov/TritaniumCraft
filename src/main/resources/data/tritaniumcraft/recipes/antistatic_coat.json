@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "tritaniumcraft:antistatic_paste"
+  },
+  "result": {
+    "item": "tritaniumcraft:antistatic_coat"
+  }
+}

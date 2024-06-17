@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tritaniumcraft:unitritanium"
+    },
+    {
+      "item": "tritaniumcraft:antistatic_coat"
+    }
+  ],
+  "result": {
+    "item": "tritaniumcraft:antistatic_unitritanium"
+  }
+}
