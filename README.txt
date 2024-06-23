@@ -22,7 +22,7 @@ The mod is completely open source and non-profit. It adopts the license GNU Gene
 
 Upcoming items:
 
-Leaf Armor ✕
+Foliage Armor ✕
 
 Leaf of Oregano ✓       Antistatic Paste ✓          Antistatic Coat ✓
 Cluster of Coals ✓      Lattice Coat ✓
@@ -61,7 +61,7 @@ Machine gun turret ✕    Autocannon turret ✕
 
 即将到来的物品:
 
-草叶质盔甲 ✕
+叶质盔甲 ✕
 
 牛至叶 ✓     抗静电膏 ✓     抗静电覆层 ✓
 煤簇 ✓       晶格覆层 ✓
@@ -134,7 +134,7 @@ Components of tools. ✓                  Involving: Handle, Reinforced Handle
 Tritanium Weapons/Tools/Armor. ✓        Involving: Classic nine-piece set.
 Uni-Tritanium Weapons/Tools/Armor. ✓    Involving: Classic nine-piece set.
 
-Leaf Armor. ✕   Involving: Classic four-piece set of armor.
+Foliage Armor. ✕   Involving: Classic four-piece set of armor.
 
 Materials for wrapping Tritanium. ✓         Involving: Leaf of Oregano, Antistatic Paste, Antistatic Coat
 Materials for wrapping Uni-Tritanium. ✓     Involving: Cluster of Coals, Lattice Coat
@@ -195,7 +195,7 @@ Sentry turrets. ✕       Involving: Machine gun turret, Autocannon turret
 三钛武器/工具/盔甲。 ✓   涉及: 经典九件套。
 单钛武器/工具/盔甲。 ✓   涉及: 经典九件套。
 
-草叶质盔甲。 ✕   涉及: 经典盔甲四件套。
+叶质盔甲。 ✕   涉及: 经典盔甲四件套。
 
 包装三钛的材料。 ✓     涉及: 牛至叶, 抗静电膏, 抗静电覆层
 包装单钛的材料。 ✓     涉及: 煤簇, 晶格覆层
