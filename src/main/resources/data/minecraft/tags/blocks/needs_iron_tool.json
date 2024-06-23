@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-    "tritaniumcraft:block_of_tritanium"
+    "tritaniumcraft:block_of_tritanium",
+    "tritaniumcraft:block_of_corundum_tritanium"
   ]
 }

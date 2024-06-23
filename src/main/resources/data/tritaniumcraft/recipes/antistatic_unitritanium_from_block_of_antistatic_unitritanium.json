@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "antistatic_unitritanium",
+  "ingredients": [
+    {
+      "item": "tritaniumcraft:block_of_antistatic_unitritanium"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "tritaniumcraft:antistatic_unitritanium"
+  }
+}

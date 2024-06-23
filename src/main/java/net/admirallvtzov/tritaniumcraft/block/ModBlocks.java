@@ -58,6 +58,18 @@ public class ModBlocks {
                     .requiresCorrectToolForDrops()),
             ModCreativeModeTab.BLOCK_TAB_OF_TRITANIUMCRAFT);
 
+    public static final RegistryObject<Block> BLOCK_OF_CORUNDUM_TRITANIUM = registerBlock("block_of_corundum_tritanium", () -> new Block(
+            BlockBehaviour.Properties.of(Material.METAL)
+                    .strength(5f)
+                    .requiresCorrectToolForDrops()),
+            ModCreativeModeTab.BLOCK_TAB_OF_TRITANIUMCRAFT);
+
+    public static final RegistryObject<Block> BLOCK_OF_ANTISTATIC_UNITRITANIUM = registerBlock("block_of_antistatic_unitritanium", () -> new Block(
+            BlockBehaviour.Properties.of(Material.METAL)
+                    .strength(5f)
+                    .requiresCorrectToolForDrops()),
+            ModCreativeModeTab.BLOCK_TAB_OF_TRITANIUMCRAFT);
+
     public static final RegistryObject<LiquidBlock> BLOCK_OF_COVALENT_BOND_STABILIZER = BLOCKS.register("block_of_covalent_bond_stabilizer", () -> new LiquidBlock(
             ModFluids.STILL_COVALENT_BOND_STABILIZER,
             BlockBehaviour.Properties.copy(Blocks.WATER)));

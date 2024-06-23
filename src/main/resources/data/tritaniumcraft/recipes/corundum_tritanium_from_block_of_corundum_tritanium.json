@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "corundum_tritanium",
+  "ingredients": [
+    {
+      "item": "tritaniumcraft:block_of_corundum_tritanium"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "tritaniumcraft:corundum_tritanium"
+  }
+}
