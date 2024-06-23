@@ -26,6 +26,14 @@ public class ModPlacedFeatures {
                     HeightRangePlacement.triangle(VerticalAnchor.absolute(-128), VerticalAnchor.absolute(0))
             )));
 
+    /*
+
+        The generation of ores in the current version of Minecraft doesn't support the distribution of a right triangle, only equilateral triangle was viable.
+
+The only way to achieve the distribution of a right triangle is to set the lowest value of y-axis beyond the bottom of the world, and make the midpoint equal to the bottom of the world simultaneously.
+
+    */
+
     public static final RegistryObject<PlacedFeature> PLACEMENT_OF_BLOCK_OF_RAW_TRITANIUM = PLACED_FEATURES.register("placement_of_block_of_raw_tritanium", () -> new PlacedFeature(
             ModConfiguredFeatures.BLOCK_OF_RAW_TRITANIUM.getHolder().get(),
             commonOrePlacement(1,

@@ -39,11 +39,11 @@ public class StabilizerItem extends Item {
 
             /*
 
-                MobEffectInstance seems to be something static or something like a pointer.
+                The MobEffectInstance here seems to be a reference.
 
-                After the instance is used, its content will be cleared or destroyed and the instance can't be used again.
+                After it was used, its content will be destroyed and the effect can't be applied again.
 
-                So here it's necessary to record configurations and generate a instance every time.
+                So it's necessary to record configurations and generate an instance every time.
 
             */
 

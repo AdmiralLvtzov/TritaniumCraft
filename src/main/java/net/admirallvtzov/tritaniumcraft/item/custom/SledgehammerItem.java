@@ -28,11 +28,11 @@ public class SledgehammerItem extends Item implements IForgeItem {
 
         /*
 
-            The pStack passed in also seems to be something static or something like a pointer.
+            The pStack passed in seems to be a reference.
 
-            After the synthesis is completed, this ItemStack will be cleared or destroyed and it can't be used again.
+            After the synthesis is completed, this ItemStack will be destroyed and it can't be used again.
 
-            Therefore, pStack can't be directly returned here, a new dedicated instance is necessary.
+            Therefore, pStack can't be directly returned here, a new copy is necessary.
 
         */
 
