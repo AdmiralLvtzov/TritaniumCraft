@@ -219,6 +219,9 @@ public class ModItems {
     public static final RegistryObject<Item> ANTISTATIC_UNITRITANIUM = ITEMS.register("antistatic_unitritanium", () -> new Item(
             new Item.Properties().tab(ModCreativeModeTab.ITEM_TAB_OF_TRITANIUMCRAFT)));
 
+    public static final RegistryObject<Item> ANTISTATIC_UNITRITANIUM_NUGGET = ITEMS.register("antistatic_unitritanium_nugget", () -> new Item(
+            new Item.Properties().tab(ModCreativeModeTab.ITEM_TAB_OF_TRITANIUMCRAFT)));
+
     public static final RegistryObject<Item> COVALENT_BOND_STABILIZER_BUCKET = ITEMS.register("covalent_bond_stabilizer_bucket", () -> new BucketItem(
             ModFluids.STILL_COVALENT_BOND_STABILIZER,
             new Item.Properties().tab(ModCreativeModeTab.ITEMS_UNDER_DEV_OF_TRITANIUMCRAFT)

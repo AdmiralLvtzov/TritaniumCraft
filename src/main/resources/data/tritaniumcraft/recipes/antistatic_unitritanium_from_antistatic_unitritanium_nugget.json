@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "antistatic_unitritanium",
+  "key": {
+    "#": {
+      "item": "tritaniumcraft:antistatic_unitritanium_nugget"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "tritaniumcraft:antistatic_unitritanium"
+  }
+}

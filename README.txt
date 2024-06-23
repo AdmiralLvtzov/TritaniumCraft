@@ -26,7 +26,7 @@ Foliage Armor ✕
 
 Leaf of Oregano ✓       Antistatic Paste ✓          Antistatic Coat ✓
 Cluster of Coals ✓      Lattice Coat ✓
-Corundum Tritanium ✓    Antistatic Uni-Tritanium ✓  Block of Corundum Tritanium ◯   Antistatic Uni-Tritanium Nugget ◯   Block of Antistatic Uni-Tritanium ◯
+Corundum Tritanium ✓    Antistatic Uni-Tritanium ✓  Block of Corundum Tritanium ◯   Antistatic Uni-Tritanium Nugget ✓   Block of Antistatic Uni-Tritanium ◯
 
 Geological Notes of When ✕
 
@@ -65,7 +65,7 @@ Machine gun turret ✕    Autocannon turret ✕
 
 牛至叶 ✓     抗静电膏 ✓     抗静电覆层 ✓
 煤簇 ✓       晶格覆层 ✓
-刚玉三钛 ✓   抗静电单钛 ✓   刚玉三钛块 ◯    抗静电单钛粒 ◯   抗静电单钛块 ◯
+刚玉三钛 ✓   抗静电单钛 ✓   刚玉三钛块 ◯    抗静电单钛粒 ✓   抗静电单钛块 ◯
 
 他的地质笔记 ✕
 
