@@ -2,17 +2,18 @@
   "type": "minecraft:crafting_shaped",
   "key": {
     "#": {
-      "item": "minecraft:stick"
+      "item": "minecraft:torch"
     },
     "X": {
       "tag": "tritaniumcraft:iron_nugget_or_its_substitutions"
     }
   },
   "pattern": [
-    "X",
-    "#"
+    "XXX",
+    "X#X",
+    "XXX"
   ],
   "result": {
-    "item": "tritaniumcraft:handle"
+    "item": "minecraft:lantern"
   }
 }

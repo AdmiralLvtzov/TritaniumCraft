@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "I": {
+      "tag": "tritaniumcraft:iron_block_or_its_substitutions"
+    },
+    "i": {
+      "tag": "tritaniumcraft:iron_ingot_or_its_substitutions"
+    }
+  },
+  "pattern": [
+    "III",
+    " i ",
+    "iii"
+  ],
+  "result": {
+    "item": "minecraft:anvil"
+  }
+}

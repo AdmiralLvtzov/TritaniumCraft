@@ -1,18 +1,19 @@
 {
   "type": "minecraft:crafting_shaped",
   "key": {
-    "#": {
-      "item": "minecraft:stick"
+    "I": {
+      "tag": "tritaniumcraft:iron_ingot_or_its_substitutions"
     },
-    "X": {
+    "N": {
       "tag": "tritaniumcraft:iron_nugget_or_its_substitutions"
     }
   },
   "pattern": [
-    "X",
-    "#"
+    "N",
+    "I",
+    "N"
   ],
   "result": {
-    "item": "tritaniumcraft:handle"
+    "item": "minecraft:chain"
   }
 }

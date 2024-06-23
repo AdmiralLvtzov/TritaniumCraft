@@ -5,14 +5,16 @@
       "item": "minecraft:stick"
     },
     "X": {
-      "tag": "tritaniumcraft:iron_nugget_or_its_substitutions"
+      "tag": "tritaniumcraft:iron_ingot_or_its_substitutions"
     }
   },
   "pattern": [
-    "X",
-    "#"
+    "X X",
+    "X#X",
+    "X X"
   ],
   "result": {
-    "item": "tritaniumcraft:handle"
+    "count": 16,
+    "item": "minecraft:rail"
   }
 }

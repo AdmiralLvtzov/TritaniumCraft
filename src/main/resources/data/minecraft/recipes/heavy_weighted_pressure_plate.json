@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "tag": "tritaniumcraft:iron_ingot_or_its_substitutions"
+    }
+  },
+  "pattern": [
+    "##"
+  ],
+  "result": {
+    "item": "minecraft:heavy_weighted_pressure_plate"
+  }
+}
