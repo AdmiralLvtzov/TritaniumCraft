@@ -22,13 +22,9 @@ The mod is completely open source and non-profit. It adopts the license GNU Gene
 
 Upcoming items:
 
-Sandpaper ✕     File ✕  Dust of Lapis Lazuli ✕
+Sandpaper ◯     File ◯  Dust of Lapis Lazuli ◯
 
 Foliage Armor ✕
-
-Leaf of Oregano ✓       Antistatic Paste ✓          Antistatic Coat ✓
-Cluster of Coals ✓      Lattice Coat ✓
-Corundum Tritanium ✓    Antistatic Uni-Tritanium ✓  Block of Corundum Tritanium ✓   Antistatic Uni-Tritanium Nugget ✓   Block of Antistatic Uni-Tritanium ✓
 
 Geological Notes of When ✕
 
@@ -63,13 +59,9 @@ Machine gun turret ✕    Autocannon turret ✕
 
 即将到来的物品:
 
-砂纸 ✕   锉刀 ✕   青金石粉 ✕
+砂纸 ◯   锉刀 ◯   青金石粉 ◯
 
 叶质盔甲 ✕
-
-牛至叶 ✓        抗静电膏 ✓        抗静电覆层 ✓
-煤簇 ✓          晶格覆层 ✓
-刚玉三钛合金 ✓   抗静电单钛合金 ✓   刚玉三钛块 ✓    抗静电单钛粒 ✓   抗静电单钛块 ✓
 
 他的地质笔记 ✕
 
@@ -126,7 +118,7 @@ Ore crushing. ✓         Involving: Sledgehammer, Raw Tritanium
 Ore smelting. ✓     Involving: Tritanium Ore, Deepslate Tritanium Ore, Ilmentrite, Raw Tritanium, Unstable Uni-Tritanium
 Ore blasting. ✓     Involving: Tritanium Ore, Deepslate Tritanium Ore, Ilmentrite, Raw Tritanium, Unstable Uni-Tritanium
 
-Lapis Lazuli related. ✕                 Involving: Sandpaper, File, Dust of Lapis Lazuli
+Lapis Lazuli related. ◯                 Involving: Sandpaper, File, Dust of Lapis Lazuli
 Synthesis of stabilizers. ✓             Involving: Covalent Bond Stabilizer, Virtual Single Bond Stabilizer
 Expanded features for stabilizers. ✓    Involving: The drinking feature and returns after crafting.
 
@@ -188,7 +180,7 @@ Sentry turrets. ✕       Involving: Machine gun turret, Autocannon turret
 矿石熔炉烧炼。 ✓   涉及: 三钛矿石, 深层三钛矿石, 三钛铁矿, 粗质三钛, 不稳定的单钛合金
 矿石高炉烧炼。 ✓   涉及: 三钛矿石, 深层三钛矿石, 三钛铁矿, 粗质三钛, 不稳定的单钛合金
 
-青金石相关。 ✕       涉及: 砂纸, 锉刀, 青金石粉
+青金石相关。 ◯       涉及: 砂纸, 锉刀, 青金石粉
 稳定剂合成。 ✓       涉及: 共价键稳定剂, 虚拟单键稳定剂
 稳定剂扩展功能。 ✓   涉及: 饮用与合成返还
 
