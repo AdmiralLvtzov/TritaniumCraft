@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "lattice_coat",
+  "key": {
+    "#": {
+      "item": "tritaniumcraft:cluster_of_coals"
+    },
+    "X": {
+      "item": "minecraft:prismarine_shard"
+    }
+  },
+  "pattern": [
+    "X#X"
+  ],
+  "result": {
+    "count": 4,
+    "item": "tritaniumcraft:lattice_coat"
+  }
+}

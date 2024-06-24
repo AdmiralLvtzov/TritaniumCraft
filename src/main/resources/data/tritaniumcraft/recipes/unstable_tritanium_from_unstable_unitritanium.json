@@ -2,16 +2,19 @@
   "type": "minecraft:crafting_shaped",
   "key": {
     "#": {
-      "item": "minecraft:stone"
+      "item": "minecraft:cobblestone"
     },
     "X": {
       "item": "tritaniumcraft:unstable_unitritanium"
+    },
+    "@": {
+      "item": "minecraft:cobbled_deepslate"
     }
   },
   "pattern": [
     "###",
     "XXX",
-    "###"
+    "@@@"
   ],
   "result": {
     "item": "tritaniumcraft:unstable_tritanium"
