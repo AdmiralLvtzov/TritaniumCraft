@@ -145,7 +145,7 @@ Materials for wrapping Tritanium. ✓         Involving: Leaf of Oregano, Antist
 Materials for wrapping Uni-Tritanium. ✓     Involving: Cluster of Coals, Lattice Coat
 Wrapping of Tritanium and Uni-Tritanium. ✓  Involving: Corundum Tritanium, Antistatic Uni-Tritanium, Block of Corundum Tritanium, Antistatic Uni-Tritanium Nugget, Block of Antistatic Uni-Tritanium
 Substitutions for vanilla materials. ✓      Involving: Several JSON tags and overrides of many vanilla recipes.
-Interactions of above items. ◯              Involving: Interactions related to the Beacon and the Composter.
+Interactions of above items. ✓              Involving: Interactions related to the Beacon and the Composter.
 
 Guidance Brochure. ✕    Involving: Geological Notes of When
 
@@ -207,7 +207,7 @@ Sentry turrets. ✕       Involving: Machine gun turret, Autocannon turret
 包装单钛的材料。 ✓     涉及: 煤簇, 晶格覆层
 包装的三钛和单钛。 ✓   涉及: 刚玉三钛合金, 抗静电单钛合金, 刚玉三钛块, 抗静电单钛粒, 抗静电单钛块
 作原版材料代替品。 ✓   涉及: 若干JSON标签和很多原版合成配方的覆写。
-上述物品的互动。 ◯     涉及: 信标相关互动和堆肥桶相关互动。
+上述物品的互动。 ✓     涉及: 信标相关互动和堆肥桶相关互动。
 
 指导手册。 ✕   涉及: 他的地质笔记
 
