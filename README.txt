@@ -22,6 +22,8 @@ The mod is completely open source and non-profit. It adopts the license GNU Gene
 
 Upcoming items:
 
+Sandpaper ✕     File ✕  Dust of Lapis Lazuli ✕
+
 Foliage Armor ✕
 
 Leaf of Oregano ✓       Antistatic Paste ✓          Antistatic Coat ✓
@@ -60,6 +62,8 @@ Impact Grenade ✕        Flash Grenade ✕         Stun Grenade ✕  Snapshot G
 Machine gun turret ✕    Autocannon turret ✕
 
 即将到来的物品:
+
+砂纸 ✕   锉刀 ✕   青金石粉 ✕
 
 叶质盔甲 ✕
 
@@ -122,6 +126,7 @@ Ore crushing. ✓         Involving: Sledgehammer, Raw Tritanium
 Ore smelting. ✓     Involving: Tritanium Ore, Deepslate Tritanium Ore, Ilmentrite, Raw Tritanium, Unstable Uni-Tritanium
 Ore blasting. ✓     Involving: Tritanium Ore, Deepslate Tritanium Ore, Ilmentrite, Raw Tritanium, Unstable Uni-Tritanium
 
+Lapis Lazuli related. ✕                 Involving: Sandpaper, File, Dust of Lapis Lazuli
 Synthesis of stabilizers. ✓             Involving: Covalent Bond Stabilizer, Virtual Single Bond Stabilizer
 Expanded features for stabilizers. ✓    Involving: The drinking feature and returns after crafting.
 
@@ -140,7 +145,7 @@ Materials for wrapping Tritanium. ✓         Involving: Leaf of Oregano, Antist
 Materials for wrapping Uni-Tritanium. ✓     Involving: Cluster of Coals, Lattice Coat
 Wrapping of Tritanium and Uni-Tritanium. ✓  Involving: Corundum Tritanium, Antistatic Uni-Tritanium, Block of Corundum Tritanium, Antistatic Uni-Tritanium Nugget, Block of Antistatic Uni-Tritanium
 Substitutions for vanilla materials. ✓      Involving: Several JSON tags and overrides of many vanilla recipes.
-Interactions related to Beacon. ◯           Involving: Set tags related to the Beacon for items and blocks and modify the GUI of the Beacon.
+Interactions of above items. ◯              Involving: Interactions related to the Beacon and the Composter.
 
 Guidance Brochure. ✕    Involving: Geological Notes of When
 
@@ -183,6 +188,7 @@ Sentry turrets. ✕       Involving: Machine gun turret, Autocannon turret
 矿石熔炉烧炼。 ✓   涉及: 三钛矿石, 深层三钛矿石, 三钛铁矿, 粗质三钛, 不稳定的单钛合金
 矿石高炉烧炼。 ✓   涉及: 三钛矿石, 深层三钛矿石, 三钛铁矿, 粗质三钛, 不稳定的单钛合金
 
+青金石相关。 ✕       涉及: 砂纸, 锉刀, 青金石粉
 稳定剂合成。 ✓       涉及: 共价键稳定剂, 虚拟单键稳定剂
 稳定剂扩展功能。 ✓   涉及: 饮用与合成返还
 
@@ -201,7 +207,7 @@ Sentry turrets. ✕       Involving: Machine gun turret, Autocannon turret
 包装单钛的材料。 ✓     涉及: 煤簇, 晶格覆层
 包装的三钛和单钛。 ✓   涉及: 刚玉三钛合金, 抗静电单钛合金, 刚玉三钛块, 抗静电单钛粒, 抗静电单钛块
 作原版材料代替品。 ✓   涉及: 若干JSON标签和很多原版合成配方的覆写。
-信标相关互动。 ◯       涉及: 为物品和方块设置与信标相关的标签并修改信标的用户界面。
+上述物品的互动。 ◯     涉及: 信标相关互动和堆肥桶相关互动。
 
 指导手册。 ✕   涉及: 他的地质笔记
 
