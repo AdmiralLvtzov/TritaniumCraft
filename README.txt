@@ -26,6 +26,8 @@ Sandpaper ◯     File ◯  Dust of Lapis Lazuli ◯
 
 Foliage Armor ✕
 
+Set of Screws ✕     Reinforced Glass ✕
+
 Geological Notes of When ✕
 
 Oregano ✕               Industrial Hemp ✕
@@ -62,6 +64,8 @@ Machine gun turret ✕    Autocannon turret ✕
 砂纸 ◯   锉刀 ◯   青金石粉 ◯
 
 叶质盔甲 ✕
+
+螺丝组 ✕   防爆玻璃 ✕
 
 他的地质笔记 ✕
 
@@ -139,6 +143,8 @@ Wrapping of Tritanium and Uni-Tritanium. ✓  Involving: Corundum Tritanium, Ant
 Substitutions for vanilla materials. ✓      Involving: Several JSON tags and overrides of many vanilla recipes.
 Interactions of above items. ✓              Involving: Interactions related to the Beacon and the Composter.
 
+Reinforced Glass. ✕     Involving: Set of Screws, Reinforced Glass
+
 Guidance Brochure. ✕    Involving: Geological Notes of When
 
 Non-foodstuff crops. ✕      Involving: Oregano, Industrial Hemp
@@ -182,7 +188,7 @@ Sentry turrets. ✕       Involving: Machine gun turret, Autocannon turret
 
 青金石相关。 ◯       涉及: 砂纸, 锉刀, 青金石粉
 稳定剂合成。 ✓       涉及: 共价键稳定剂, 虚拟单键稳定剂
-稳定剂扩展功能。 ✓   涉及: 饮用与合成返还
+稳定剂扩展功能。 ✓   涉及: 饮用与合成返还。
 
 不稳三钛合成。 ✓   涉及: 不稳定的单钛合金, 不稳定的三钛合金
 合金的稳定化。 ✓   涉及: 不稳定的合金, 稳定剂, 稳定的合金
@@ -200,6 +206,8 @@ Sentry turrets. ✕       Involving: Machine gun turret, Autocannon turret
 包装的三钛和单钛。 ✓   涉及: 刚玉三钛合金, 抗静电单钛合金, 刚玉三钛块, 抗静电单钛粒, 抗静电单钛块
 作原版材料代替品。 ✓   涉及: 若干JSON标签和很多原版合成配方的覆写。
 上述物品的互动。 ✓     涉及: 信标相关互动和堆肥桶相关互动。
+
+防爆玻璃。 ✕   涉及: 螺丝组, 防爆玻璃
 
 指导手册。 ✕   涉及: 他的地质笔记
 
